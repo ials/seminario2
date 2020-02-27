@@ -2,7 +2,7 @@
 # Maestría en Geomática
 # UNAL - 2020 - Primer Período Académico 
 
-Este es un curso que se dictará entre el  2 de Febrero y el 2 de Julio.
+Este es un curso que se dictará entre el  2 de Febrero y el 26 de Junio.
 Las actividades presenciales son los días lunes entre 2:00 pm y 6:00 pm.
 
 ## Objetivos del curso
@@ -15,8 +15,7 @@ Brindar elementos conceptuales y prácticos que apoyen la escritura del document
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
-  - Session 0.  [Course Intro - Slides + Video](https://tinyurl.com/y5hvb9o4)  (**needs log in to Google Drive with unal e-mail account**)
-  
+ 
 - Práctica:
   - Students write a synthesis of their research project
   - Students start writing first chapter of the Master Thesis
