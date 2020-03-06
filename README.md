@@ -26,6 +26,8 @@ Brindar elementos conceptuales y prácticos que apoyen la escritura del document
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
   
+- Lecturer reviews repositories for master thesis on geoinformation science  at University Twente and Wageningen University Research
+  
 - Práctica:
   Students continue writing first (or any) chapter of the Master Thesis
  
