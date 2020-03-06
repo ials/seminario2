@@ -23,6 +23,9 @@ Brindar elementos conceptuales y prácticos que apoyen la escritura del document
 
 ### Semana Marzo 10 - Marzo 14
 
+- Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
+  - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
+  
 - Práctica:
   Students continue writing first (or any) chapter of the Master Thesis
  
