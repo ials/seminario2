@@ -99,6 +99,8 @@ SEMANA SANTA
 
 - Lecturer explains what to write in third chapter of the Master Thesis
 
+- Lecture rewiews the essential characteristics of a [good geospatial workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
+
 - Práctica:
   Students start writing third chapter of the Master Thesis
 
