@@ -36,6 +36,8 @@ Brindar elementos conceptuales y prácticos que apoyen la escritura del document
 - Lecturer reminds what to write in first chapter of the Master Thesis:
   - [Introduction](https://student.unsw.edu.au/introductions)
 
+- Lecturer reviews repository for master thesis on geomatics at [TUDelft](https://repository.tudelft.nl/)
+
 - Práctica:
   Students **revise** the first chapter (or any) of the Master Thesis
 
