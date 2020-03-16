@@ -33,13 +33,16 @@ Brindar elementos conceptuales y prácticos que apoyen la escritura del document
  
 ### Semana 3 - Marzo 17 - Marzo 21
 
-- Lecturer reminds what to write in first chapter of the Master Thesis:
-  - [Introduction](https://student.unsw.edu.au/introductions)
+This week there are no face-to-face activities. Instead, students will independently develop the following tasks:  
 
-- Lecturer reviews repository for master thesis on geomatics at [TUDelft](https://repository.tudelft.nl/)
+- Students review  what to write in the first chapter of their Master Thesis:
+  - [Introduction (USW, 2020)](https://student.unsw.edu.au/introductions)
+  - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing
 
-- Práctica:
-  Students **revise** the first chapter (or any) of the Master Thesis
+- Students who lack reference material for their master thesis spend time reviewing the repository for master in geomatics theses at [TUDelft](https://repository.tudelft.nl/). Make sure to check the **education repository**
+
+- *The most important activity*:
+  Students **revise** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)   (Please do no forget to track changes in your document) 
 
 ### Semana 4 - Marzo 24 - Marzo 28
 
