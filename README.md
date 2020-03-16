@@ -37,7 +37,7 @@ This week there are no face-to-face activities. Instead, students will independe
 
 - Students review  what to write in the first chapter of their Master Thesis:
   - [Introduction (USW, 2020)](https://student.unsw.edu.au/introductions)
-  - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing
+  - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing)
 
 - Students who lack reference material for their master thesis spend time reviewing the repository for master in geomatics theses at [TUDelft](https://repository.tudelft.nl/). Make sure to check the **education repository**
 
