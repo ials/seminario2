@@ -44,14 +44,15 @@ This week there are no face-to-face activities. Instead, students will independe
 - *The most important activity*:
   Students **revise** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)   (Please do no forget to track changes in your document) 
 
-### Semana 4 - Marzo 24 - Marzo 28
+### Semana 4 - Marzo 23 - Marzo 28
 
 - Práctica:
   Students  **proofread** the first chapter (or any) of the Master Thesis
 
 ### Semana 5 - Marzo 30 -  Abril 3
 
-- All students **present** the first chapter of the Master Thesis 
+- Students send the first chapter via e-mail  using the template provided by the lecturer
+- All students **present** the first chapter of the Master Thesis (*no more than 8 slides*)
 - Students respond to  first chapter's feedback 
 - Students plan second iteration of first chapter
 
