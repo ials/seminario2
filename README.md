@@ -67,7 +67,7 @@ SEMANA SANTA
   - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)(Kaminstein, 2017)
   
 - Práctica:
-  - *Seminario II*'s students start writing second chapter of their thesis
+  - *Seminario II*'s students **start writing** second chapter of their thesis
   - *Tesis*' students present the second chapter of their thesis
 
 ### Semana 8 - Abril 20 - Abril 24
@@ -76,22 +76,26 @@ SEMANA SANTA
   - [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
 
 - Práctica:
-  Students continue writing second chapter of the Master Thesis
+  Students **continue writing** second chapter of the Master Thesis
  
 ### Semana 9 - Abril 27 - Mayo 1
 
+- [Basic steps of doing a literature review](https://research.library.gsu.edu/c.php?g=115595&p=754162)
+- [A few tips on conducting the literature review](http://advice.writing.utoronto.ca/types-of-writing/literature-review/)
+- *Advanced students* presents their chapter 2
+
 - Práctica:
-  Students continue writing second chapter of the Master Thesis
+  Students **continue writing** second chapter of the Master Thesis
 
 ### Semana 10 - Mayo 4 - Mayo 8
 
 - Práctica:
-  Students revise second chapter of the Master Thesis
+  Students **revise** second chapter of the Master Thesis
  
 ### Semana 11 - Mayo 11 - Mayo 15
 
 - Práctica:
-  Students proofread second chapter of the Master Thesis
+  Students **proofread** second chapter of the Master Thesis
 
 ### Semana 12 - Mayo 18 - Mayo 22
 
