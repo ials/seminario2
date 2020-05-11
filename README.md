@@ -96,7 +96,7 @@ SEMANA SANTA
 - [Virtual Class on 11 May](https://meet.google.com/qjq-jius-rwk)
   - Review:
     - [How to write a literature review](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
-    - [Revising draft]()
+    - [Revising drafts](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/)
 - Práctica:
   Students **proofread** second chapter of the Master Thesis
 
