@@ -93,7 +93,10 @@ SEMANA SANTA
   Students **revise** second chapter of the Master Thesis
  
 ### Semana 11 - Mayo 11 - Mayo 15
-
+- [Virtual Class on 11 May](https://meet.google.com/qjq-jius-rwk)
+  - Review:
+    - [How to write a literature review](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
+    - [Revising draft]()
 - Práctica:
   Students **proofread** second chapter of the Master Thesis
 
