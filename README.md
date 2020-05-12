@@ -102,9 +102,13 @@ SEMANA SANTA
 
 ### Semana 12 - Mayo 18 - Mayo 22
 
-- Students present the second chapter of the Master Thesis
-- Students respond to  second chapter's feedback
-- Students plan second iteration of second chapter
+- There is no online class during this week
+- Students send a pdf file with the new version of their Master Thesis via e-mail not later than 18th May 2020 at 11:59 pm:
+  - Name the file as follows:   **Cap1_2_v0.X_Nombre_Apellido.pdf**
+  - Summarize main changes in the first page
+  - Include new iteration of chapter 1 with changes control
+  - Include chapter 2
+
 
 ### Semana 13 - Mayo 25 - Mayo 29
 
