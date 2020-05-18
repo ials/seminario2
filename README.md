@@ -102,7 +102,6 @@ SEMANA SANTA
 
 ### Semana 12 - Mayo 18 - Mayo 22
 
-- There is no online class during this week
 - Students send a pdf file with the new version of their Master Thesis via e-mail not later than 18th May 2020 at 11:59 pm:
   - Name the file as follows:   **Cap1_2_v0.X_Nombre_Apellido.pdf**
   - Summarize main changes in the first page
