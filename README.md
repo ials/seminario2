@@ -108,8 +108,12 @@ SEMANA SANTA
   - Include new iteration of chapter 1 with changes control
   - Include chapter 2
 
-
 ### Semana 13 - Mayo 25 - Mayo 29
+
+- Lecturer gives feedback on Chapters 1 &  2
+- Students revise Chapters 1 &  2
+
+### Semana 14 - Junio 1 - Junio 5
 
 - Lecturer explains what to write in third chapter of the Master Thesis
 
@@ -118,23 +122,18 @@ SEMANA SANTA
 - Práctica:
   Students start writing third chapter of the Master Thesis
 
-### Semana 14 - Junio 1 - Junio 5
+### Semana 15 - Junio 8  - Junio 12
 
 - Práctica:
   Students continue writing third chapter of the Master Thesis
 
-### Semana 15 - Junio 8  - Junio 12
-
-- Práctica:
-  Students revise third chapter of the Master Thesis
-
 ## Semana 16 - Junio 15 - Junio 19
 
 - Práctica:
-  Students proofread third chapter of the Master Thesis
+  Students revise & proofread third chapter of the Master Thesis
 
 ## Semana 17 - Junio 22 - Junio 26
 
-- Students present the third chapter of the Master Thesis
+- Students submit the third chapter of the Master Thesis (**Due on 22th June at 11:59 pm**)
 - Students respond to third chapter's feedback
 - Students plan second iteration of third chapter
