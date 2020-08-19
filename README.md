@@ -3,7 +3,7 @@
 # UNAL - 2020 - Segundo Período Académico 
 
 Este es un curso que se dictará entre el  26 de Agosto y el 11 de Diciembre.
-Las actividades presenciales son los días jueves entre 2:00 pm y 6:00 pm.
+Las clases son los días jueves entre 2:00 pm y 6:00 pm.
 
 ## Objetivos del curso
 
