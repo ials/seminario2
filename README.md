@@ -33,8 +33,6 @@ Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del do
  
 ### Semana 3 - Septiembre 7 - Septiembre 11
 
-This week there are no face-to-face activities. Instead, students will independently develop the following tasks:  
-
 - Students review  what to write in the first chapter of their Master Thesis:
   - [Introduction (USW, 2020)](https://student.unsw.edu.au/introductions)
   - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing)
@@ -51,7 +49,7 @@ This week there are no face-to-face activities. Instead, students will independe
 
 ### Semana 5 - Septiembre 21 -  Septiembre 25
 
-- Students send the first chapter via e-mail  using the template provided by the lecturer
+- Students send the first chapter via e-mail *before 23 September at 11:59 pm* using the template provided by the lecturer 
 - All students **present** the first chapter of the Master Thesis (*no more than 8 slides*)
 - Students respond to  first chapter's feedback 
 - Students plan second iteration of first chapter
@@ -101,7 +99,7 @@ This week there are no face-to-face activities. Instead, students will independe
 
 ### Semana 11 - Noviembre 2 - Noviembre 6
 
-- Students send a pdf file with the new version of their Master Thesis via e-mail not later than 18th May 2020 at 11:59 pm:
+- Students send a pdf file with the new version of their Master Thesis via e-mail not later than 5 November 2020 at 11:59 pm:
   - Name the file as follows:   **Cap1_2_v0.X_Nombre_Apellido.pdf**
   - Summarize main changes in the first page
   - Include new iteration of chapter 1 with changes control
@@ -133,7 +131,7 @@ This week there are no face-to-face activities. Instead, students will independe
 
 ## Semana 16 - Diciembre 7 - Diciembre 11
 
-- Students submit the third chapter of the Master Thesis (**Due on 22th June at 11:59 pm**)
+- Students submit the third chapter of the Master Thesis (**Due on 10 December at 11:59 pm**)
 - Students respond to third chapter's feedback
 - Students plan second iteration of third chapter
 
