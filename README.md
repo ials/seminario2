@@ -1,17 +1,17 @@
 # Bienvenidos al curso Seminario de Investigación II
 # Maestría en Geomática
-# UNAL - 2020 - Primer Período Académico 
+# UNAL - 2020 - Segundo Período Académico 
 
-Este es un curso que se dictará entre el  2 de Febrero y el 26 de Junio.
-Las actividades presenciales son los días lunes entre 2:00 pm y 6:00 pm.
+Este es un curso que se dictará entre el  26 de Agosto y el 11 de Diciembre.
+Las actividades presenciales son los días jueves entre 2:00 pm y 6:00 pm.
 
 ## Objetivos del curso
 
-Brindar elementos conceptuales y prácticos que apoyen la escritura del documento de tesis.
+Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del documento de tesis de maestría.
 
 ## Programación
 
-### Semana 1  Marzo 3 - Marzo 7
+### Semana 1  Agosto 24 - Agosto 28 
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
@@ -21,7 +21,7 @@ Brindar elementos conceptuales y prácticos que apoyen la escritura del document
   - Students start writing first chapter of the Master Thesis
   - If you are an advanced student you can start with a different chapter (**any**)
 
-### Semana Marzo 10 - Marzo 14
+### Semana 2 -  Agosto 31 - Septiembre 4
 
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
@@ -31,7 +31,7 @@ Brindar elementos conceptuales y prácticos que apoyen la escritura del document
 - Práctica:
   Students continue writing first (or any) chapter of the Master Thesis
  
-### Semana 3 - Marzo 17 - Marzo 21
+### Semana 3 - Septiembre 7 - Septiembre 11
 
 This week there are no face-to-face activities. Instead, students will independently develop the following tasks:  
 
@@ -44,23 +44,20 @@ This week there are no face-to-face activities. Instead, students will independe
 - *The most important activity*:
   Students **revise** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)   (Please do no forget to track changes in your document) 
 
-### Semana 4 - Marzo 23 - Marzo 28
+### Semana 4 - Septiembre 14 - Septiembre 18
 
 - Práctica:
   Students  **proofread** the first chapter (or any) of the Master Thesis
 
-### Semana 5 - Marzo 30 -  Abril 3
+### Semana 5 - Septiembre 21 -  Septiembre 25
 
 - Students send the first chapter via e-mail  using the template provided by the lecturer
 - All students **present** the first chapter of the Master Thesis (*no more than 8 slides*)
 - Students respond to  first chapter's feedback 
 - Students plan second iteration of first chapter
 
-### Semana 6 - Abril 6 - Abril 10  
+### Semana 6 - Septiembre 28 - Octubre 2  
 
-SEMANA SANTA 
-
-### Semana 7 - Abril 13 - Abril 17
 
 - Lecturer explains what to write in second chapter of the Master Thesis:
   - [What is a literature review?](https://student.unsw.edu.au/literature-review)
@@ -70,7 +67,7 @@ SEMANA SANTA
   - *Seminario II*'s students **start writing** second chapter of their thesis
   - *Tesis*' students present the second chapter of their thesis
 
-### Semana 8 - Abril 20 - Abril 24
+### Semana 7 - Octubre 5 - Octubre 9
 
 - Lecturer explains how examiners review a master thesis:
   - [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
@@ -78,7 +75,7 @@ SEMANA SANTA
 - Práctica:
   Students **continue writing** second chapter of the Master Thesis
  
-### Semana 9 - Abril 27 - Mayo 1
+### Semana 8 - Octubre 12 - Octubre 16
 
 - [Basic steps of doing a literature review](https://research.library.gsu.edu/c.php?g=115595&p=754162)
 - [A few tips on conducting the literature review](http://advice.writing.utoronto.ca/types-of-writing/literature-review/)
@@ -87,20 +84,22 @@ SEMANA SANTA
 - Práctica:
   Students **continue writing** second chapter of the Master Thesis
 
-### Semana 10 - Mayo 4 - Mayo 8
+### Semana 9 - Octubre 19 - Octubre 23
 
 - Práctica:
   Students **revise** second chapter of the Master Thesis
  
-### Semana 11 - Mayo 11 - Mayo 15
-- [Virtual Class on 11 May](https://meet.google.com/qjq-jius-rwk)
+### Semana 10 - Octubre 26 - Octubre 30
+- [Virtual Class](https://meet.google.com/qjq-jius-rwk)
+
   - Review:
     - [How to write a literature review](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
     - [Revising drafts](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/)
+    
 - Práctica:
   Students **proofread** second chapter of the Master Thesis
 
-### Semana 12 - Mayo 18 - Mayo 22
+### Semana 11 - Noviembre 2 - Noviembre 6
 
 - Students send a pdf file with the new version of their Master Thesis via e-mail not later than 18th May 2020 at 11:59 pm:
   - Name the file as follows:   **Cap1_2_v0.X_Nombre_Apellido.pdf**
@@ -108,12 +107,12 @@ SEMANA SANTA
   - Include new iteration of chapter 1 with changes control
   - Include chapter 2
 
-### Semana 13 - Mayo 25 - Mayo 29
+### Semana 12 - Noviembre 9 - Noviembre 13
 
 - Lecturer gives feedback on Chapters 1 &  2
 - Students revise Chapters 1 &  2
 
-### Semana 14 - Junio 1 - Junio 5
+### Semana 13 - Noviembre 16 - Noviembre 20
 
 - Lecturer explains what to write in third chapter of the Master Thesis
 
@@ -122,18 +121,23 @@ SEMANA SANTA
 - Práctica:
   Students start writing third chapter of the Master Thesis
 
-### Semana 15 - Junio 8  - Junio 12
+### Semana 14 - Noviembre 23  - Noviembre 27
 
 - Práctica:
   Students continue writing third chapter of the Master Thesis
 
-## Semana 16 - Junio 15 - Junio 19
+## Semana 15 - Noviembre 30 - Diciembre 4
 
 - Práctica:
   Students revise & proofread third chapter of the Master Thesis
 
-## Semana 17 - Junio 22 - Junio 26
+## Semana 16 - Diciembre 7 - Diciembre 11
 
 - Students submit the third chapter of the Master Thesis (**Due on 22th June at 11:59 pm**)
 - Students respond to third chapter's feedback
 - Students plan second iteration of third chapter
+
+## Semana 17 - Diciembre 17 - Publicación de notas
+
+- [Notas consolidadas](TBD)
+
