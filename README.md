@@ -15,6 +15,7 @@ Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del do
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
+    -[Meet recording](https://drive.google.com/file/d/16HK3BZ5h1iN8tZH5zuD88-5HM1_GpY05/view)
  
 - Práctica:
   - Students write a synthesis of their research project
