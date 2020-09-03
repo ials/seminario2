@@ -26,6 +26,7 @@ Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del do
 
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
+    - [Meet recording](https://drive.google.com/file/d/1CVeYKu9p4oinKbWk_3tSW3DPvkRac6rX/view)
   
 - Lecturer reviews repositories for master thesis on geoinformation science  at University Twente and Wageningen University Research
   
