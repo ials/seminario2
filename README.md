@@ -52,7 +52,7 @@ Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del do
 ### Semana 5 - Septiembre 21 -  Septiembre 25
 
 - Students send the first chapter via e-mail *before 23 September at 11:59 pm* using the template provided by the lecturer 
-- All students **present** the first chapter of the Master Thesis (*no more than 1 slide*)  [Three minutes presentation](Vhttp://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt)
+- All students **present** the first chapter of the Master Thesis (*no more than 1 slide*)  [Three minutes presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt)
 - Students respond to  first chapter's feedback 
 - Students plan second iteration of first chapter
 
