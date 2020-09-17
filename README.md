@@ -46,6 +46,8 @@ Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del do
 
 ### Semana 4 - Septiembre 14 - Septiembre 18
 
+- [Meet recording Sept. 16](https://drive.google.com/file/d/1rT30fDNR0mf7-1hyM-O_9ejeIgGmkK5D/view?usp=sharing)
+
 - Práctica:
   Students  **proofread** the first chapter (or any) of the Master Thesis
 
