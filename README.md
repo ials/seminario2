@@ -63,6 +63,11 @@ Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del do
 - Homework:
   - Students review first chapter's feedback 
   - Students plan & start second iteration of first chapter
+  
+- Readings:
+  - [The craft of scientific presentations](https://drive.google.com/file/d/14h-y4k9R3dhRRUyLOmuXDHbh7PaVbMIQ/view?usp=sharing)
+  - [Crop identification with Sentinel-2
+satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yrZRig/view?usp=sharing)
 
 ### Semana 6 - Septiembre 28 - Octubre 2  
 
