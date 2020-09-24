@@ -58,6 +58,8 @@ Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del do
 
 - All students **present** the first chapter (*or any*) of the Master Thesis (*no more than 1 slide*)  [Three minutes presentation](http://www.sussex.ac.uk/internal/doctoralschool/researcherdev/threeminthesis/preparing3mt)
 
+- [Meet recording 24.09](https://drive.google.com/file/d/1GI7Joomo32gQ422FxnN5sBJ9hfGQDVD-/view?usp=sharing)
+
 - [University of Glasgow 3MT](https://www.gla.ac.uk/research/ourresearchenvironment/prs/pgrcoursesandevents/threeminutethesiscompetition/2020archive/scienceandengineering/)
 
 - Homework:
