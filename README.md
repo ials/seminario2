@@ -75,7 +75,8 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 - [Check of chapter submission](https://drive.google.com/file/d/1_JCQ8iNwEn0NDkwdSPuCfvuMCphyKNsV/view?usp=sharing)
 
-- All students **present** in three minutes the first chapter (*or any*) of the Master Thesis (*no more than 1 slide*)  
+- IEEE IGARS 2020 & 3M presentations:
+  - [Meet recording on 01.10.2020](https://drive.google.com/file/d/1X5ept5YEUslPeWxZ5N2oh7sdlqLZr-gV/view?usp=sharing) 
 
 - Lecturer explains what to write in second chapter of the Master Thesis:
   - [What is a literature review?](https://student.unsw.edu.au/literature-review)
