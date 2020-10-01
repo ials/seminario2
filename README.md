@@ -73,6 +73,9 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ### Semana 6 - Septiembre 28 - Octubre 2  
 
+- [Check of chapter submission](https://drive.google.com/file/d/1_JCQ8iNwEn0NDkwdSPuCfvuMCphyKNsV/view?usp=sharing)
+
+- All students **present** in three minutes the first chapter (*or any*) of the Master Thesis (*no more than 1 slide*)  
 
 - Lecturer explains what to write in second chapter of the Master Thesis:
   - [What is a literature review?](https://student.unsw.edu.au/literature-review)
