@@ -90,6 +90,8 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 - [Check of chapter submission](https://drive.google.com/file/d/1TeQSN2A8YC7U7jWdq6Zdot2iQWj9xD4B/view?usp=sharing)
 
+- [Meet recording 08.10.2020](https://drive.google.com/file/d/1MJ1fY1zTbTNmFeNMq6VFxAjkcUhVqtUm/view?usp=sharing)
+
 - Lecturer explains how examiners review a master thesis:
   - [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
 
