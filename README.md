@@ -100,8 +100,10 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
  
 ### Semana 8 - Octubre 12 - Octubre 16
 
-- Lecture:
-  - [Reproducible research](https://drive.google.com/file/d/1IqAtalcsKLir-gOWvA-l9q03gXxq22tO/view?usp=sharing)
+- [Meet recording 15 October](https://drive.google.com/file/d/112qJHNosluaMWheUSzm_PrSTHxd8aUx2/view?usp=sharing)
+
+- Lecture:  
+  - [Reproducible research]()
   
 - Readings:
   - [Basic steps of doing a literature review](https://research.library.gsu.edu/c.php?g=115595&p=754162)
