@@ -103,7 +103,7 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 - [Meet recording 15 October](https://drive.google.com/file/d/112qJHNosluaMWheUSzm_PrSTHxd8aUx2/view?usp=sharing)
 
 - Lecture:  
-  - [Reproducible research]()
+  - [Reproducible research](https://drive.google.com/file/d/1QVb4D95UcZTX2bxLewl9gkK8RYgWM06P/view?usp=sharing)
   
 - Readings:
   - [Basic steps of doing a literature review](https://research.library.gsu.edu/c.php?g=115595&p=754162)
