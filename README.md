@@ -100,11 +100,16 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
  
 ### Semana 8 - Octubre 12 - Octubre 16
 
-- [Basic steps of doing a literature review](https://research.library.gsu.edu/c.php?g=115595&p=754162)
-- [A few tips on conducting the literature review](http://advice.writing.utoronto.ca/types-of-writing/literature-review/)
+- Lecture:
+  - [Reproducible research](https://drive.google.com/file/d/1IqAtalcsKLir-gOWvA-l9q03gXxq22tO/view?usp=sharing)
+  
+- Readings:
+  - [Basic steps of doing a literature review](https://research.library.gsu.edu/c.php?g=115595&p=754162)
+  - [A few tips on conducting the literature review](http://advice.writing.utoronto.ca/types-of-writing/literature-review/)
+
 - *Advanced students* presents their chapter 2
 
-- Práctica:
+- Home activities:
   Students **continue writing** second chapter of the Master Thesis
 
 ### Semana 9 - Octubre 19 - Octubre 23
