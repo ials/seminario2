@@ -116,11 +116,12 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 - Topics:
   - [Evaluation of master's thesis (Aalto University)](https://into.aalto.fi/download/attachments/330989/Thesis_evaluation_guideline_13092017.pdf?version=1&modificationDate=1520936573784&api=v2)
-  - Writing exercise
+  - [Revising drafts](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/)
+  - Draft revision exercise
 
 - Independent review:
    - [How to write a literature review](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
-   - [Revising drafts](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/)
+  
 
 - Home activities:
   Students **revise** second chapter of the Master Thesis
