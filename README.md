@@ -92,8 +92,6 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 - [Meet recording 08.10.2020](https://drive.google.com/file/d/1MJ1fY1zTbTNmFeNMq6VFxAjkcUhVqtUm/view?usp=sharing)
 
-- Lecturer explains how examiners review a master thesis:
-  - [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
 
 - Práctica:
   Students **continue writing** second chapter of the Master Thesis
@@ -116,17 +114,25 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ### Semana 9 - Octubre 19 - Octubre 23
 
-- Práctica:
+- Topics:
+  - [Evaluation of master's thesis (Aalto University)](https://into.aalto.fi/download/attachments/330989/Thesis_evaluation_guideline_13092017.pdf?version=1&modificationDate=1520936573784&api=v2)
+  - Writing exercise
+
+- Independent review:
+   - [How to write a literature review](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
+   - [Revising drafts](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/)
+
+- Home activities:
   Students **revise** second chapter of the Master Thesis
  
 ### Semana 10 - Octubre 26 - Octubre 30
-- [Virtual Class](https://meet.google.com/qjq-jius-rwk)
 
-  - Review:
-    - [How to write a literature review](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
-    - [Revising drafts](https://writingcenter.unc.edu/tips-and-tools/revising-drafts/)
+- Lecturer explains how examiners review a master thesis:
+  - [Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)(Golding, 2016)
+  
+- [Virtual Class](https://meet.google.com/qjq-jius-rwk)
     
-- Práctica:
+- Home activities:
   Students **proofread** second chapter of the Master Thesis
 
 ### Semana 11 - Noviembre 2 - Noviembre 6
