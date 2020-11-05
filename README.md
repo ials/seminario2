@@ -1,6 +1,6 @@
-# Bienvenidos al curso Seminario de Investigación II
-# Maestría en Geomática
-# UNAL - 2020 - Segundo Período Académico 
+## Bienvenidos al curso Seminario de Investigación II
+## Maestría en Geomática
+## UNAL - 2020 - Segundo Período Académico 
 
 Este es un curso que se dictará entre el  26 de Agosto y el 11 de Diciembre.
 Las clases son los días jueves entre 2:00 pm y 6:00 pm.
