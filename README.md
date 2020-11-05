@@ -138,6 +138,9 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ### Semana 11 - Noviembre 2 - Noviembre 6
 
+- [How to give good presentations](http://acmg.seas.harvard.edu/education/presentations/carlton_presentations.pdf)
+  - [Meet recording on 05.11.2020](https://drive.google.com/file/d/1a7oXEBgD4ezAKjOVdY2YDJaVJbnoGw6w/view?usp=sharing)
+
 - Students send a pdf file with the new version of their Master Thesis via e-mail not later than 5 November 2020 at 11:59 pm:
   - Name the file as follows:   **Cap1_2_v0.X_Nombre_Apellido.pdf**
   - Summarize main changes in the first page
@@ -146,15 +149,10 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ### Semana 12 - Noviembre 9 - Noviembre 13
 
-- [How to give good presentations](http://acmg.seas.harvard.edu/education/presentations/carlton_presentations.pdf)
-  - [Meet recording on 05.11.2020](https://drive.google.com/file/d/1a7oXEBgD4ezAKjOVdY2YDJaVJbnoGw6w/view?usp=sharing)
-
-- Students revise & proofread  Chapters 1 &  2, and submit them to the lecturer
-  - Due date & time:   5 November at 11:59 pm
+- Lecturer gives feedback on  Chapters 1 &  2
+- Lecturer explains what to write in third chapter of the Master Thesis
 
 ### Semana 13 - Noviembre 16 - Noviembre 20
-
-- Lecturer explains what to write in third chapter of the Master Thesis
 
 - Lecture rewiews the essential characteristics of a [good geospatial workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
