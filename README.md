@@ -146,8 +146,11 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ### Semana 12 - Noviembre 9 - Noviembre 13
 
-- Lecturer gives feedback on Chapters 1 &  2
-- Students revise Chapters 1 &  2
+- [How to give good presentations](http://acmg.seas.harvard.edu/education/presentations/carlton_presentations.pdf)
+  - [Meet recording on 05.11.2020](https://drive.google.com/file/d/1a7oXEBgD4ezAKjOVdY2YDJaVJbnoGw6w/view?usp=sharing)
+
+- Students revise & proofread  Chapters 1 &  2, and submit them to the lecturer
+  - Due date & time:   5 November at 11:59 pm
 
 ### Semana 13 - Noviembre 16 - Noviembre 20
 
