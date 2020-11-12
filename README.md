@@ -149,6 +149,8 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ### Semana 12 - Noviembre 9 - Noviembre 13
 
+- [Meet recording on 12.11.2020](https://drive.google.com/file/d/1ytAbRVkPZ5nlJvVpy_Ig5d3ssP3NpMtC/view?usp=sharing)
+
 - Lecturer gives feedback on  Chapters 1 &  2
 - Lecturer explains what to write in third chapter of the Master Thesis
 
