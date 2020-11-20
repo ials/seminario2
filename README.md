@@ -153,23 +153,26 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 - Lecturer gives feedback on  Chapters 1 &  2
 - Lecturer explains what to write in third chapter of the Master Thesis
+- Students start writing the third chapter of the Master Thesis
 
 ### Semana 13 - Noviembre 16 - Noviembre 20
+
+- [Meet recording on 19.11.2020](https://drive.google.com/file/d/1Tu8dYGjmwOgRXErG13WNtx1-QB-oT4vl/view?usp=sharing)
 
 - Lecture rewiews the essential characteristics of a [good geospatial workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
 - Práctica:
-  Students start writing third chapter of the Master Thesis
+  Students keep writing the third chapter of the Master Thesis
 
 ### Semana 14 - Noviembre 23  - Noviembre 27
 
 - Práctica:
-  Students continue writing third chapter of the Master Thesis
+  Students revise the third chapter of the Master Thesis
 
 ## Semana 15 - Noviembre 30 - Diciembre 4
 
 - Práctica:
-  Students revise & proofread third chapter of the Master Thesis
+  Students proofread the third chapter of the Master Thesis
 
 ## Semana 16 - Diciembre 7 - Diciembre 11
 
