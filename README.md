@@ -174,7 +174,7 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ## Semana 15 - Noviembre 30 - Diciembre 4
 
-- [Meet recording on 03.1.2020](https://drive.google.com/file/d/1BnQXe730QMK5-1gA4urluV7DZKbotEWR/view?usp=sharing)
+- [Meet recording on 03.12.2020](https://drive.google.com/file/d/1BnQXe730QMK5-1gA4urluV7DZKbotEWR/view?usp=sharing)
   - Thesis defense guidelines
 
 - Home activities:
