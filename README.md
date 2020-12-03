@@ -166,19 +166,28 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ### Semana 14 - Noviembre 23  - Noviembre 27
 
-- Práctica:
+- Topics:
+  - Thesis defense presentation
+
+- Home activities:
   Students revise the third chapter of the Master Thesis
 
 ## Semana 15 - Noviembre 30 - Diciembre 4
 
-- Práctica:
-  Students proofread the third chapter of the Master Thesis
+- [Meet recording on 03.1.2020](https://drive.google.com/file/d/1BnQXe730QMK5-1gA4urluV7DZKbotEWR/view?usp=sharing)
+  - Thesis defense guidelines
+
+- Home activities:
+  - Students prepare a three-minute presentation:  *What did I wrote this semester?*
+  - Students proofread the third chapter of the Master Thesis
 
 ## Semana 16 - Diciembre 7 - Diciembre 11
 
-- Students submit the third chapter of the Master Thesis (**Due on 10 December at 11:59 pm**)
-- Students respond to third chapter's feedback
-- Students plan second iteration of third chapter
+Session 10 December:
+  - Students present in three-minutes what they wrote this semester on 
+  - Students submit what they wrote during this semester for their Master Thesis 
+    - **Due on 10 December at 11:59 pm**
+ 
 
 ## Semana 17 - Diciembre 17 - Publicación de notas
 
