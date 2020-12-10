@@ -183,7 +183,7 @@ satellite imagery](https://drive.google.com/file/d/17EpIuIGFlSSzzAawBudyx1nEz5yr
 
 ## Semana 16 - Diciembre 7 - Diciembre 11
 
-Session 10 December:
+[Meet recording on 10.12.2020](https://drive.google.com/file/d/1FLcaNjrFfvIRU8YGgijkBPXnfW-vT90B/view?usp=sharing):
   - Students present in three-minutes what they wrote this semester on 
   - Students submit what they wrote during this semester for their Master Thesis 
     - **Due on 10 December at 11:59 pm**
