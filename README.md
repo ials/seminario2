@@ -16,10 +16,10 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
-    - [Meet recording](https://drive.google.com/file/d/16HK3BZ5h1iN8tZH5zuD88-5HM1_GpY05/view)
+    - [Meet recording]()
  
 - Práctica:
-  - Students write a synthesis of their research project
+  - Students write a synthesis of their research project (one page)
   - Students start writing first chapter of the Master Thesis
   - If you are an advanced student you can start with a different chapter (**any**)
 
@@ -27,7 +27,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
-    - [Meet recording](https://drive.google.com/file/d/1CVeYKu9p4oinKbWk_3tSW3DPvkRac6rX/view)
+    - [Meet recording]()
   
 - Lecturer reviews repositories for master thesis on geoinformation science  at University Twente and Wageningen University Research
   
