@@ -1,5 +1,4 @@
-## Bienvenidos al curso Seminario de Investigación II
-## Maestría en Geomática
+## Maestría en Geomática -   Código Curso 2020771
 ## UNAL - 2021 - Primer Período Académico 
 
 Este es un curso que se dictará entre el  22 de Febrero y el 18 de Junio.
