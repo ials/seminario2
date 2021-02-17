@@ -1,17 +1,18 @@
 ## Bienvenidos al curso Seminario de Investigación II
 ## Maestría en Geomática
-## UNAL - 2020 - Segundo Período Académico 
+## UNAL - 2021 - Primer Período Académico 
 
-Este es un curso que se dictará entre el  26 de Agosto y el 11 de Diciembre.
-Las clases son los días jueves entre 2:00 pm y 6:00 pm.
+Este es un curso que se dictará entre el  22 de Febrero y el 18 de Junio.
+Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 ## Objetivos del curso
 
-Aprender conceptos y ganar habilidades prácticas que apoyen la escritura del documento de tesis de maestría.
+- Aprender conceptos y desarrollar habilidades prácticas para la escritura de la tesis de maestría.
+- Brindar un espacio colaborativo para mejorar el pensamiento critico y la capacidad de argumentación de los estudiantes de maestría.
 
 ## Programación
 
-### Semana 1  Agosto 24 - Agosto 28 
+### Semana 1  Febrero 22 - Febrero 26 
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
