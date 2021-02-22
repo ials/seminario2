@@ -15,7 +15,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
-    - [Meet recording]()
+    - [Meet recording](https://drive.google.com/file/d/1VgBHsdrNbn15tiEuukpVEdlLw9DDbSw3/view?usp=sharing)
  
 - Práctica:
   - Students write a synthesis of their research project (one page)
