@@ -26,18 +26,20 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
-    - [Meet recording]()
-  
-- Lecturer reviews repositories for master thesis on geoinformation science  at University Twente and Wageningen University Research
+    - [Meet recording - Part 1](https://drive.google.com/file/d/1mWr9DNYYSv4SL-gmRdhcewjvrpZv5MSt/view?usp=sharing)
+    - [Meet recording - Part 2](https://drive.google.com/file/d/1WXDWFXB7Jb6fN5WATCgl4ueZxewMT968/view?usp=sharing)
+
   
 - Práctica:
-  Students continue writing first (or any) chapter of the Master Thesis
+  Students continue writing first (or any) chapter of the Master Thesis. **This chapter is due on 15 March**
  
 ### Semana 3 - Marzo 8 - Marzo 12
 
-- Students review  what to write in the first chapter of their Master Thesis:
+- Students check  what to write in the first chapter of their Master Thesis:
   - [Introduction (USW, 2020)](https://student.unsw.edu.au/introductions)
   - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing)
+
+- Lecturer reviews repositories for master thesis on geoinformation science  at University Twente and Wageningen University Research
 
 - Students who lack reference material for their master thesis spend time reviewing the repository for master in geomatics theses at [TUDelft](https://repository.tudelft.nl/). Make sure to check the **education repository**
 
