@@ -39,10 +39,14 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   - [Introduction (USW, 2020)](https://student.unsw.edu.au/introductions)
   - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing)
 
-- Lecturer reviews repositories for master thesis on geoinformation science  at University Twente and Wageningen University Research
-
-- Students who lack reference material for their master thesis spend time reviewing the repository for master in geomatics theses at [TUDelft](https://repository.tudelft.nl/). Make sure to check the **education repository**
+- Lecturer reviews examples of completed master thesis on geoinformation science  at Delft Technical University
 
 - *The most important activity*:
-  Students **revise** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)   (Please do no forget to track changes in your document) 
+  Students **revise** and **proofread** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)
+
+- **The first chapter (or any other chapter) is due on 15 March**:
+  - Send your(s) in pdf file on 15 March before 12 am  
+    - Use this subject: *[SEM2]  Primera entrega  Nombre Apellido*
+    - Name your file as follows:  *Tesis_Nombre_Apellido_Cap1.pdf*
+  
 
