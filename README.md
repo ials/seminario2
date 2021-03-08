@@ -44,10 +44,11 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - *The most important activity*:
   Students **revise** and **proofread** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)
 
-- **The first chapter (or any other chapter) is due on 15 March**:
-  - Send your(s) in pdf file on 15 March before 12 am  
-    - Use this subject: *[SEM2]  Primera entrega  Nombre Apellido*
-    - Name your file as follows:  *Tesis_Nombre_Apellido_Cap1.pdf*
+- **The first chapter (or any other chapter) is due on 15 March**
+  - Send your(s) in pdf file on 15 March before 12 am  by e-mail:
+    - Use this subject: **[SEM2]  Primera entrega  Nombre Apellido**
+    - Name your file as follows:  **Tesis_Nombre_Apellido_Cap1.pdf**
+    - Copy to your supervisor(s)
   
 
 
