@@ -40,6 +40,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing)
 
 - Lecturer reviews examples of completed master thesis on geoinformation science  at Delft Technical University
+  - [Meet recording](https://drive.google.com/file/d/1VZoUMKFUxDi_pGx_A3DZJhzjAPldMV0Z/view?usp=sharing)
 
 - *The most important activity*:
   Students **revise** and **proofread** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)
