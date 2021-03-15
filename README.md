@@ -51,5 +51,13 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
     - Name your file as follows:  **Tesis_Nombre_Apellido_Cap1.pdf**
     - Copy to your supervisor(s)
   
+### Semana 4 - Marzo 15 - Marzo 19
 
+- Lecturer reviews what to write in the second chapter of a Master Thesis:
+  - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)
+  - [How to do a literature review for your Master Thesis?](https://www.unil.ch/hec/files/live/sites/hec/files/doc/master/mscis/how-to-do-a-literature-review-for-your-master-thesis.pdf)
+  
+- *The most important activities*:
+  - Students think how to organize their second chapter
+  - Students start writing their second chapter
 
