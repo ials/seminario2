@@ -55,6 +55,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 - Lecturer reviews what to write in the second chapter of a Master Thesis:
   - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)
+    - [Slides](https://drive.google.com/file/d/1S9Unijk4A9EruMZLmyI8qxph_eHIL6uc/view?usp=sharing) 
   - [How to do a literature review for your Master Thesis?](https://www.unil.ch/hec/files/live/sites/hec/files/doc/master/mscis/how-to-do-a-literature-review-for-your-master-thesis.pdf)
   
 - *The most important activities*:
