@@ -51,7 +51,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
     - Name your file as follows:  **Tesis_Nombre_Apellido_Cap1.pdf**
     - Copy to your supervisor(s)
   
-### Semana 5 - Marzo 15 - Marzo 19
+### Semana 4 - Marzo 15 - Marzo 19
 
 - Lecturer reviews what to write in the second chapter of a Master Thesis:
   - [Meet recording](https://drive.google.com/file/d/14btD-ltcvYXnffsAMTHo8vXjnMI2nlh_/view?usp=sharing)
@@ -63,7 +63,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   - Students think how to organize their second chapter
   - Students start writing their second chapter
   
-### Semana 6 - Marzo 22 - Marzo 26
+### Semana 5 - Marzo 22 - Marzo 26
 
 - **Holiday: There is no class** 
 
