@@ -71,3 +71,20 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   - Students iterate a new version of their first chapter
   - Students keep writing their second chapter as advised on last session
 
+
+### Semana 6 - Marzo 29 - Abril 2
+
+- **Holiday: There is no class** 
+
+- *The most important activity*:
+  - Students keep writing their second chapter 
+
+### Semana 7 - Abril 5 - Abril 9
+
+- Topics: 
+  -	Literature review revisited
+  -	Q&A on literature review
+- Task:
+  -	Keep writing the chapter 2  agreed with your supervisor (**due on 26 April**)
+
+
