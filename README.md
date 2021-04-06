@@ -82,9 +82,10 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 ### Semana 7 - Abril 5 - Abril 9
 
 - Topics: 
-  -	Literature review revisited
-  -	Q&A on literature review
+  - [Meet recording](https://drive.google.com/file/d/1ahjufT3FXtDetb4-Q7g6BixMb6xrc_TN/view?usp=sharing)
+    -	Literature review revisited
+    -	Q&A on literature review
 - Task:
-  -	Keep writing the chapter 2  agreed with your supervisor (**due on 26 April**)
+  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 26 April**)
 
 
