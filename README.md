@@ -93,7 +93,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Topics: 
   - [Meet recording]()
     -	Students practice on summarizing an articule very relevant to their reseach
-    -	How to summarize?
+    -	[How to summarize?](https://drive.google.com/file/d/1BgdsWxtgl-gBCccpd-fBTKJjFGQ0tXCf/view?usp=sharing)
     -	Review of draft for chapter 2 (or any other chapter)
 - Task:
   -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 26 April**)
