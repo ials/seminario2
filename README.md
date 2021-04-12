@@ -88,4 +88,12 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Task:
   -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 26 April**)
 
+### Semana 8 - Abril 12 - Abril 16
 
+- Topics: 
+  - [Meet recording]()
+    -	Students practice on summarizing an articule very relevant to their reseach
+    -	How to summarize?
+    -	Review of draft for chapter 2 (or any other chapter)
+- Task:
+  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 26 April**)
