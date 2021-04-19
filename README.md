@@ -99,3 +99,14 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Task:
   -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 26 April**)
   -	Review that each section follow the *MEAL writing strategy* (as explained in class).
+
+### Semana 9 - Abril 19 - Abril 23
+
+- Topics: 
+  - [Meet recording]()
+    -	Advice for writing a thesis (based on what examiners do)[https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862]
+  
+- Task:
+  -	**Edit and proofread the chapters you will delivery on 26 April.**
+
+
