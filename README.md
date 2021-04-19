@@ -105,6 +105,10 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Topics: 
   - [Meet recording]()
     -	Advice for writing a thesis (based on what examiners do)[https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862]
+    -	Q&A on next submission (due on 26 April)
+
+- Add this event to your agenda:
+  - **11 May -  2:00 pm to 6:00 pm -  Taller de Etica para investigadores**
   
 - Task:
   -	**Edit and proofread the chapters you will delivery on 26 April.**
