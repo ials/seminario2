@@ -111,6 +111,6 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   - **11 May -  2:00 pm to 6:00 pm -  Taller de Etica para investigadores**
   
 - Task:
-  -	**Edit and proofread the chapters you will delivery on 26 April.**
+  -	**Edit and proofread the chapters you will submit on 26 April.**
 
 
