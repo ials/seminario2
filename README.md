@@ -118,6 +118,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Topics: 
   - Assignments submitted today before 11:59 am
   - How to write the chapter 3
+    - [Meet recording](https://drive.google.com/file/d/1b11-iChNaOc0niJwYTLRecv4D6V-rapE/view?usp=sharing)
   - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
 - Add this event to your agenda:
