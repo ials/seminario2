@@ -118,7 +118,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Topics: 
   - Assignments submitted today before 11:59 am
   - How to write the chapter 3
-  - [Example of a workflow](https://drive.google.com/drive/u/0/folders/1AJYdjFOuyRWCpGsckXBVaF5kAx7H4DAa)
+  - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
 - Add this event to your agenda:
   - **11 May -  2:00 pm to 6:00 pm -  Taller de Etica para investigadores**
