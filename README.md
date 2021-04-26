@@ -113,4 +113,17 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Task:
   -	**Edit and proofread the chapters you will submit on 26 April.**
 
+### Semana 10 - Abril 26 - Abril 29
+
+- Topics: 
+  - Assignments submitted today before 11:59 am
+  - How to write the chapter 3
+  - [Example of a workflow](https://drive.google.com/drive/u/0/folders/1AJYdjFOuyRWCpGsckXBVaF5kAx7H4DAa)
+
+- Add this event to your agenda:
+  - **11 May -  2:00 pm to 6:00 pm -  Taller de Etica para investigadores**
+  
+- Task:
+  -	**Start writing your methods chapter**
+
 
