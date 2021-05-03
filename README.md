@@ -133,8 +133,8 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   - [Example of a Master Thesis](https://drive.google.com/file/d/1ZePdClvqiB6cv-sFO-3EDc0qSa5gsD_P/view?usp=sharing)
   - Q & A on thesis writing 
 
-- Register you participation in **Taller de Etica para investigadores - 11.05.2021 -**
-  - [](http://bit.ly/TallerEticaFCA-1)
+- Register you participation in 
+  - [**Taller de Etica para investigadores - 11.05.2021 -**](http://bit.ly/TallerEticaFCA-1)
   
 - Task:
   -	**Keep writing your methods chapter**
