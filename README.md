@@ -127,4 +127,14 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Task:
   -	**Start writing your methods chapter**
 
+### Semana 11 - Mayo 3 - Mayo 7
 
+- Topics: 
+  - [Example of a Master Thesis](https://drive.google.com/file/d/1ZePdClvqiB6cv-sFO-3EDc0qSa5gsD_P/view?usp=sharing)
+  - Q & A on thesis writing 
+
+- Register you participation in **Taller de Etica para investigadores - 11 May -  2:00 pm to 6:00 pm -**
+  - http://bit.ly/TallerEticaFCA-1
+  
+- Task:
+  -	**Keep writing your methods chapter**
