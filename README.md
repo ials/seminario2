@@ -138,3 +138,12 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   
 - Task:
   -	**Keep writing your methods chapter**
+
+### Semana 12 - Mayo 10 - Mayo 14
+
+- Topics: 
+  - Feedback on submitted document
+  - Q & A on thesis writing 
+
+- Task:
+  -	**Keep writing your methods chapter**
