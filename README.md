@@ -164,4 +164,5 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   -	**Submit your methods chapter (due on 24.05.2021 at 11:59 am)**
 
 - Exercise:
-  -	How do you reply to your research questions?
+  -	Imagine you have just completed your research
+    -	How would you reply to your research questions?
