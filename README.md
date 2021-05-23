@@ -14,7 +14,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 ### Semana 1  Febrero 22 - Febrero 26 
 
 - Presentación:
-  - Session 0.  [Course Intro - Slides](https://ials.github.com/seminario/sem_S0.html)
+  - Session 0.  [Course Intro - Slides](https://ials.github.io/seminario/sem_S0.html)
     - [Meet recording](https://drive.google.com/file/d/1VgBHsdrNbn15tiEuukpVEdlLw9DDbSw3/view?usp=sharing)
  
 - Práctica:
@@ -153,12 +153,15 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - No class 
 
 - Task:
-  -	**Keep writing your methods chapter**
+  -	**Revise and edit your methods chapter**
 
 ### Semana 14 - Mayo 24 - Mayo 28
 
 - Topics: 
   - The research question revisited
+
+- Task:
+  -	**Submit your methods chapter (due on 24.05.2021 at 11:59 am)**
 
 - Exercise:
   -	How do you reply to your research questions?
