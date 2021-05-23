@@ -147,3 +147,18 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 - Task:
   -	**Keep writing your methods chapter**
+
+### Semana 13 - Mayo 17 - Mayo 21
+
+- No class 
+
+- Task:
+  -	**Keep writing your methods chapter**
+
+### Semana 14 - Mayo 24 - Mayo 28
+
+- Topics: 
+  - The research question revisited
+
+- Exercise:
+  -	How do you reply to your research questions?
