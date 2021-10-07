@@ -18,7 +18,8 @@ Las clases son los días jueves  entre 2:00 pm y 4:00 pm.
 
 - Práctica:
   - Students write a synthesis of their research project (one page)
-  - Students start writing first chapter of the Master Thesis
+  - Students start writing first chapter of the Master Thesis. **This chapter is ude on 27 October**
+    - Prepare a writing plan to address reviewers comments
   - If you are an advanced student you can start with a different chapter (**any**)
 
 ### Semana 2 -  Octubre 11 - Octubre 15
@@ -27,7 +28,7 @@ Las clases son los días jueves  entre 2:00 pm y 4:00 pm.
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
 
 - Práctica:
-  Students continue writing first (or any) chapter of the Master Thesis. **This chapter is due on 15 March**
+  Students continue writing first (or any) chapter of the Master Thesis. 
  
 ### Semana 3 - Octubre 18 - Octubre 22
 
