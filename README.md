@@ -17,9 +17,9 @@ Las clases son los días jueves  entre 2:00 pm y 4:00 pm.
   - Session 0.  [Course Intro - Slides](https://ials.github.io/seminario/sem_S0.html)
 
 - Práctica:
-  - Students write a synthesis of their research project (one page)
-  - Students start writing first chapter of the Master Thesis. **This chapter is ude on 27 October**
-    - Prepare a writing plan to address reviewers comments
+  - Students write a plan to address reviewers comments on their research proposal (one page)
+  - Students start writing first chapter of the Master Thesis. **This chapter is due on 27 October**
+
   - If you are an advanced student you can start with a different chapter (**any**)
 
 ### Semana 2 -  Octubre 11 - Octubre 15
