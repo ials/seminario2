@@ -1,8 +1,8 @@
 ## Maestría en Geomática -   Código Curso 2020771
-## UNAL - 2021 - Primer Período Académico 
+## UNAL - 2021 - Segundo Período Académico 
 
-Este es un curso que se dictará entre el  22 de Febrero y el 18 de Junio.
-Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
+Este es un curso que se dictará entre el  7 de Octubre y el 2 de Febrero.
+Las clases son los días jueves  entre 2:00 pm y 4:00 pm.
 
 ## Objetivos del curso
 
@@ -11,7 +11,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 
 ## Programación
 
-### Semana 1  Febrero 22 - Febrero 26 
+### Semana 1  Octubre 1 - Octubre 8 
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.io/seminario/sem_S0.html)
@@ -22,7 +22,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
   - Students start writing first chapter of the Master Thesis
   - If you are an advanced student you can start with a different chapter (**any**)
 
-### Semana 2 -  Marzo 1 - Marzo 5
+### Semana 2 -  Octubre 11 - Octubre 15
 
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
@@ -33,7 +33,7 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - Práctica:
   Students continue writing first (or any) chapter of the Master Thesis. **This chapter is due on 15 March**
  
-### Semana 3 - Marzo 8 - Marzo 12
+### Semana 3 - Octubre 18 - Octubre 22
 
 - Students check  what to write in the first chapter of their Master Thesis:
   - [Introduction (USW, 2020)](https://student.unsw.edu.au/introductions)
@@ -45,50 +45,37 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
 - *The most important activity*:
   Students **revise** and **proofread** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)
 
-- **The first chapter (or any other chapter) is due on 15 March**
-  - Send your(s) in pdf file on 15 March before 12 am  by e-mail:
-    - Use this subject: **[SEM2]  Primera entrega  Nombre Apellido**
-    - Name your file as follows:  **Tesis_Nombre_Apellido_Cap1.pdf**
-    - Copy to your supervisor(s)
+
   
-### Semana 4 - Marzo 15 - Marzo 19
+### Semana 4 - Octubre 25 - Octubre 29
 
 - Lecturer reviews what to write in the second chapter of a Master Thesis:
   - [Meet recording](https://drive.google.com/file/d/14btD-ltcvYXnffsAMTHo8vXjnMI2nlh_/view?usp=sharing)
   - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)
     - [Slides](https://drive.google.com/file/d/1S9Unijk4A9EruMZLmyI8qxph_eHIL6uc/view?usp=sharing) 
   - [How to do a literature review for your Master Thesis?](https://www.unil.ch/hec/files/live/sites/hec/files/doc/master/mscis/how-to-do-a-literature-review-for-your-master-thesis.pdf)
-  
-- *The most important activities*:
+ 
+ - **The first chapter (or any other chapter) is due on 27 October**
+  - Send your(s) in pdf file on 15 March before 12 am  by e-mail:
+    - Use this subject: **[SEM2]  Primera entrega  Nombre Apellido**
+    - Name your file as follows:  **Tesis_Nombre_Apellido_Cap1.pdf**
+    - Copy to your supervisor(s)
+ 
+- *Home activities*:
   - Students think how to organize their second chapter
   - Students start writing their second chapter
   
-### Semana 5 - Marzo 22 - Marzo 26
+### Semana 5 - Noviembre 1 - Noviembre 5
 
-- **Holiday: There is no class** 
-
-- *The most important activities*:
-  - Students iterate a new version of their first chapter
-  - Students keep writing their second chapter as advised on last session
-
-
-### Semana 6 - Marzo 29 - Abril 2
-
-- **Holiday: There is no class** 
-
-- *The most important activity*:
-  - Students keep writing their second chapter 
-
-### Semana 7 - Abril 5 - Abril 9
 
 - Topics: 
   - [Meet recording](https://drive.google.com/file/d/1ahjufT3FXtDetb4-Q7g6BixMb6xrc_TN/view?usp=sharing)
     -	Literature review revisited
     -	Q&A on literature review
 - Task:
-  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 26 April**)
+  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 15 December**)
 
-### Semana 8 - Abril 12 - Abril 16
+### Semana 6 - Noviembre 8 - Noviembre 12
 
 - Topics: 
   - [Meet recording](https://drive.google.com/file/d/16L6c8O4bo7LeK61frjn2WZ7chIFNX_29/view?usp=sharing)
@@ -97,71 +84,54 @@ Las clases son los días lunes  entre 2:00 pm y 6:00 pm.
       -[Meet recording](https://drive.google.com/file/d/1kVvBZCxTsMpwU_-N7mSRfYTLWE_uP7LJ/view?usp=sharing)
    
 - Task:
-  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 26 April**)
+  -	Keep writing the chapter 2 
   -	Review that each section follow the *MEAL writing strategy* (as explained in class).
 
-### Semana 9 - Abril 19 - Abril 23
+### Semana 7 - Noviembre 15 - Noviembre 19
 
 - Topics: 
   - [Meet recording]()
     -	[Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)
-    -	Q&A on next submission (due on 26 April)
+    -	Q&A on next submission (due on 15 December)
 
-- Add this event to your agenda:
-  - **11 May -  2:00 pm to 6:00 pm -  Taller de Etica para investigadores**
-  
 - Task:
-  -	**Edit and proofread the chapters you will submit on 26 April.**
+  -	**Edit  the chapter you will submit on 15 December.**
 
-### Semana 10 - Abril 26 - Abril 29
+### Semana 8 - Noviembre 22 - Noviembre 26
 
 - Topics: 
-  - Assignments submitted today before 11:59 am
   - How to write the chapter 3
     - [Meet recording](https://drive.google.com/file/d/1b11-iChNaOc0niJwYTLRecv4D6V-rapE/view?usp=sharing)
   - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
-- Add this event to your agenda:
-  - **11 May -  2:00 pm to 6:00 pm -  Taller de Etica para investigadores**
-  
-- Task:
-  -	**Start writing your methods chapter**
 
-### Semana 11 - Mayo 3 - Mayo 7
+### Semana 9 - Noviembre 29 - Diciembre 3
 
 - Topics: 
   - [Example of a Master Thesis](https://drive.google.com/file/d/1ZePdClvqiB6cv-sFO-3EDc0qSa5gsD_P/view?usp=sharing)
   - Q & A on thesis writing 
-
-- Register you participation in 
-  - [**Taller de Etica para investigadores - 11.05.2021 -**](http://bit.ly/TallerEticaFCA-1)
   
 - Task:
-  -	**Keep writing your methods chapter**
+  -	**Edit your second chapter**
 
-### Semana 12 - Mayo 10 - Mayo 14
+### Semana 10 - Diciembre 6 - Diciembre 10
 
 - Topics: 
   - Feedback on submitted document
   - Q & A on thesis writing 
 
 - Task:
-  -	**Keep writing your methods chapter**
+  -	**Proofread your second chapter**
 
-### Semana 13 - Mayo 17 - Mayo 21
 
-- No class 
-
-- Task:
-  -	**Revise and edit your methods chapter**
-
-### Semana 14 - Mayo 24 - Mayo 28
+### Semana 11 - Diciembre 13 - Diciembre 17
 
 - Topics: 
   - [The research question revisited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6322175/)
 
 - Task:
-  -	**Submit your methods chapter (due on 24.05.2021 at 11:59 am)**
+  -	**Submit your second chapter (due on 15.12.2021 at 11:59 am)**
+  -	Start writing your methods chapter
 
 - Exercise:
   -	Imagine you have just completed your research
