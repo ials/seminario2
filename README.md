@@ -1,28 +1,29 @@
 ## Maestría en Geomática -   Código Curso 2020771
-## UNAL - 2021 - Segundo Período Académico 
+## UNAL - 2022 - Primer Período Académico 
 
-Este es un curso que se dictará entre el  7 de Octubre y el 2 de Febrero.
-Las clases son los días jueves  entre 2:00 pm y 4:00 pm.
+Este es un curso que se dictará entre el  7 de Marzo y el 2 de Junio.
+Las clases son los días lunes a partir de las  2:00 pm.
 
 ## Objetivos del curso
 
-- Aprender conceptos y desarrollar habilidades prácticas para la escritura de la tesis de maestría.
+- Aprender conceptos y desarrollar destrezas  para la escritura de la tesis de maestría.
 - Brindar un espacio colaborativo para mejorar el pensamiento critico y la capacidad de argumentación de los estudiantes de maestría.
 
 ## Programación
 
-### Semana 1  Octubre 1 - Octubre 8 
+### Semana 1  7-11 Marzo
 
 - Presentación:
   - Session 0.  [Course Intro - Slides](https://ials.github.io/seminario/sem_S0.html)
 
 - Práctica:
-  - Students write a plan to address reviewers comments on their research proposal (one page)
-  - Students start writing first chapter of the Master Thesis. **This chapter is due on 27 October**
+  - Students write a summary of their thesis 
+  - Students write the structure & layout of their thesis
+  - Students start writing first chapter of the Master Thesis. **The first draft is due on 4 March**
 
   - If you are an advanced student you can start with a different chapter (**any**)
 
-### Semana 2 -  Octubre 11 - Octubre 15
+### Semana 2 -  14-18 Marzo
 
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
   - [The research question](https://libguides.msvu.ca/c.php?g=707361&p=5034449#s-lg-box-15836684)
@@ -30,44 +31,44 @@ Las clases son los días jueves  entre 2:00 pm y 4:00 pm.
 - Práctica:
   Students continue writing first (or any) chapter of the Master Thesis. 
  
-### Semana 3 - Octubre 18 - Octubre 22
+### Semana 3 - 21-25 Marzo
 
-- Students check  what to write in the first chapter of their Master Thesis:
+- Students check  what is expected to write in the first chapter:
   - [Introduction (USW, 2020)](https://student.unsw.edu.au/introductions)
   - [The Introductory Chapter (Evans, 2014)](https://drive.google.com/file/d/17vNf_QX6Fh-yfVzO3u-5sZc3gN5KS4D_/view?usp=sharing)
 
 - Lecturer reviews examples of completed master thesis on geoinformation science  at Delft Technical Universit
 
 - *The most important activity*:
-  Students **revise** and **proofread** the first chapter of their Master Thesis  (or the one which they have been writing since the beginning of this semester)
+  Students **revise** and **proofread** the first chapter  (or the one which they have been writing since the beginning of this semester)
 
   
-### Semana 4 - Octubre 25 - Octubre 29
+### Semana 4 - 28 Marzo - 1 Abril
 
-- Lecturer reviews what to write in the second chapter of a Master Thesis:
+- Lecturer reviews what to write in the second chapter:
   - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)
     - [Slides](https://drive.google.com/file/d/1S9Unijk4A9EruMZLmyI8qxph_eHIL6uc/view?usp=sharing) 
   - [How to do a literature review for your Master Thesis?](https://www.unil.ch/hec/files/live/sites/hec/files/doc/master/mscis/how-to-do-a-literature-review-for-your-master-thesis.pdf)
  
- - **The first chapter (or any other chapter) is due on 27 October**
+ - **The first chapter (or any other chapter) is due on 4 April**
   - Send your  pdf file before 11:59 pm  by e-mail:
     - Use this subject: **[SEM2]  Primera entrega  Nombre Apellido**
-    - Name your file as follows:  **Tesis_Nombre_Apellido_Cap1.pdf**
+    - Name your file as follows:  **TesisMG_Nombre_Apellido_CapX.pdf**
     - Copy to your supervisor(s)
  
 - *Home activities*:
   - Students think how to organize their second chapter
   - Students start writing their second chapter
   
-### Semana 5 - Noviembre 1 - Noviembre 5
+### Semana 5 - 4-8 Abril
 
 - Topics: 
     -	Literature review revisited
     -	Q&A on literature review
 - Task:
-  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 15 December**)
+  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 2 May**)
 
-### Semana 6 - Noviembre 8 - Noviembre 12
+### Semana 6 - 11-15 Abril
 
 - Topics: 
     -	Students practice on summarizing an articule very relevant to their reseach
@@ -77,48 +78,73 @@ Las clases son los días jueves  entre 2:00 pm y 4:00 pm.
   -	Keep writing the chapter 2 
   -	Review that each section follow the *MEAL writing strategy* (as explained in class).
 
-### Semana 7 - Noviembre 15 - Noviembre 19
+### Semana 7 - 18-22 Abril
 
 - Topics: 
     -	[Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)
-    -	Q&A on next submission (due on 15 December)
+    -	Q&A on next submission 
 
 - Task:
-  -	**Edit  the chapter you will submit on 15 December.**
+  -	**Edit  the chapter you will submit on 2 May.**
 
-### Semana 8 - Noviembre 22 - Noviembre 26
+### Semana 8 - 25-29 Abril
 
 - Topics: 
   - How to write the chapter 3
   - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
-### Semana 9 - Noviembre 29 - Diciembre 3
+- Tasks:
+  -	Proofread the chapter you will submit on 2 May
+  -	Send the chapter before 2 May at 11:59 pm
+
+### Semana 9 -  2-5 Mayo
 
 - Topics: 
   - [Example of a Master Thesis](https://drive.google.com/file/d/1ZePdClvqiB6cv-sFO-3EDc0qSa5gsD_P/view?usp=sharing)
   - Q & A on thesis writing 
-  
-- Task:
-  -	**Edit your second chapter**
 
-### Semana 10 - Diciembre 6 - Diciembre 10
+- Tasks:
+  -	Start writing the next chapter (third probably)
+  
+### Semana 10 -   9-13 Mayo
 
 - Topics: 
   - Feedback on submitted document
   - Q & A on thesis writing 
 
 - Task:
-  -	**Proofread your second chapter**
+  -	Keep writing your third (or any) chapter
 
-### Semana 11 - Diciembre 13 - Diciembre 17
+### Semana 11 -  16-20 Mayo
 
 - Topics: 
   - [The research question revisited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6322175/)
 
 - Task:
-  -	**Submit your second chapter (due on 15.12.2021 at 11:59 am)**
   -	Start writing your methods chapter
 
 - Exercise:
   -	Imagine you have just completed your research
     -	How would you reply to your research questions?
+ 
+
+### Semana 12 - 23-27 Mayo
+
+  - Task:
+  -	Keep writing your third  chapter
+  
+### Semana 13 - 30 Mayo - 3 Junio
+
+- Task:
+  - Complete your third chapter
+
+### Semana 14 - 6-10 Junio
+
+- Task:
+  - Edit your third chapter
+
+### Semana 15 - 13-18 Junio
+
+- Task:
+  - Proofread your third chapter
+  -	**Submit your third chapter (due on 17.06 at 11:59 am)**
