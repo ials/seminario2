@@ -19,7 +19,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
 - Práctica:
   - Students write a summary of their thesis 
   - Students write the structure & layout of their thesis
-  - Students start writing first chapter of the Master Thesis. **The first draft is due on 4 March**
+  - Students start writing first chapter of the Master Thesis. **The first draft is due on 4 April**
 
   - If you are an advanced student you can start with a different chapter (**any**)
 
