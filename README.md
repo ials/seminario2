@@ -83,7 +83,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
     -	Q&A on next submission 
 
 - Task:
-  -	**Edit  the chapter you will submit on 2 May.**
+  -	**Edit  the chapter you will submit on 9 May.**
 
 ### Semana 8 - 25-29 Abril
 
