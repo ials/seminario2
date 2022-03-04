@@ -40,33 +40,31 @@ Las clases son los días lunes a partir de las  2:00 pm.
 - Lecturer reviews examples of completed master thesis on geoinformation science  at Delft Technical Universit
 
 - *The most important activity*:
-  Students **revise** and **proofread** the first chapter  (or the one which they have been writing since the beginning of this semester)
+  Students **revise**  the first chapter  (or the one which they have been writing)
 
   
 ### Semana 4 - 28 Marzo - 1 Abril
+
+- Lecturer reviews examples of chapter 1 for M.Sc. thesis
+
+- *The most important activity*:
+  Students **proofread**  the first chapter  (or the one they are working on)
+ 
+### Semana 5 - 4-8 Abril
 
 - Lecturer reviews what to write in the second chapter:
   - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)
     - [Slides](https://drive.google.com/file/d/1S9Unijk4A9EruMZLmyI8qxph_eHIL6uc/view?usp=sharing) 
   - [How to do a literature review for your Master Thesis?](https://www.unil.ch/hec/files/live/sites/hec/files/doc/master/mscis/how-to-do-a-literature-review-for-your-master-thesis.pdf)
- 
- - **The first chapter (or any other chapter) is due on 4 April**
-  - Send your  pdf file before 11:59 pm  by e-mail:
+
+- **The first chapter (or any other chapter) is due on 4 April at 11:59 am**
+  - Send your  pdf file  by e-mail:
     - Use this subject: **[SEM2]  Primera entrega  Nombre Apellido**
     - Name your file as follows:  **TesisMG_Nombre_Apellido_CapX.pdf**
     - Copy to your supervisor(s)
- 
-- *Home activities*:
-  - Students think how to organize their second chapter
-  - Students start writing their second chapter
-  
-### Semana 5 - 4-8 Abril
 
-- Topics: 
-    -	Literature review revisited
-    -	Q&A on literature review
 - Task:
-  -	Keep writing the chapter 2 (and 3) as agreed with your supervisor (**due on 2 May**)
+  -	Start writing the chapter 2 (or any other) as agreed with your supervisor (**due on 9 May**)
 
 ### Semana 6 - 11-15 Abril
 
@@ -94,8 +92,8 @@ Las clases son los días lunes a partir de las  2:00 pm.
   - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
 - Tasks:
-  -	Proofread the chapter you will submit on 2 May
-  -	Send the chapter before 2 May at 11:59 pm
+  -	Proofread the chapter you will submit on 9 May
+ 
 
 ### Semana 9 -  2-5 Mayo
 
@@ -104,6 +102,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
   - Q & A on thesis writing 
 
 - Tasks:
+  -	**Send the chapter before 9 May at 11:59 am**
   -	Start writing the next chapter (third probably)
   
 ### Semana 10 -   9-13 Mayo
@@ -127,24 +126,37 @@ Las clases son los días lunes a partir de las  2:00 pm.
   -	Imagine you have just completed your research
     -	How would you reply to your research questions?
  
-
 ### Semana 12 - 23-27 Mayo
 
-  - Task:
+- Topics: 
+  - Lecturer reviews examples of chapter 3
+
+- Task:
   -	Keep writing your third  chapter
   
 ### Semana 13 - 30 Mayo - 3 Junio
+
+- Topics: 
+  - Lecturer reviews examples of chapter 3
 
 - Task:
   - Complete your third chapter
 
 ### Semana 14 - 6-10 Junio
 
+- Topics: 
+  - Lecturer explains what to write in chapter 4
+
 - Task:
   - Edit your third chapter
 
 ### Semana 15 - 13-18 Junio
 
+- Topics: 
+  - Lecturer explains what to write in chapter 4
+
 - Task:
+  - Edit your third chapter
   - Proofread your third chapter
-  -	**Submit your third chapter (due on 17.06 at 11:59 am)**
+    -	**Send your third chapter before 17 June at 11:59 am**
+  - Start writing your third chapter
