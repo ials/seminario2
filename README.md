@@ -23,7 +23,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
 
   - If you are an advanced student you can start with a different chapter (**any**)
 
-- Reading:
+- Readings:
   - [How to write a good master thesis](https://www.ntnu.no/blogger/ub-mh/wp-content/uploads/sites/21/2019/02/how-to-write-a-good-masterthesis-2019-final-1.pdf)
 
 ### Semana 2 -  14-18 Marzo
@@ -33,6 +33,9 @@ Las clases son los días lunes a partir de las  2:00 pm.
 
 - Práctica:
   Students continue writing first (or any) chapter of the Master Thesis. 
+  
+- Readings:
+  - [Effective communication with your supervisor](https://www.queensu.ca/exph/sites/webpublish.queensu.ca.exphwww/files/files/Workshops/Effective%20Communication%20with%20your%20Supervisor%20pptx2.pdf
  
 ### Semana 3 - 21-25 Marzo
 
