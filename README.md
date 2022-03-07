@@ -35,7 +35,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
   Students continue writing first (or any) chapter of the Master Thesis. 
   
 - Readings:
-  - [Effective communication with your supervisor](https://www.queensu.ca/exph/sites/webpublish.queensu.ca.exphwww/files/files/Workshops/Effective%20Communication%20with%20your%20Supervisor%20pptx2.pdf
+  - [Effective communication with your supervisor](https://www.queensu.ca/exph/sites/webpublish.queensu.ca.exphwww/files/files/Workshops/Effective%20Communication%20with%20your%20Supervisor%20pptx2.pdf)
  
 ### Semana 3 - 21-25 Marzo
 
