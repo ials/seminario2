@@ -24,7 +24,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
   - If you are an advanced student you can start with a different chapter (**any**)
 
 - Reading:
-  - [How to organize your thesis](http://www.sce.carleton.ca/faculty/chinneck/thesis.html)
+  - [How to write a good master thesis](https://www.ntnu.no/blogger/ub-mh/wp-content/uploads/sites/21/2019/02/how-to-write-a-good-masterthesis-2019-final-1.pdf)
 
 ### Semana 2 -  14-18 Marzo
 
