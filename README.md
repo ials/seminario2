@@ -23,6 +23,9 @@ Las clases son los días lunes a partir de las  2:00 pm.
 
   - If you are an advanced student you can start with a different chapter (**any**)
 
+- Reading:
+  - [How to organize your thesis](http://www.sce.carleton.ca/faculty/chinneck/thesis.html)
+
 ### Semana 2 -  14-18 Marzo
 
 - Students read the following material and evaluate if their research question meets the *CFCCA* criteria:
@@ -118,9 +121,11 @@ Las clases son los días lunes a partir de las  2:00 pm.
 
 - Topics: 
   - [The research question revisited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6322175/)
+  - [The methodology chapter](https://www.sagepub.com/sites/default/files/upm-binaries/28544_Chapter1.pdf)
 
-- Task:
-  -	Start writing your methods chapter
+- Tasks:
+  - Think how to organize your methodology chapter
+  -	Start writing your methodology chapter
 
 - Exercise:
   -	Imagine you have just completed your research
@@ -153,10 +158,10 @@ Las clases son los días lunes a partir de las  2:00 pm.
 ### Semana 15 - 13-18 Junio
 
 - Topics: 
-  - Lecturer explains what to write in chapter 4
+  - Lecturer explains what to write in chapter 5
 
 - Task:
   - Edit your third chapter
   - Proofread your third chapter
     -	**Send your third chapter before 17 June at 11:59 am**
-  - Start writing your third chapter
+  - Start writing your four chapter
