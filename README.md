@@ -85,8 +85,9 @@ Las clases son los días lunes a partir de las  2:00 pm.
     -	[Advice for writing a thesis (based on what examiners do)](https://www.tandfonline.com/doi/full/10.1080/23265507.2017.1300862)
     -	Q&A on next submission 
 
-- Task:
-  -	**Edit  the chapter you will submit on 9 May.**
+- Tasks:
+  -	Edit  the chapter you will submit on 9 May
+  -	**Review & edit  your chapter 1**
 
 ### Semana 8 - 25-29 Abril
 
@@ -105,7 +106,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
   - Q & A on thesis writing 
 
 - Tasks:
-  -	**Send the chapter before 9 May at 11:59 am**
+  -	**Send the chapters 1 & 2 before 9 May at 11:59 am**
   -	Start writing the next chapter (third probably)
   
 ### Semana 10 -   9-13 Mayo
@@ -154,6 +155,7 @@ Las clases son los días lunes a partir de las  2:00 pm.
 
 - Task:
   - Edit your third chapter
+  - Review & edit your chapters 1 & 2
 
 ### Semana 15 - 13-18 Junio
 
@@ -163,5 +165,5 @@ Las clases son los días lunes a partir de las  2:00 pm.
 - Task:
   - Edit your third chapter
   - Proofread your third chapter
-    -	**Send your third chapter before 17 June at 11:59 am**
+    -	**Send your chapters 1 & 2 & 3 before 17 June at 11:59 am**
   - Start writing your four chapter
