@@ -1,5 +1,5 @@
-## Maestría en Geomática -   Código Curso 2020771
-## UNAL - 2022 - Primer Período Académico 
+## Seminario de Investigación II -   Código Curso 2020771
+## UNAL - Maestría en Geomática - 2022 1S - 
 
 Este es un curso que se dictará entre el  7 de Marzo y el 2 de Junio.
 Las clases son los días lunes a partir de las  2:00 pm.
