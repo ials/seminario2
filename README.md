@@ -58,16 +58,22 @@ Las clases son los días lunes a partir de las  2:00 pm.
  
 ### Semana 5 - 4-8 Abril
 
+- **The first chapter  is due on 4 April at 15:00 pm**
+  - Send your  pdf file  by e-mail:
+    - Use this subject: **[SEM2]  Primera entrega  Nombre Apellido**
+    - Name your file as follows:  **TesisMG_NApellido_CapX.pdf**
+    - Copy to your supervisor(s)
+
 - Lecturer reviews what to write in the second chapter:
   - [Writing A Literature Review For An Applied Master's Degree](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1022&context=od_working_papers)
     - [Slides](https://drive.google.com/file/d/1S9Unijk4A9EruMZLmyI8qxph_eHIL6uc/view?usp=sharing) 
   - [How to do a literature review for your Master Thesis?](https://www.unil.ch/hec/files/live/sites/hec/files/doc/master/mscis/how-to-do-a-literature-review-for-your-master-thesis.pdf)
 
-- **The first chapter (or any other chapter) is due on 4 April at 11:59 am**
-  - Send your  pdf file  by e-mail:
-    - Use this subject: **[SEM2]  Primera entrega  Nombre Apellido**
-    - Name your file as follows:  **TesisMG_Nombre_Apellido_CapX.pdf**
-    - Copy to your supervisor(s)
+- Reading:
+  - [Distinguishing between Theory, Theoretical Framework, and Conceptual
+Framework](https://files.eric.ed.gov/fulltext/EJ1198682.pdf)
+  - [The Distinctions Between Theory, Theoretical
+Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facdev/facdev-prodev-mer.pdf)
 
 - Task:
   -	Start writing the chapter 2 (or any other) as agreed with your supervisor (**due on 9 May**)
