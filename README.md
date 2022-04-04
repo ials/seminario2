@@ -125,7 +125,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   - Q & A on thesis writing 
 
 - Task:
-  -	Keep writing your third (or any) chapter
+  -	Keep writing your third chapter
 
 ### Semana 11 -  16-20 Mayo
 
@@ -174,5 +174,5 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 - Task:
   - Edit your third chapter
   - Proofread your third chapter
-    -	**Send your chapters 1 & 2 & 3 before 17 June at 11:59 am**
+    -	**Send your chapters 1 & 2 & 3 before 13 June at 11:59 am**
   - Start writing your four chapter
