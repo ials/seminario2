@@ -96,7 +96,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Tasks:
   -	Edit  the chapter you will submit on 9 May
-  -	**Review & edit  your chapter 1**
+  -	**Review & edit  your chapter 2**
 
 ### Semana 8 - 25-29 Abril
 
