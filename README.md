@@ -102,12 +102,11 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Topics: 
   - How to write the chapter 3
-  - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
 - Tasks:
-  -	Proofread the chapter you will submit on 9 May
+  -	Review the chapter you will submit on 9 May
+  -	Talk to your thesis director to get feedback on your writing
  
-
 ### Semana 9 -  2-5 Mayo
 
 - Topics: 
@@ -115,8 +114,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   - Q & A on thesis writing 
 
 - Tasks:
-  -	**Send the chapters 1 & 2 before 9 May at 11:59 am**
-  -	Start writing the next chapter (third probably)
+   -	Proof-read the chapter you will submit on 9 May
   
 ### Semana 10 -   9-13 Mayo
 
@@ -124,8 +122,12 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   - Feedback on submitted document
   - Q & A on thesis writing 
 
-- Task:
-  -	Keep writing your third chapter
+- Tasks:
+  -	**Send the chapters 1 & 2 before 9 May at 11:59 am**
+    - Attach your answer to my observations & comments to chapter 1
+
+  -	Start writing the next chapter (third probably)
+    - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
 
 ### Semana 11 -  16-20 Mayo
 
