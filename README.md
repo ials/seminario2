@@ -137,7 +137,8 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Tasks:
   - Think how to organize your methodology chapter
-  -	Start writing your methodology chapter
+  -	Keep writing your methodology chapter
+  -	[Review observations on your chapters 1 and 2](https://drive.google.com/file/d/1W71-Wpk_RFPbpnrGR_kncAbG3fnHYenh/view?usp=sharing) 
 
 - Exercise:
   -	Imagine you have just completed your research
