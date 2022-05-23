@@ -149,6 +149,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 - Topics: 
   - [The research question](https://drive.google.com/file/d/1ZLdu93erPDEr01I6qtQqjnFBvfePSmDz/view?usp=sharing)
   - Lecturer reviews examples of chapter 3
+    - [Semantic segmentation of LiDAR point clouds](https://repository.tudelft.nl/islandora/object/uuid:699fb934-4d4b-4cf1-a115-75dcb79fbebb/datastream/OBJ/download)
 
 - Task:
   -	Keep writing your third  chapter
