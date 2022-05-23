@@ -133,7 +133,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Topics: 
   - [The research question](https://drive.google.com/file/d/1ZLdu93erPDEr01I6qtQqjnFBvfePSmDz/view?usp=sharing)
-    - [The research question revisited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6322175/)
+    
   - [The methodology chapter](https://www.sagepub.com/sites/default/files/upm-binaries/28544_Chapter1.pdf)
 
 - Tasks:
@@ -148,6 +148,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 ### Semana 12 - 23-27 Mayo
 
 - Topics: 
+  - [The research question revisited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6322175/)
   - Lecturer reviews examples of chapter 3
 
 - Task:
