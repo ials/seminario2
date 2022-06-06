@@ -165,6 +165,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 ### Semana 14 - 6-10 Junio
 
 - Topics: 
+  - [Ten simple rules for writing a response to reviewers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005730)
   - Lecturer explains what to write in chapter 4
 
 - Task:
