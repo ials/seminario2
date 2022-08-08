@@ -170,7 +170,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Task:
   - Edit your third chapter
-  - Review & edit your chapters 1 & 2
+  - Review your chapters 1 & 2
 
 ### Semana 14 a 18 de noviembre
 
@@ -178,18 +178,15 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   - Lecturer explains what to write in chapter 5
 
 - Task:
-  - Edit your third chapter
-  - Proofread your third chapter
-    -	**Send your chapters 1 & 2 & 3 before 13 June at 11:59 am**
-  - Start writing your four chapter
+  - Edit your submission (chapters 1, 2, 3)
+
   
 ### Semana 21 a 25 de noviembre
 
 - Topics: 
   - Lecturer explains what to write in chapter 6
 
-- Task:
-  - Edit your third chapter
-  - Proofread your third chapter
+- Tasks:
+  - Proofread your upcoming submission
     -	**Send your chapters 1 & 2 & 3 before 30 November at 11:59 pm**
   - Start writing your four chapter
