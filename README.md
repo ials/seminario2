@@ -123,11 +123,10 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   - Q & A on thesis writing 
 
 - Tasks:
-  -	**Send the chapters 1 & 2 before 13 October at 11:59 am**
+  -	**Send the chapters 1 & 2 before 16 October at 11:59 am**
     - Attach your answer to my observations & comments to chapter 1
 
-  -	Start writing the next chapter (third probably)
-    - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
+ 
 
 ### Semana 11 -  17 a 21 de octubre
 
@@ -136,10 +135,10 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   - [The methodology chapter](https://www.sagepub.com/sites/default/files/upm-binaries/28544_Chapter1.pdf)
 
 - Tasks:
-  - Think how to organize your methodology chapter
-  -	Keep writing your methodology chapter
-  -	[Review observations on your chapters 1 and 2](https://drive.google.com/file/d/1W71-Wpk_RFPbpnrGR_kncAbG3fnHYenh/view?usp=sharing) 
-
+  - Think how to organize 
+  -	Start writing your methodology chapter
+    - [Example of a workflow](https://drive.google.com/file/d/1X72JinVkj3j-TSgMtWiyezMe2o-pu8z8/view?usp=sharing)
+    
 - Exercise:
   -	Imagine you have just completed your research
     -	How would you reply to your research questions?
@@ -151,8 +150,9 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   - Lecturer reviews examples of chapter 3
     - [Semantic segmentation of LiDAR point clouds](https://repository.tudelft.nl/islandora/object/uuid:699fb934-4d4b-4cf1-a115-75dcb79fbebb/datastream/OBJ/download)
 
-- Task:
-  -	Keep writing your third  chapter
+- Tasks:
+  -	Keep writing your methodology chapter
+  -	[Review observations on your chapters 1 and 2](https://drive.google.com/file/d/1W71-Wpk_RFPbpnrGR_kncAbG3fnHYenh/view?usp=sharing) 
   
 ### Semana 13 - 31 de octubre a 4 de noviembre
 
@@ -188,5 +188,5 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Tasks:
   - Proofread your upcoming submission
-    -	**Send your chapters 1 & 2 & 3 before 30 November at 11:59 pm**
+    -	**Send your chapters 1 & 2 & 3 before 23 November at 11:59 pm**
   - Start writing your four chapter
