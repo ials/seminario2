@@ -157,7 +157,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Tasks:
   -	Keep writing your methodology chapter
-  -	[Review observations on your chapters 1 and 2](https://drive.google.com/file/d/1W71-Wpk_RFPbpnrGR_kncAbG3fnHYenh/view?usp=sharing) 
+  -	[Review observations on your chapters 1 and 2] 
   
 ### Semana 13 - 31 de octubre a 4 de noviembre
 
