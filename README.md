@@ -131,6 +131,11 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 ### Semana 11 -  17 a 21 de octubre
 
 - Topics: 
+  - Examples of M.Sc. in Geoinformatics thesis:
+    - [WUR](https://edepot.wur.nl/532435)
+    - [UTWENTE](https://essay.utwente.nl/92922/)
+
+- Readings:
   - [The research question revisited](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6322175/)
   - [The methodology chapter](https://www.sagepub.com/sites/default/files/upm-binaries/28544_Chapter1.pdf)
 
