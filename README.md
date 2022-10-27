@@ -126,8 +126,6 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
   -	**Send the chapters 1 & 2 before 16 October at 11:59 am**
     - Attach your answer to my observations & comments to chapter 1
 
- 
-
 ### Semana 11 -  17 a 21 de octubre
 
 - Topics: 
@@ -151,18 +149,22 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 ### Semana 12 - 24 a 28 de octubre
 
 - Topics: 
+   - [Writing the Results](http://users.clas.ufl.edu//msscha/ThesisCSS/thesis_results.html)
+   - [Writing the discussion](http://users.clas.ufl.edu//msscha/ThesisCSS/thesis_disc.html)
+   - In-Class writing exercise
+   
+- Additional resources:
   - [The research question](https://drive.google.com/file/d/1ZLdu93erPDEr01I6qtQqjnFBvfePSmDz/view?usp=sharing)
-  - Lecturer reviews examples of chapter 3
-    - [Semantic segmentation of LiDAR point clouds](https://repository.tudelft.nl/islandora/object/uuid:699fb934-4d4b-4cf1-a115-75dcb79fbebb/datastream/OBJ/download)
 
-- Tasks:
+- Homework:
   -	Keep writing your methodology chapter
-  -	[Review observations on your chapters 1 and 2] 
+  -	Revise your chapters 1 and 2 to address comments 
   
 ### Semana 13 - 31 de octubre a 4 de noviembre
 
 - Topics: 
-  - Lecturer reviews examples of chapter 3
+  - Lecturer reviews examples of chapter 3:
+    - [Semantic segmentation of LiDAR point clouds](https://repository.tudelft.nl/islandora/object/uuid:699fb934-4d4b-4cf1-a115-75dcb79fbebb/datastream/OBJ/download)
 
 - Task:
   - Complete your third chapter
