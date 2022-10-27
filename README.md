@@ -150,7 +150,7 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 
 - Topics: 
    - [Writing the Results](http://users.clas.ufl.edu//msscha/ThesisCSS/thesis_results.html)
-   - [Writing the discussion](http://users.clas.ufl.edu//msscha/ThesisCSS/thesis_disc.html)
+   - [Writing the Discussion](http://users.clas.ufl.edu//msscha/ThesisCSS/thesis_disc.html)
    - In-Class writing exercise
    
 - Additional resources:
