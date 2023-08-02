@@ -1,5 +1,5 @@
 ---
-title: "MY COURSE CODE - MY COURSE NAME"
+title: "2027449 - PERCEPCION REMOTA AVANZADA"
 format:
   html:
     include-before-body: helpers/remove-nav.html
@@ -14,11 +14,11 @@ format:
 
 # 🎯 Learning Objectives
 
-- You will discover how to do X
-- Distinguish X from **X**
-- Practice how to put things _in italic_
-- Discover how to highlight `code` inline
-- Proceed to learn stuff
+- Apprise the process of image analysis and its relation to research.
+- Understand the physical principles of radar-based remote sensing. 
+- Distinguish the main steps for SAR images correction.
+- To know and apply advanced methods and techniques  to obtain thematic information from Earth Observation data.
+
 
 
 -----------------
@@ -26,6 +26,6 @@ format:
 **Select Academic Year/Term:**
 
 <a href="2023/index.qmd">
-    <button class="button-61">2022/23</button>
+    <button class="button-61">2023</button>
 </a>
 
