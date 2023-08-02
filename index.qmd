@@ -8,16 +8,16 @@ format:
 
 # 📑 Course Brief
 
-**Focus:** the focus of this course is to learn stuff
+**Focus:** the focus of this course is to gain knowledge for developing remote sensing analysis workflows.
 
-**How:** hands-on learning
+**How:** reading & writing plus learning by doing
 
 # 🎯 Learning Objectives
 
-- Apprise the process of image analysis and its relation to research.
-- Understand the physical principles of radar-based remote sensing. 
+- Appraise the process of image analysis and its relation to research.
+- Understand the physical principles of optical and radar-based remote sensing. 
 - Distinguish the main steps for SAR images correction.
-- To know and apply advanced methods and techniques  to obtain thematic information from Earth Observation data.
+- To know and apply advanced computational techniques  to obtain thematic information from Earth Observation data.
 
 
 

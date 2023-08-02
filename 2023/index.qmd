@@ -1,6 +1,6 @@
 ---
-title: "MY_COURSE_CODE - MY_COURSE_NAME"
-subtitle: "Academic Year: 2022/23"
+title: "2027449 - PERCEPCION REMOTA AVANZADA"
+subtitle: "Academic Year: 2023"
 format: html
 ---
 
@@ -20,7 +20,7 @@ format: html
 ## Course Convenor
 
 
-![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. MY NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
+![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of Dr. IVAN LIZARAZO" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
 **[MY_NAME](#)** <br/>
 _MY_JOB_TITLE_ <br/>
 [MY_INSTITUTION](#)</a><br/>
@@ -49,7 +49,7 @@ PhD Candidate at PLACE <br>
 
 # 📍 Lecture
 
-Fridays 2pm-4pm at PLACE
+Wednesdays 2pm-6pm at SALON 103
 
 # 💻 Class Groups
 
