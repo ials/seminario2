@@ -1,1 +1,1 @@
-Sitemap: https://github.com/jonjoncardoso/quarto-template-for-university-courses/sitemap.xml
+Sitemap: https://github.com/ials/ARS/sitemap.xml
