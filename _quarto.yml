@@ -81,6 +81,6 @@ format:
       - css/syllabus.css
     toc: true
 
-margin-header: |
-![](/figures/icons/UNAL-1.png)
+#margin-header: 
+#![](/figures/icons/UNAL-1.png)
 
