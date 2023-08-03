@@ -56,8 +56,57 @@ format:
 
 :::
 
-## Teaching Assistants {.smaller}
+## Students {.smaller}
 
-IALS
+### Please introduce yourself
 
 :::
+
+# What we know about remote sensing 
+
+Open your notebook and write down if you agree or not with each of the next statements
+
+## Statement 1
+Satellites measure the reflectance of features on the ground
+
+## Statement 2
+Land cover classification is a simple process of grouping  pixels based on spectral properties 
+
+## Statement 3
+Spectral resolution is the number of bands  available from a particular sensor 
+
+## Statement 4
+Measuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change.
+
+## Statement 5
+Landsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy
+
+## Statement 6
+Square pixels in an image accurately represent a square area on the Earth's surface
+
+# What we know about Python
+
+## Basic python quiz 
+
+### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
+
+# Flipped classroom
+
+## Reading, doing and writing
+
+A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
+
+# To do before next class 
+
+## [Read this document](https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
+
+This chapter focuses on Synthetic Aperture Radar (SAR) data. It provides an introduction to SAR systems and detail how data are acquired, whereas the main parameters are introduced. Radar systems are based on the interaction of the radar emitted and transmitted signals with targets.
+
+Frery, Wu and Gomez, 2022. *SAR Image Analysis— A Computational Statistics Approach with R Code, Data, and Applications* 
+
+
+## [Watch this video](https://www.iceye.com/vos-talk1-video-page)
+
+In this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.
+
+Speaker: Tom Ager (ICEYE)
