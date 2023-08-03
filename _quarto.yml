@@ -24,8 +24,8 @@ website:
     contents:
       - href: 2023/index.qmd
         text: "🏠 Home"
-      # - href: 2023/syllabus.qmd
-      #   text: "📓 Syllabus"
+        - href: 2023/syllabus.qmd
+          text: "📓 Syllabus"
       # - href: 2023/communication.qmd
       #   text: "📟 Communication"
       # - href: 2023/assignments.qmd
@@ -63,8 +63,8 @@ csl: references/chicago-author-date.csl
 
 format:
   html:
-    author: Dr. [Ivan Lizarazo](#)
-    author-meta: Dr. Ivan Lizarazo
+    author: [Ivan Lizarazo](#)
+    author-meta: Ivan Lizarazo
     date-format: "DD MMMM YYYY"
 
     email-obfuscation: javascript
