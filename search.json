@@ -14,11 +14,25 @@
     "text": "Teaching Assistants\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, OUN  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, UOS  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\n\nMY_COURSE_CODE – MY_COURSE_NAME"
   },
   {
-    "objectID": "2023/index.html",
-    "href": "2023/index.html",
+    "objectID": "2023/syllabus.html",
+    "href": "2023/syllabus.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Important\n\n\n\n\n\n(12/03/2023)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nMY_NAME  MY_JOB_TITLE  MY_INSTITUTION 📧 MY_EMAIL ( at )\nOffice Hours:\n\nWhen:\nWhere:\nHow to book:\n\n\n\n\nTA_NAME  PhD Candidate at PLACE  📧 EMAIL ( at )\n\nTA_NAME  PhD Candidate at PLACE  📧 EMAIL ( at )\n\n\n\n\n\n📍 Lecture\nWednesdays 2pm-6pm at SALON 103\n\n\n💻 Class Groups\n\nGroup 01\n\n📆 Mondays\n⌚ 09:00 - 10:30\n📍\n🧑‍🏫 TA_NAME\n\n\n\nGroup 02\n\n📆 Mondays\n⌚ 10:30 - 12:00\n📍\n🧑‍🏫 TA_NAME\n\n\n\nGroup 03\n\n📆 Fridays\n⌚ 16:00 - 17:30\n📍\n🧑‍🏫 TA_NAME"
+    "text": "::: {.callout-important collapse=false} ## DESCRIPCIÓN DE LA ASIGNATURA:"
+  },
+  {
+    "objectID": "2023/syllabus.html#contenido-detallado",
+    "href": "2023/syllabus.html#contenido-detallado",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "CONTENIDO DETALLADO",
+    "text": "CONTENIDO DETALLADO"
+  },
+  {
+    "objectID": "2023/syllabus.html#parte-1-radar-de-apertura-sintetica-sar",
+    "href": "2023/syllabus.html#parte-1-radar-de-apertura-sintetica-sar",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)",
+    "text": "PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\nSemana 1 – Conceptos básicos de radar\n\n\nSemana 2 - Influencia de objetos en la respuesta SAR\n\n\nSemana 3 - Procesamiento básico de imágenes SAR - SNAP\n\n\nSemana 4 – Propiedades radiativas de suelos y vegetación\n\n\nSemana 5 – Procesamiento básico de imágenes SAR - GEE - JS\n\n\nSemana 6 – Procesamiento básico de imágenes SAR - GEE - Python\n\n\nSemana 7 – Analysis Ready Sentinel-1 Data\n\n\nSemana 8 – Open Data Cube\nPARTE 2 – APRENDIZAJE PROFUNDO (DEEP LEARNING)\n\n\nSemana 9 – Fundamentos de Deep Learning\n\n\nSemana 10 – Redes neuronales convolucionales\n\n\nSemana 11 - Clasificación de imágenes\n\n\nSemana 12 - Segmentación semántica I\n\n\nSemana 13 - Deep Learning for remote sensing\n\n\nSemana 14 - Segmentación semántica II\n\n\nSemana 15 - Aplicaciones en vegetación\n\n\nSemana 16 - Aplicaciones en recursos hídricos"
   },
   {
     "objectID": "index.html",
@@ -26,6 +40,13 @@
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
     "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing remote sensing analysis workflows.\nHow: reading & writing plus learning by doing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nUnderstand the physical principles of optical and radar-based remote sensing.\nDistinguish the main steps for SAR images correction.\nTo know and apply advanced computational techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2023"
+  },
+  {
+    "objectID": "2023/index.html",
+    "href": "2023/index.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "📢 Important\n\n\n\n\n\n(12/03/2023)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE_PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen:\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\n\nTA_NAME  PhD Candidate at PLACE  📧 EMAIL ( at )\n\nTA_NAME  PhD Candidate at PLACE  📧 EMAIL ( at )\n\n\n\n\n\n📍 Lecture\nWednesdays 2pm-6pm at SALON 103\n\n\n💻 Class Groups\n\nGroup 01\n\n📆 Mondays\n⌚ 09:00 - 10:30\n📍\n🧑‍🏫 TA_NAME\n\n\n\nGroup 02\n\n📆 Mondays\n⌚ 10:30 - 12:00\n📍\n🧑‍🏫 TA_NAME\n\n\n\nGroup 03\n\n📆 Fridays\n⌚ 16:00 - 17:30\n📍\n🧑‍🏫 TA_NAME"
   },
   {
     "objectID": "2023/weeks/week01/page.html",
