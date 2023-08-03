@@ -63,8 +63,8 @@ csl: references/chicago-author-date.csl
 
 format:
   html:
-    author: [Ivan Lizarazo](#)
-    author-meta: Ivan Lizarazo
+    author: PhD [Ivan Lizarazo](#)
+    author-meta: PhD Ivan Lizarazo
     date-format: "DD MMMM YYYY"
 
     email-obfuscation: javascript
