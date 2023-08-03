@@ -13,7 +13,7 @@ Use your keypad to navigate the slides.
 <iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
 </div>
 
-🎥 Looking for lecture recordings? You can only find those on Moodle.
+🎥 
 
 ## ✍️ Coursework
 
@@ -26,4 +26,4 @@ Use your keypad to navigate the slides.
 
 ## 📟 Communication
 
-- If you feel like it, introduce yourself in the `#introductions` channel on Slack
+- If you feel like it, get to know your peers in the course and organize study groups 

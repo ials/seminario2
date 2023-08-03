@@ -13,10 +13,10 @@ format: html
 
 :::
 
-::: {.callout-important collapse=false}
+::: {.callout-note collapse=false}
 ## 📢 Important
 
-(12/03/2023)
+(09/08/2023)
 
 - [🗓️ Week 01 lecture material](/2023/weeks/week01/page.qmd) is now available!
 
@@ -48,6 +48,6 @@ Office Hours:
 
 :::
 
-# 📍 Lecture
+# 📍 Dates - Location
 
 Wednesdays 2pm-6pm at SALON 103
