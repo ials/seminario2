@@ -15,7 +15,7 @@ website:
   twitter-card: 
     creator: "@<twitter-handle>"
     site: "\\@<twitter-handle>"
-  favicon: "figures/icons/ARS-1_favicon.png"
+  favicon: "figures/icons/ARS-1.png"
   search:
     location: navbar
     type: textbox
@@ -82,5 +82,5 @@ format:
     toc: true
 
 #margin-header: |
-# ![](/figures/logos/UNAL-1.png)
+# ![](/figures/icons/UNAL-1.png)
 
