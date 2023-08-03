@@ -20,17 +20,17 @@ format: html
 ## Course Convenor
 
 
-![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of Dr. IVAN LIZARAZO" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
-**[MY_NAME](#)** <br/>
-_MY_JOB_TITLE_ <br/>
-[MY_INSTITUTION](#)</a><br/>
-📧 [MY_EMAIL](mailto:)
+![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of Dr. IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
+**[IVAN LIZARAZO](#)** <br/>
+_ASSOCIATE_PROFESSOR_ <br/>
+[UNAL](#)</a><br/>
+📧 [ializarazos@unal.edu.co](mailto:)
 
 Office Hours: 
 
-- When:
-- Where:
-- How to book:
+- When: 
+- Where: Oficina 333
+- How to book: via e-mail
 
 ## Teaching Staff
 

@@ -1,0 +1,72 @@
+---
+title: "2027449 - PERCEPCION REMOTA AVANZADA"
+subtitle: "Academic Year: 2023"
+format: html
+---
+
+::: {.callout-important collapse=false}
+## DESCRIPCIÓN DE LA ASIGNATURA:
+
+### OBJETIVOS:
+-	Entender el proceso de percepción remota de la superficie terrestre y su relación con la investigación
+-	Conocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)
+-	Entender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR
+-	Aplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR
+
+### COMPETENCIAS GENÉRICAS: 
+-	Comprensión de los fundamentos teóricos de la percepción remota
+-	Obtención de habilidades prácticas para seleccionar, procesar y analizar imágenes
+-	Desarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota
+
+### COMPETENCIAS ESPECÍFICAS:
+- Entendimiento del flujo de trabajo genérico  de percepción remota
+- Adaptación y creación de scripts para  procesamiento y análisis de imágenes
+-	Evaluación de la calidad de productos de percepción remota
+
+### METODOLOGIA:
+-	Presentación de conceptos, métodos y técnicas a cargo del profesor
+-	Realización de ejercicios prácticos y elaboración de reportes técnicos por parte del estudiante
+
+## CONTENIDO DETALLADO 
+
+## PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)
+
+### Semana 1 – Conceptos básicos de radar  
+
+### Semana 2 -  Influencia de objetos en la respuesta SAR
+
+### Semana 3 - Procesamiento básico de imágenes SAR - SNAP
+
+### Semana 4 – Propiedades radiativas de suelos y vegetación
+
+### Semana 5 – Procesamiento básico de imágenes SAR - GEE - JS
+
+### Semana 6 –  Procesamiento básico de imágenes SAR - GEE - Python
+
+### Semana 7 – Analysis Ready Sentinel-1 Data 
+
+### Semana 8 – Open Data Cube
+
+
+PARTE 2 – APRENDIZAJE PROFUNDO  (DEEP LEARNING)
+
+### Semana 9 – Fundamentos de Deep Learning 
+
+
+### Semana 10  – Redes neuronales convolucionales
+
+
+### Semana 11 - Clasificación de imágenes 
+
+
+### Semana 12 - Segmentación semántica I
+
+### Semana 13 - Deep Learning for remote sensing
+
+### Semana 14 -  Segmentación semántica II
+
+### Semana 15 - Aplicaciones en vegetación
+
+### Semana 16 - Aplicaciones en recursos hídricos
+
+
