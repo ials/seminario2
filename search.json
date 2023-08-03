@@ -7,11 +7,81 @@
     "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\ndeep ocean  Civil Engineer  Geography"
   },
   {
-    "objectID": "2023/weeks/week01/slides.html#teaching-assistants",
-    "href": "2023/weeks/week01/slides.html#teaching-assistants",
+    "objectID": "2023/weeks/week01/slides.html#students",
+    "href": "2023/weeks/week01/slides.html#students",
     "title": "🗓️ Week 01 Introduction",
-    "section": "Teaching Assistants",
-    "text": "Teaching Assistants\nIALS\n:::\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "section": "Students",
+    "text": "Students\nPlease introduce yourself\n:::"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-1",
+    "href": "2023/weeks/week01/slides.html#statement-1",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 1",
+    "text": "Statement 1\nSatellites measure the reflectance of features on the ground"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-2",
+    "href": "2023/weeks/week01/slides.html#statement-2",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 2",
+    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-3",
+    "href": "2023/weeks/week01/slides.html#statement-3",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 3",
+    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-4",
+    "href": "2023/weeks/week01/slides.html#statement-4",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 4",
+    "text": "Statement 4\nMeasuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change."
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-5",
+    "href": "2023/weeks/week01/slides.html#statement-5",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 5",
+    "text": "Statement 5\nLandsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-6",
+    "href": "2023/weeks/week01/slides.html#statement-6",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 6",
+    "text": "Statement 6\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#basic-python-quiz",
+    "href": "2023/weeks/week01/slides.html#basic-python-quiz",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Basic python quiz",
+    "text": "Basic python quiz\nSolve this simple quiz"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#reading-doing-and-writing",
+    "href": "2023/weeks/week01/slides.html#reading-doing-and-writing",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Reading, doing and writing",
+    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#read-this-document",
+    "href": "2023/weeks/week01/slides.html#read-this-document",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Read this document",
+    "text": "Read this document\nThis chapter focuses on Synthetic Aperture Radar (SAR) data. It provides an introduction to SAR systems and detail how data are acquired, whereas the main parameters are introduced. Radar systems are based on the interaction of the radar emitted and transmitted signals with targets.\nFrery, Wu and Gomez, 2022. SAR Image Analysis— A Computational Statistics Approach with R Code, Data, and Applications"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#watch-this-video",
+    "href": "2023/weeks/week01/slides.html#watch-this-video",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Watch this video",
+    "text": "Watch this video\nIn this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.\nSpeaker: Tom Ager (ICEYE)\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
     "objectID": "2023/syllabus.html",
