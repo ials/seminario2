@@ -5,6 +5,15 @@ format: html
 ---
 
 ::: {.callout-important collapse=false}
+## 📢 Syllabus
+
+(12/03/2023)
+
+- [🗓️ Know the syllabus here!](/2023/syllabus.qmd)
+
+:::
+
+::: {.callout-important collapse=false}
 ## 📢 Important
 
 (12/03/2023)
@@ -20,7 +29,7 @@ format: html
 ## Course Convenor
 
 
-![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of Dr. IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
+![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
 **[IVAN LIZARAZO](#)** <br/>
 _ASSOCIATE_PROFESSOR_ <br/>
 [UNAL](#)</a><br/>
