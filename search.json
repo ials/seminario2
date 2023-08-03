@@ -4,14 +4,14 @@
     "href": "2023/weeks/week01/slides.html#your-lecturer",
     "title": "🗓️ Week 01 Introduction",
     "section": "Your lecturer",
-    "text": "Your lecturer\n\n\n\n\n\nProf. Octopian Professor of Octopus Issues Head of the Python vs R Debate Society\n\n\n\n\nPhD in Octopi Engineering\nBackground: Engineering of Deep Ocean constructions\nFormer Lead Data Scientist\n\ndeep ocean  engineering  octopus"
+    "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\ndeep ocean  Civil Engineer  Geography"
   },
   {
     "objectID": "2023/weeks/week01/slides.html#teaching-assistants",
     "href": "2023/weeks/week01/slides.html#teaching-assistants",
     "title": "🗓️ Week 01 Introduction",
     "section": "Teaching Assistants",
-    "text": "Teaching Assistants\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, OUN  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\nOctopnuian Arveda  PhD Candidate at OctopusLab, UOS  MSc in Octopus Transportation 📧 \n\n\n\n\n\n\n\nMY_COURSE_CODE – MY_COURSE_NAME"
+    "text": "Teaching Assistants\nIALS\n:::\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
     "objectID": "2023/syllabus.html",
@@ -32,7 +32,7 @@
     "href": "2023/syllabus.html#contenido-detallado",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nPARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\n\n\n\n\n\nSemana 1 –\n\n\nSemana 2 - Conceptos básicos de radar\n\n\nSemana 3 - Procesamiento básico de imágenes SAR - SNAP\n\n\nSemana 4 – Propiedades radiativas de suelos y vegetación\n\n\nSemana 5 – Procesamiento básico de imágenes SAR - GEE - JS\n\n\nSemana 6 – Procesamiento básico de imágenes SAR - GEE - Python\n\n\nSemana 7 – Analysis Ready SAR Data\n\n\nSemana 8 – Open Data Cube\n\n\n\n\n\n\n\n\n\n\nPARTE 2 – APRENDIZAJE PROFUNDO (DEEP LEARNING)\n\n\n\n\n\n\nSemana 9 – Fundamentos de Deep Learning (DL)\n\n\nSemana 10 – Redes neuronales convolucionales\n\n\nSemana 11 - Clasificación de imágenes\n\n\nSemana 12 - Segmentación semántica I\n\n\nSemana 13 - Deep Learning for remote sensing\n\n\nSemana 14 - Segmentación semántica II\n\n\nSemana 15 - Aplicaciones DL en vegetación\n\n\nSemana 16 - Aplicaciones DL en recursos hídricos"
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nPARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\n\n\n\n\n\nSemana 1 – Repaso, Contexto & Conceptos claves\n\n\nSemana 2 - Conceptos básicos de radar\n\n\nSemana 3 - Procesamiento básico de imágenes SAR - SNAP\n\n\nSemana 4 – Propiedades radiativas de suelos y vegetación\n\n\nSemana 5 – Procesamiento básico de imágenes SAR - GEE - JS\n\n\nSemana 6 – Procesamiento básico de imágenes SAR - GEE - Python\n\n\nSemana 7 – Analysis Ready SAR Data\n\n\nSemana 8 – Open Data Cube\n\n\n\n\n\n\n\n\n\n\nPARTE 2 – APRENDIZAJE PROFUNDO (DEEP LEARNING)\n\n\n\n\n\n\nSemana 9 – Fundamentos de Deep Learning (DL)\n\n\nSemana 10 – Redes neuronales convolucionales\n\n\nSemana 11 - Clasificación de imágenes\n\n\nSemana 12 - Segmentación semántica I\n\n\nSemana 13 - Deep Learning for remote sensing\n\n\nSemana 14 - Segmentación semántica II\n\n\nSemana 15 - Aplicaciones DL en vegetación\n\n\nSemana 16 - Aplicaciones DL en recursos hídricos"
   },
   {
     "objectID": "2023/syllabus.html#evaluación-del-curso",
@@ -60,7 +60,7 @@
     "href": "2023/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(12/03/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(12/03/2023)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Lecture\nWednesdays 2pm-6pm at SALON 103"
+    "text": "📢 Syllabus\n\n\n\n\n\n(12/03/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Week 01 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
   },
   {
     "objectID": "2023/weeks/week01/page.html",
@@ -74,7 +74,7 @@
     "href": "2023/weeks/week01/page.html#lecture-slides",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥 Looking for lecture recordings? You can only find those on Moodle."
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥"
   },
   {
     "objectID": "2023/weeks/week01/page.html#coursework",
@@ -95,6 +95,6 @@
     "href": "2023/weeks/week01/page.html#communication",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "📟 Communication",
-    "text": "📟 Communication\n\nIf you feel like it, introduce yourself in the #introductions channel on Slack"
+    "text": "📟 Communication\n\nIf you feel like it, get to know your peers in the course and organize study groups"
   }
 ]
