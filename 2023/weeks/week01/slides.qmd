@@ -98,14 +98,14 @@ A flipped classroom is structured around the idea that lecture or direct instruc
 
 # To do before next class 
 
-## [Read this document](https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
+## Read [this document](https://media.wiley.com/product_data/excerpt/9X/11197952/111979529X-4.pdf)
 
 This chapter focuses on Synthetic Aperture Radar (SAR) data. It provides an introduction to SAR systems and detail how data are acquired, whereas the main parameters are introduced. Radar systems are based on the interaction of the radar emitted and transmitted signals with targets.
 
 Frery, Wu and Gomez, 2022. *SAR Image Analysis— A Computational Statistics Approach with R Code, Data, and Applications* 
 
 
-## [Watch this video](https://www.iceye.com/vos-talk1-video-page)
+## Watch [this video](https://www.iceye.com/vos-talk1-video-page)
 
 In this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.
 

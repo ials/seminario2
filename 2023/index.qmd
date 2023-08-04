@@ -7,7 +7,7 @@ format: html
 ::: {.callout-important collapse=false}
 ## 📢 Syllabus
 
-(12/03/2023)
+(09/08/2023)
 
 - [🗓️ Know the syllabus here!](/2023/syllabus.qmd)
 
