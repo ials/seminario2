@@ -41,16 +41,16 @@ format:
 :::
 
 ::: {.column style="width:50%;font-size:0.85em;margin-left:3%;"}
-- PhD in Geography
+- **PhD in Geography**
 - **MSc in GIScience**
 - **Background**: Civil Engineer 
 
 
-<span class="tag" style="background-color:var(--quarto-hl-st-color)">deep ocean</span>
+<span class="tag" style="background-color:var(--quarto-hl-st-color)">machine and deep learning</span>
 <br/>
-<span class="tag" style="background-color:var(--quarto-hl-fu-color)">Civil Engineer</span>
+<span class="tag" style="background-color:var(--quarto-hl-fu-color)">Earth observation</span>
 <br/>
-<span class="tag" style="background-color:var(--quarto-hl-dv-color)">Geography</span>
+<span class="tag" style="background-color:var(--quarto-hl-dv-color)">Territorial sustainability</span>
 
 :::
 
@@ -58,9 +58,21 @@ format:
 
 ## Students {.smaller}
 
-### Please introduce yourself
+### Please introduce yourselves
 
 :::
+
+# NASA satellites
+
+Earth Observing Fleet (January 2023)
+
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005061/fleet_2023_jan_1080p60.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
 
 # What we know about remote sensing 
 
