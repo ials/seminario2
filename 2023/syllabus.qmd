@@ -3,6 +3,9 @@ title: "2027449 - PERCEPCION REMOTA AVANZADA"
 subtitle: "Academic Year: 2023"
 format: html
 ---
+## PREREQUISITOS:
+- Aprobación del curso *Percepción Remota*
+- Aprobación del curso *Programación SIG*
 
 ## DESCRIPCIÓN DE LA ASIGNATURA:
 ::: {.callout-important collapse=false}
@@ -26,6 +29,10 @@ format: html
 -	Lectura antes de la clase a cargo del estudiante
 -   Presentación de conceptos, métodos y técnicas a cargo del profesor
 -	Realización de ejercicios prácticos y elaboración de reportes técnicos a cargo  del estudiante
+
+### SOFTWARE
+-  *PARTE 1:* Sentinel-1 Toolbox (S1TBX) 
+-  *PARTE 2:* Python & Jupyter & Google Colaboratory
 :::
 
 
