@@ -88,14 +88,21 @@
     "href": "2023/syllabus.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "OBJETIVOS:\n\n\n\n\n\n\nEntender el proceso de percepción remota de la superficie terrestre y su relación con la investigación\nConocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)\nEntender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR\nAplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR\n\n\n\n\nComprensión de los fundamentos teóricos de la percepción remota\nObtención de habilidades prácticas para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota\n\n\n\n\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEvaluación de la calidad de productos de percepción remota\n\n\n\n\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante"
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
+  },
+  {
+    "objectID": "2023/syllabus.html#prerequisitos",
+    "href": "2023/syllabus.html#prerequisitos",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
   },
   {
     "objectID": "2023/syllabus.html#descripción-de-la-asignatura",
     "href": "2023/syllabus.html#descripción-de-la-asignatura",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "OBJETIVOS:\n\n\n\n\n\n\nEntender el proceso de percepción remota de la superficie terrestre y su relación con la investigación\nConocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)\nEntender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR\nAplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR\n\n\n\n\nComprensión de los fundamentos teóricos de la percepción remota\nObtención de habilidades prácticas para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota\n\n\n\n\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEvaluación de la calidad de productos de percepción remota\n\n\n\n\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante"
+    "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nEntender el proceso de percepción remota de la superficie terrestre y su relación con la investigación\nConocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)\nEntender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR\nAplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota\nObtención de habilidades prácticas para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEvaluación de la calidad de productos de percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPARTE 1: Sentinel-1 Toolbox (S1TBX)\nPARTE 2: Python & Jupyter & Google Colaboratory"
   },
   {
     "objectID": "2023/syllabus.html#contenido-detallado",
