@@ -37,7 +37,7 @@ S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09
 
 ![](figures/ASF_downloads.png){width=80%}
 
-![](figures/ASF-Metadata.png)
+![](figures/ASF-Metadata.png){width=80%}
 :::
 🎥 
 
@@ -47,6 +47,8 @@ S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09
 archive which means that products of older acquisition dates have to be requested first. 
 
 ::: {.callout-important collapse=true}
+## After ordering, you have to wait ...
+
 ![](figures/Sci_CART1.png){width=80%}
 
 ![](figures/Sci_CART2.png){width=40%}

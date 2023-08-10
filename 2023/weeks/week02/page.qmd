@@ -2,33 +2,21 @@
 title: "🗓️ Week 02 - Basic concepts of SAR"
 ---
 
-### In this  week, we will review  basic concepts of synthetic aperture radar (SAR):
+In this  week, we will review  basic concepts of synthetic aperture radar (SAR):
 
-##### What is "synthetic" about SAR
 
-##### The Role of Frequency and Wavelength
+In addition, We will follow a tutorial in order to classify land cover using SAR data
 
-##### Polarization and Scattering Mechanisms
-
-##### Geometry of data acquisition
-
-##### Spatial resolution
-
-### In addition, We will follow a tutorial in order to classify land cover using SAR data
-
-#### Make sure you download the data before the class as explained [here](lab.qmd) 
 
 ## 👨‍🏫 Lecture Slides 
 
 Click [here](slides.qmd) to view it in fullscreen.
 
-🎥 
 
 ## Practical exercise
 
-Make sure you  download the tutorial  data before the class as explained [here](lab.qmd) 
+**Make sure you  download the tutorial  data before the class as explained [here](lab.qmd)**
 
-🎥 
 
 ## 📚 Recommended Reading
 
