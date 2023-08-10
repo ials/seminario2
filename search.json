@@ -21,11 +21,11 @@
     "text": "In this week, we will follow the “SAR-based land cover classification tutorial”"
   },
   {
-    "objectID": "2023/weeks/week02/lab.html#data",
-    "href": "2023/weeks/week02/lab.html#data",
+    "objectID": "2023/weeks/week02/lab.html#tutorial-dataset",
+    "href": "2023/weeks/week02/lab.html#tutorial-dataset",
     "title": "🗓️ Week 02 - Practical exercise",
-    "section": "👨‍🏫 Data",
-    "text": "👨‍🏫 Data\n\nThe data used in this tutorial can be downloaded either from\n\nthe Copernicus Open Access Hub\nor from\n\n\nthe Alaska Satellite Facility\nIn both cases, a registration is required.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
+    "section": "👨‍🏫 Tutorial Dataset",
+    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
   },
   {
     "objectID": "2023/weeks/week02/lab.html#important",
