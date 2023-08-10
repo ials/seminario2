@@ -43,11 +43,10 @@ Thus, the range distance to the target is $R = \frac {c\tau}{2}$
 
 # The Radar Equation
 
-The power leaving the antena ($\P_t$) is shaped by the antenna gain ($G$) and the properties the observed target ($\sigma$), and is reduced by the surface area of a sphere at radius $R$:
+The power scattered by the target ($Pt$) is  proportional to the power leaving the antena ($P$)  shaped by the antenna gain ($G$) and  reduced by the ratio of backscattering cross-section  ($\sigma$) to the  surface area of a sphere at radius $R$:
 
-$P_t = PtG \frac{\sigma}{\4\piR**2}$
+$Pt = P * G * \frac{\sigma}{4 * \pi * R**2}$
 
-$\sigma$ is know as the backscattering cross-section. It is also denoted as *RCS*.
 
 # Frequency and Wavelength
 
