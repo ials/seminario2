@@ -5,17 +5,15 @@ title: "🗓️ Week 02 - Practical exercise"
 In this  week, we will follow the ["SAR-based land cover classification tutorial"](http://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf)
 
 
-## 👨‍🏫 Data
+## 👨‍🏫 Tutorial Dataset 
 
-### The data used in this tutorial can be downloaded either from 
+### Two options for downloading it:
 
-#### the [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus) 
+####  [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus) 
 
-or from
+#### [Alaska Satellite Facility](https://search.asf.alaska.edu/) 
 
-#### the [Alaska Satellite Facility](https://search.asf.alaska.edu/) 
-
-*In both cases, a registration is required*. 
+*In both cases, you need to register*. 
 
 #### Search and download the following products:
 
@@ -37,7 +35,7 @@ S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09
 
 ![](figures/ASF_downloads.png){width=80%}
 
-![](figures/ASF-Metadata.png){width=80%}
+![](figures/ASF-Metadata.png){width=60%}
 :::
 🎥 
 
