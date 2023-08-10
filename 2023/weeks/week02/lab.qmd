@@ -22,18 +22,23 @@ or from
 S1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D
 S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09
 
-## Copernicus Open Access Hub
+::: {.callout-important collapse=true}
+
+## Search results at Copernicus Open Access Hub
 
 ![](figures/SciHub.png)
 
+:::
 
-## Alaska Satellite Facility
+::: {.callout-important collapse=true}
+## Search results at Alaska Satellite Facility
 
 ![](figures/ASF.png){width=80%}
 
-![](figures/ASF_downloads.png){width=60%}
+![](figures/ASF_downloads.png){width=80%}
 
-
+![](figures/ASF-Metadata.png)
+:::
 🎥 
 
 ## ✍️ Important
@@ -41,10 +46,11 @@ S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09
 🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term
 archive which means that products of older acquisition dates have to be requested first. 
 
+::: {.callout-important collapse=true}
 ![](figures/Sci_CART1.png){width=80%}
 
 ![](figures/Sci_CART2.png){width=40%}
-
+::: 
 
 ## 📚 Recommended Reading
 

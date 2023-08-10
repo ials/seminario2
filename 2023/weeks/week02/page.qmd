@@ -4,15 +4,15 @@ title: "🗓️ Week 02 - Basic concepts of SAR"
 
 ### In this  week, we will review  basic concepts of synthetic aperture radar (SAR):
 
-#### What is "synthetic" about SAR
+##### What is "synthetic" about SAR
 
-#### The Role of Frequency and Wavelength
+##### The Role of Frequency and Wavelength
 
-#### Polarization and Scattering Mechanisms
+##### Polarization and Scattering Mechanisms
 
-#### Geometry of data acquisition
+##### Geometry of data acquisition
 
-#### Spatial resolution
+##### Spatial resolution
 
 ### In addition, We will follow a tutorial in order to classify land cover using SAR data
 
