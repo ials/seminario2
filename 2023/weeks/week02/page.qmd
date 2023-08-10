@@ -2,10 +2,10 @@
 title: "🗓️ Week 02 - Basic concepts of SAR"
 ---
 
-In this  week, we will review  basic concepts of synthetic aperture radar (SAR):
+In this  week, we will review  basic concepts of synthetic aperture radar (SAR).
 
 
-In addition, We will follow a tutorial in order to classify land cover using SAR data
+In addition, we will follow a tutorial to learn how to classify land cover using SAR data.
 
 
 ## 👨‍🏫 Lecture Slides 

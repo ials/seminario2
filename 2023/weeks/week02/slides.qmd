@@ -25,18 +25,54 @@ format:
 
 # Introduction
 
-# What's Synthetic about SAR?
+TBW
+
+# What's RADAR?
+
+Based on the principle of *echolocation*
+
+RAdio Detection and Ranging
+
+# Basic Radar Operation
+
+A pulse of duration $\tau$ travels at the speed of light $c$
+
+The two-way range distance between antena and target is the velocity times the time delay
+
+Thus, the range distance to the target is $R = \frac {c\tau}{2}$
+
+# The Radar Equation
+
+The power leaving the antena ($\P_t$) is shaped by the antenna gain ($G$) and the properties the observed target ($\sigma$), and is reduced by the surface area of a sphere at radius $R$:
+
+$P_t = PtG \frac{\sigma}{\4\piR**2}$
+
+$\sigma$ is know as the backscattering cross-section. It is also denoted as *RCS*.
 
 # Frequency and Wavelength
 
+TBW
+
 # Polarization and scattering
+
+TBW
 
 # Spatial resolution
 
+TBW
+
 # To do before next class 
+
+TBW
 
 ## Read this document
 
+TBW
 
 ## Watch this video
 
+TBW
+
+## Next practial exercise
+
+TBW
