@@ -18,7 +18,7 @@ format: html
 
 (09/08/2023)
 
-- [🗓️ Week 01 lecture material](/2023/weeks/week01/page.qmd) is now available!
+- [🗓️ Week 02 lecture material](/2023/weeks/week02/page.qmd) is now available!
 
 :::
 

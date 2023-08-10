@@ -1,0 +1,31 @@
+---
+title: "🗓️ Week 02 - Basic concepts of SAR"
+---
+
+In this  week, we will review  basic concepts of synthetic aperture radar (SAR):
+- What is "synthetic" about SAR
+- The Role of Frequency and Wavelength
+- Polarization and Scattering Mechanisms
+- Geometry of data acquisition
+- Spatial resolution
+
+## 👨‍🏫 Lecture Slides 
+
+Either click on the slide area below or click [here](slides.qmd) to view it in fullscreen.
+Use your keypad to navigate the slides.
+
+<div class="container" style="position: relative;overflow: hidden;width: 100%;min-height:600px;">
+<iframe src="slides.html" style="position=absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;min-height:600px;"></iframe>
+</div>
+
+🎥 
+
+## ✍️ Coursework
+
+🚧 Come back after the lecture to read the coursework instructions for the week 🚧
+
+
+## 📚 Recommended Reading
+
+- Check the end of slides for the list of references cited in the lecture.
+

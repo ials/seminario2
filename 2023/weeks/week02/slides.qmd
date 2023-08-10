@@ -1,0 +1,42 @@
+---
+subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:1em;'>🗓️ Week 02<br/> SAR Basics</font>"
+author: Ivan Lizarazo(#)
+institute: '[Universidad Nacional de Colombia](#)'
+date: 16 August 2023
+date-meta: 16 August 2023
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+# Introduction
+
+# What's Synthetic about SAR?
+
+# Frequency and Wavelength
+
+# Polarization and scattering
+
+# Spatial resolution
+
+# To do before next class 
+
+## Read this document
+
+
+## Watch this video
+
