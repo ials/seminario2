@@ -17,8 +17,11 @@ Use your keypad to navigate the slides.
 
 ## ✍️ Coursework
 
-🚧 Come back after the lecture to read the coursework instructions for the week 🚧
+🚧 Download the ESA Sentinel Application Platform (SNAP) 🚧
 
+🚧 Follow the Sentinel-1 [SAR basics tutorial](https://step.esa.int/docs/tutorials/S1TBX%20SAR%20Basics%20Tutorial.pdf) 🚧
+
+👨‍🏫  You can download the tutorial dataset from [here](https://donnees-data.asc-csa.gc.ca/users/OpenData_DonneesOuvertes/pub/RADARSAT-2Vancouver/)
 
 ## 📚 Recommended Reading
 
