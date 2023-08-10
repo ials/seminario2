@@ -235,7 +235,7 @@
     "href": "2023/weeks/week02/page.html",
     "title": "🗓️ Week 02 - Basic concepts of SAR",
     "section": "",
-    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR): - What is “synthetic” about SAR - The Role of Frequency and Wavelength - Polarization and Scattering Mechanisms - Geometry of data acquisition - Spatial resolution"
+    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR):\nWhat is “synthetic” about SAR The Role of Frequency and Wavelength Polarization and Scattering Mechanisms Geometry of data acquisition Spatial resolution"
   },
   {
     "objectID": "2023/weeks/week02/page.html#lecture-slides",
@@ -245,11 +245,11 @@
     "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥"
   },
   {
-    "objectID": "2023/weeks/week02/page.html#coursework",
-    "href": "2023/weeks/week02/page.html#coursework",
+    "objectID": "2023/weeks/week02/page.html#practical-exercise",
+    "href": "2023/weeks/week02/page.html#practical-exercise",
     "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧"
+    "section": "Practical exercise",
+    "text": "Practical exercise\nMake sure to download the data in advance as explained here"
   },
   {
     "objectID": "2023/weeks/week02/page.html#recommended-reading",
