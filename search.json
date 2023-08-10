@@ -4,14 +4,21 @@
     "href": "2023/weeks/week02/slides.html#read-this-document",
     "title": "🗓️ Week 02 SAR Basics",
     "section": "Read this document",
-    "text": "Read this document"
+    "text": "Read this document\nTBW"
   },
   {
     "objectID": "2023/weeks/week02/slides.html#watch-this-video",
     "href": "2023/weeks/week02/slides.html#watch-this-video",
     "title": "🗓️ Week 02 SAR Basics",
     "section": "Watch this video",
-    "text": "Watch this video\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "text": "Watch this video\nTBW"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#next-practial-exercise",
+    "href": "2023/weeks/week02/slides.html#next-practial-exercise",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Next practial exercise",
+    "text": "Next practial exercise\nTBW\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
     "objectID": "2023/weeks/week02/lab.html",
@@ -221,7 +228,7 @@
     "href": "2023/weeks/week02/page.html",
     "title": "🗓️ Week 02 - Basic concepts of SAR",
     "section": "",
-    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR):\nIn addition, We will follow a tutorial in order to classify land cover using SAR data"
+    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR).\nIn addition, we will follow a tutorial to learn how to classify land cover using SAR data."
   },
   {
     "objectID": "2023/weeks/week02/page.html#lecture-slides",
