@@ -74,7 +74,7 @@
     "href": "2023/weeks/week01/page.html#coursework",
     "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
     "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Come back after the lecture to read the coursework instructions for the week 🚧"
+    "text": "✍️ Coursework\n🚧 Download the ESA Sentinel Application Platform (SNAP) 🚧\n🚧 Follow the Sentinel-1 SAR basics tutorial 🚧\n👨‍🏫 You can download the tutorial dataset from here"
   },
   {
     "objectID": "2023/weeks/week01/page.html#recommended-reading",
@@ -231,25 +231,18 @@
     "text": "Watch this video\nIn this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.\nSpeaker: Tom Ager (ICEYE)\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
-    "objectID": "2023/weeks/week02/page.html",
-    "href": "2023/weeks/week02/page.html",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "",
-    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR):\nWhat is “synthetic” about SAR The Role of Frequency and Wavelength Polarization and Scattering Mechanisms Geometry of data acquisition Spatial resolution"
-  },
-  {
     "objectID": "2023/weeks/week02/page.html#lecture-slides",
     "href": "2023/weeks/week02/page.html#lecture-slides",
     "title": "🗓️ Week 02 - Basic concepts of SAR",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥"
+    "text": "👨‍🏫 Lecture Slides\nClick here to view it in fullscreen.\n🎥"
   },
   {
     "objectID": "2023/weeks/week02/page.html#practical-exercise",
     "href": "2023/weeks/week02/page.html#practical-exercise",
     "title": "🗓️ Week 02 - Basic concepts of SAR",
     "section": "Practical exercise",
-    "text": "Practical exercise\nMake sure to download the data in advance as explained here"
+    "text": "Practical exercise\nMake sure you download the tutorial data before the class as explained here\n🎥"
   },
   {
     "objectID": "2023/weeks/week02/page.html#recommended-reading",
