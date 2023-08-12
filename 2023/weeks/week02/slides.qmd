@@ -48,10 +48,7 @@ Thus, the range distance to the target is $R = \frac {c\tau}{2}$
 
 # The Radar Equation
 
-The power scattered by the target ($Pt$) is  proportional to the power leaving the antena ($P$)  shaped by the antenna gain ($G$) and  reduced by the ratio of backscattering cross-section  ($\sigma$) to the  surface area of a sphere at radius $R$:
-
-$Pt = P * G * \frac{\sigma}{4 * \pi * R**2}$
-
+![](figures/radar_equation.png)
 
 # Frequency and Wavelength
 
@@ -124,22 +121,20 @@ Sentinel-1 | Sentinel-2
 
 ![](figures/table_variables.png)
 
-## Backscatter referemce areas
+## Backscatter reference areas
 
-![](figures/three_variables.png)
+![](figures/back_variables.png)
 
 # To do before next class 
 
-TBW
-
 ## Read this document
 
-TBW
+TBD
 
 ## Watch this video
 
-TBW
+TBD
 
 ## Next practical exercise
 
-TBW
+Crop monitoring with Sentinel-1 data
