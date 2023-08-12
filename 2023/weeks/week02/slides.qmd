@@ -25,13 +25,18 @@ format:
 
 # Introduction
 
-TBW
+Review this image. How do you describe the two correction types?  
+![Alt Text](figures/W2_RTC.gif)
 
 # What's RADAR?
 
 Based on the principle of *echolocation*
 
 RAdio Detection and Ranging
+
+SAR is not just a radar: it is an imaging radar system,
+
+SAR uses an antenna) that is moving as it emits signals and receives the echos
 
 # Basic Radar Operation
 
@@ -50,15 +55,66 @@ $Pt = P * G * \frac{\sigma}{4 * \pi * R**2}$
 
 # Frequency and Wavelength
 
-TBW
+## The wavelengths
+![](figures/radar_wavelengths.png)
+
+## The benefits
+
+![](figures/benefits.png)
+
+## Weather independence
+
+Sentinel-1 | Sentinel-2
+- | - 
+![alt](figures/sentinel1.gif) | ![alt](figures/sentinel2.gif)
+
+## Radar bands
+
+![](figures/radar_bands.png)
+
+## Radar signal penetration
+
+![](figures/penetration.png)
 
 # Polarization and scattering
 
-TBW
+## Electromagnetic waves
+
+![](figures/em_waves.png)
+
+## Polarization
+
+![](figures/polarization.png)
+
+## SAR polarization
+
+![](figures/sar_polarization.png)
+
+## Backscatters
+
+![](figures/scatterers.png)
 
 # Spatial resolution
 
-TBW
+## SAR system
+
+![](figures/sar_system.png)
+
+## Range resolution
+
+![](figures/range_res.png)
+
+## Azimuth resolution
+
+![](figures/azi_res.png)
+
+## Speckle
+
+![](figures/speckle.png)
+
+## Geometric distorsions
+
+![](figures/geometric.png)
 
 # To do before next class 
 
@@ -72,6 +128,6 @@ TBW
 
 TBW
 
-## Next practial exercise
+## Next practical exercise
 
 TBW
