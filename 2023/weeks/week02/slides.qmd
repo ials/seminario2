@@ -94,6 +94,10 @@ Sentinel-1 | Sentinel-2
 
 ![](figures/scatterers.png)
 
+## Relative scattering
+
+![](figures/relative.png)
+
 # Spatial resolution
 
 ## SAR system
