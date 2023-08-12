@@ -56,11 +56,11 @@
     "text": "SAR polarization"
   },
   {
-    "objectID": "2023/weeks/week02/slides.html#backscatters",
-    "href": "2023/weeks/week02/slides.html#backscatters",
+    "objectID": "2023/weeks/week02/slides.html#backscattering",
+    "href": "2023/weeks/week02/slides.html#backscattering",
     "title": "🗓️ Week 02 SAR Basics",
-    "section": "Backscatters",
-    "text": "Backscatters"
+    "section": "Backscattering",
+    "text": "Backscattering"
   },
   {
     "objectID": "2023/weeks/week02/slides.html#relative-scattering",
@@ -103,6 +103,20 @@
     "title": "🗓️ Week 02 SAR Basics",
     "section": "Geometric distorsions",
     "text": "Geometric distorsions"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#backscatter-variables",
+    "href": "2023/weeks/week02/slides.html#backscatter-variables",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscatter variables",
+    "text": "Backscatter variables"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#backscatter-referemce-areas",
+    "href": "2023/weeks/week02/slides.html#backscatter-referemce-areas",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscatter referemce areas",
+    "text": "Backscatter referemce areas"
   },
   {
     "objectID": "2023/weeks/week02/slides.html#read-this-document",
@@ -340,7 +354,7 @@
     "href": "2023/weeks/week02/page.html#lecture-slides",
     "title": "🗓️ Week 02 - Basic concepts of SAR",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to view it in fullscreen."
+    "text": "👨‍🏫 Lecture Slides\nClick here to review Basic SAR Concepts.\nClick here about Sentinel-1 data."
   },
   {
     "objectID": "2023/weeks/week02/page.html#practical-exercise",
