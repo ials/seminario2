@@ -1,19 +1,16 @@
 ---
-title: "🗓️ Week 02 - Basic concepts of SAR"
+title: "🗓️ Week 03 - SAR response of soil and crops"
 ---
 
 In this  week, we will review  basic concepts of synthetic aperture radar (SAR).
 
 
-In addition, we will follow a tutorial to learn how to classify land cover using SAR data.
+In addition, we will follow a tutorial to learn how to classify crop using SAR multitemporal data.
 
 
 ## 👨‍🏫 Lecture Slides 
 
-Click [here](slides.qmd) to review Basic SAR Concepts.
-
-Click [here](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view) about Sentinel-1 data.
-
+Click [here](https://drive.google.com/file/d/15GIAV-TyYZ5NklJYCqq2Ad458RADKDHn/view) to understand the impact of soil and crops on SAR response.
 
 ## Practical exercise
 
