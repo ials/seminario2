@@ -1,5 +1,103 @@
 [
   {
+    "objectID": "2023/weeks/week02/slides.html#the-wavelengths",
+    "href": "2023/weeks/week02/slides.html#the-wavelengths",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "The wavelengths",
+    "text": "The wavelengths"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#the-benefits",
+    "href": "2023/weeks/week02/slides.html#the-benefits",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "The benefits",
+    "text": "The benefits"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#weather-independence",
+    "href": "2023/weeks/week02/slides.html#weather-independence",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Weather independence",
+    "text": "Weather independence\n\n\n\nSentinel-1\nSentinel-2"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#radar-bands",
+    "href": "2023/weeks/week02/slides.html#radar-bands",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar bands",
+    "text": "Radar bands"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#radar-signal-penetration",
+    "href": "2023/weeks/week02/slides.html#radar-signal-penetration",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar signal penetration",
+    "text": "Radar signal penetration"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#electromagnetic-waves",
+    "href": "2023/weeks/week02/slides.html#electromagnetic-waves",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Electromagnetic waves",
+    "text": "Electromagnetic waves"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#polarization",
+    "href": "2023/weeks/week02/slides.html#polarization",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Polarization",
+    "text": "Polarization"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#sar-polarization",
+    "href": "2023/weeks/week02/slides.html#sar-polarization",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "SAR polarization",
+    "text": "SAR polarization"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#backscatters",
+    "href": "2023/weeks/week02/slides.html#backscatters",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscatters",
+    "text": "Backscatters"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#sar-system",
+    "href": "2023/weeks/week02/slides.html#sar-system",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "SAR system",
+    "text": "SAR system"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#range-resolution",
+    "href": "2023/weeks/week02/slides.html#range-resolution",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Range resolution",
+    "text": "Range resolution"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#azimuth-resolution",
+    "href": "2023/weeks/week02/slides.html#azimuth-resolution",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Azimuth resolution",
+    "text": "Azimuth resolution"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#speckle",
+    "href": "2023/weeks/week02/slides.html#speckle",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Speckle",
+    "text": "Speckle"
+  },
+  {
+    "objectID": "2023/weeks/week02/slides.html#geometric-distorsions",
+    "href": "2023/weeks/week02/slides.html#geometric-distorsions",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Geometric distorsions",
+    "text": "Geometric distorsions"
+  },
+  {
     "objectID": "2023/weeks/week02/slides.html#read-this-document",
     "href": "2023/weeks/week02/slides.html#read-this-document",
     "title": "🗓️ Week 02 SAR Basics",
@@ -14,11 +112,11 @@
     "text": "Watch this video\nTBW"
   },
   {
-    "objectID": "2023/weeks/week02/slides.html#next-practial-exercise",
-    "href": "2023/weeks/week02/slides.html#next-practial-exercise",
+    "objectID": "2023/weeks/week02/slides.html#next-practical-exercise",
+    "href": "2023/weeks/week02/slides.html#next-practical-exercise",
     "title": "🗓️ Week 02 SAR Basics",
-    "section": "Next practial exercise",
-    "text": "Next practial exercise\nTBW\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "section": "Next practical exercise",
+    "text": "Next practical exercise\nTBW\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
     "objectID": "2023/weeks/week02/lab.html",
