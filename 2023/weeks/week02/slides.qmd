@@ -129,10 +129,10 @@ Sentinel-1 | Sentinel-2
 
 ## Read this document
 
-TBD
+A layman interpretation guide to L-band and C-band SAR data - CEOS -
 
 ## Watch this video
-See thw world through SAR by Tom Ager - ICEYE -
+See the world through SAR by Tom Ager - ICEYE -
 
 ## Next practical exercise
 
