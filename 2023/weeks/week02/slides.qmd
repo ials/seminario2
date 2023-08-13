@@ -129,10 +129,15 @@ Sentinel-1 | Sentinel-2
 
 ## Read this document
 
-A layman interpretation guide to L-band and C-band SAR data - CEOS -
+[A layman interpretation guide to L-band and C-band SAR data](https://ceos.org/ard/files/Laymans_SAR_Interpretation_Guide_2.0.pdf) 
+
+CEOS (2018) 
 
 ## Watch this video
-See the world through SAR by Tom Ager - ICEYE -
+
+[See the world through SAR](https://www.iceye.com/vos-talk2-video-page) 
+
+Tom Ager - ICEYE -  2023
 
 ## Next practical exercise
 
