@@ -132,8 +132,7 @@ Sentinel-1 | Sentinel-2
 TBD
 
 ## Watch this video
-
-TBD
+See thw world through SAR by Tom Ager - ICEYE -
 
 ## Next practical exercise
 

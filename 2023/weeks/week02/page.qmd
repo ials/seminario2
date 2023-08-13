@@ -12,7 +12,7 @@ In addition, we will follow a tutorial to learn how to classify land cover using
 
 Click [here](slides.qmd) to review Basic SAR Concepts.
 
-Click [here](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view) about Sentinel-1 data.
+Click [here](https://drive.google.com/file/d/1IZB2vHRQwBNZ_WizRMfwdek_m_ts6g6T/view) to know about Sentinel-1 data.
 
 
 ## Practical exercise
