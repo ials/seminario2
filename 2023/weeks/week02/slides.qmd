@@ -27,11 +27,11 @@ format:
 
 Checking homework:
 
-1. Reading
+1. Reading (platform's height)
 
-2. Practical
+2. Practical (visualization)
 
-3. Video
+3. Video (SAR oblique view)
 
 
 # What's RADAR?
