@@ -1,5 +1,397 @@
 [
   {
+    "objectID": "2023/weeks/week03/slides.html#the-wavelengths",
+    "href": "2023/weeks/week03/slides.html#the-wavelengths",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "The wavelengths",
+    "text": "The wavelengths"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#the-benefits",
+    "href": "2023/weeks/week03/slides.html#the-benefits",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "The benefits",
+    "text": "The benefits"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#weather-independence",
+    "href": "2023/weeks/week03/slides.html#weather-independence",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Weather independence",
+    "text": "Weather independence\n\n\n\nSentinel-1\nSentinel-2"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#radar-bands",
+    "href": "2023/weeks/week03/slides.html#radar-bands",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar bands",
+    "text": "Radar bands"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#radar-signal-penetration",
+    "href": "2023/weeks/week03/slides.html#radar-signal-penetration",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Radar signal penetration",
+    "text": "Radar signal penetration"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#electromagnetic-waves",
+    "href": "2023/weeks/week03/slides.html#electromagnetic-waves",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Electromagnetic waves",
+    "text": "Electromagnetic waves"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#polarization",
+    "href": "2023/weeks/week03/slides.html#polarization",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Polarization",
+    "text": "Polarization"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#sar-polarization",
+    "href": "2023/weeks/week03/slides.html#sar-polarization",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "SAR polarization",
+    "text": "SAR polarization"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#backscattering",
+    "href": "2023/weeks/week03/slides.html#backscattering",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscattering",
+    "text": "Backscattering"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#relative-scattering",
+    "href": "2023/weeks/week03/slides.html#relative-scattering",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Relative scattering",
+    "text": "Relative scattering"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#sar-system",
+    "href": "2023/weeks/week03/slides.html#sar-system",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "SAR system",
+    "text": "SAR system"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#range-resolution",
+    "href": "2023/weeks/week03/slides.html#range-resolution",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Range resolution",
+    "text": "Range resolution"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#azimuth-resolution",
+    "href": "2023/weeks/week03/slides.html#azimuth-resolution",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Azimuth resolution",
+    "text": "Azimuth resolution"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#speckle",
+    "href": "2023/weeks/week03/slides.html#speckle",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Speckle",
+    "text": "Speckle"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#geometric-distorsions",
+    "href": "2023/weeks/week03/slides.html#geometric-distorsions",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Geometric distorsions",
+    "text": "Geometric distorsions"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#backscatter-variables",
+    "href": "2023/weeks/week03/slides.html#backscatter-variables",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscatter variables",
+    "text": "Backscatter variables"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#backscatter-referemce-areas",
+    "href": "2023/weeks/week03/slides.html#backscatter-referemce-areas",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Backscatter referemce areas",
+    "text": "Backscatter referemce areas"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#read-this-document",
+    "href": "2023/weeks/week03/slides.html#read-this-document",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Read this document",
+    "text": "Read this document\nTBW"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#watch-this-video",
+    "href": "2023/weeks/week03/slides.html#watch-this-video",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Watch this video",
+    "text": "Watch this video\nTBW"
+  },
+  {
+    "objectID": "2023/weeks/week03/slides.html#next-practical-exercise",
+    "href": "2023/weeks/week03/slides.html#next-practical-exercise",
+    "title": "🗓️ Week 02 SAR Basics",
+    "section": "Next practical exercise",
+    "text": "Next practical exercise\nTBW\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+  },
+  {
+    "objectID": "2023/weeks/week03/lab.html",
+    "href": "2023/weeks/week03/lab.html",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "",
+    "text": "In this week, we will follow the “Crop monitoring with Sentinel-1 data tutorial”:"
+  },
+  {
+    "objectID": "2023/weeks/week03/lab.html#recommended-reading",
+    "href": "2023/weeks/week03/lab.html#recommended-reading",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nTBW"
+  },
+  {
+    "objectID": "2023/weeks/week03/lab.html#recommended-video",
+    "href": "2023/weeks/week03/lab.html#recommended-video",
+    "title": "🗓️ Week 03 - Practical exercise",
+    "section": "📚 Recommended Video",
+    "text": "📚 Recommended Video\n\nTBW"
+  },
+  {
+    "objectID": "2023/weeks/week02/page.html",
+    "href": "2023/weeks/week02/page.html",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "",
+    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR).\nIn addition, we will follow a tutorial to learn how to classify land cover using SAR data."
+  },
+  {
+    "objectID": "2023/weeks/week02/page.html#lecture-slides",
+    "href": "2023/weeks/week02/page.html#lecture-slides",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to review Basic SAR Concepts.\nClick here to know about Sentinel-1 data."
+  },
+  {
+    "objectID": "2023/weeks/week02/page.html#practical-exercise",
+    "href": "2023/weeks/week02/page.html#practical-exercise",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nMake sure you download the tutorial data before the class as explained here"
+  },
+  {
+    "objectID": "2023/weeks/week02/page.html#recommended-reading",
+    "href": "2023/weeks/week02/page.html#recommended-reading",
+    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#your-lecturer",
+    "href": "2023/weeks/week01/slides.html#your-lecturer",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Your lecturer",
+    "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\nmachine and deep learning  Earth observation  Territorial sustainability"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#students",
+    "href": "2023/weeks/week01/slides.html#students",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Students",
+    "text": "Students\nPlease introduce yourselves\n:::"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-1",
+    "href": "2023/weeks/week01/slides.html#statement-1",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 1",
+    "text": "Statement 1\nSatellites measure the reflectance of features on the ground"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-2",
+    "href": "2023/weeks/week01/slides.html#statement-2",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 2",
+    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-3",
+    "href": "2023/weeks/week01/slides.html#statement-3",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 3",
+    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-4",
+    "href": "2023/weeks/week01/slides.html#statement-4",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 4",
+    "text": "Statement 4\nMeasuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change."
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-5",
+    "href": "2023/weeks/week01/slides.html#statement-5",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 5",
+    "text": "Statement 5\nLandsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#statement-6",
+    "href": "2023/weeks/week01/slides.html#statement-6",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Statement 6",
+    "text": "Statement 6\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#basic-python-quiz",
+    "href": "2023/weeks/week01/slides.html#basic-python-quiz",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Basic python quiz",
+    "text": "Basic python quiz\nSolve this simple quiz"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#reading-doing-and-writing",
+    "href": "2023/weeks/week01/slides.html#reading-doing-and-writing",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Reading, doing and writing",
+    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#read-this-document",
+    "href": "2023/weeks/week01/slides.html#read-this-document",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Read this document",
+    "text": "Read this document\nThis chapter focuses on Synthetic Aperture Radar (SAR) data. It provides an introduction to SAR systems and detail how data are acquired, whereas the main parameters are introduced. Radar systems are based on the interaction of the radar emitted and transmitted signals with targets.\nFrery, Wu and Gomez, 2022. SAR Image Analysis— A Computational Statistics Approach with R Code, Data, and Applications"
+  },
+  {
+    "objectID": "2023/weeks/week01/slides.html#watch-this-video",
+    "href": "2023/weeks/week01/slides.html#watch-this-video",
+    "title": "🗓️ Week 01 Introduction",
+    "section": "Watch this video",
+    "text": "Watch this video\nIn this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.\nSpeaker: Tom Ager (ICEYE)\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+  },
+  {
+    "objectID": "2023/syllabus.html",
+    "href": "2023/syllabus.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
+  },
+  {
+    "objectID": "2023/syllabus.html#prerequisitos",
+    "href": "2023/syllabus.html#prerequisitos",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
+  },
+  {
+    "objectID": "2023/syllabus.html#descripción-de-la-asignatura",
+    "href": "2023/syllabus.html#descripción-de-la-asignatura",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nEntender el proceso de percepción remota de la superficie terrestre y su relación con la investigación\nConocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)\nEntender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR\nAplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota\nObtención de habilidades prácticas para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEvaluación de la calidad de productos de percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPARTE 1: Sentinel-1 Toolbox (S1TBX)\nPARTE 2: Python & Jupyter & Google Colaboratory"
+  },
+  {
+    "objectID": "2023/syllabus.html#contenido-detallado",
+    "href": "2023/syllabus.html#contenido-detallado",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "CONTENIDO DETALLADO",
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nPARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\n\n\n\n\n\nSemana 1 – Repaso, Contexto & Conceptos claves\n\n\nSemana 2 - Conceptos básicos de radar\n\n\nSemana 3 - Procesamiento básico de imágenes SAR - SNAP\n\n\nSemana 4 – Propiedades radiativas de suelos y vegetación\n\n\nSemana 5 – Procesamiento básico de imágenes SAR - GEE - JS\n\n\nSemana 6 – Procesamiento básico de imágenes SAR - GEE - Python\n\n\nSemana 7 – Analysis Ready SAR Data\n\n\nSemana 8 – Open Data Cube\n\n\n\n\n\n\n\n\n\n\nPARTE 2 – APRENDIZAJE PROFUNDO (DEEP LEARNING)\n\n\n\n\n\n\nSemana 9 – Fundamentos de Deep Learning (DL)\n\n\nSemana 10 – Redes neuronales convolucionales\n\n\nSemana 11 - Clasificación de imágenes\n\n\nSemana 12 - Segmentación semántica I\n\n\nSemana 13 - Deep Learning for remote sensing\n\n\nSemana 14 - Segmentación semántica II\n\n\nSemana 15 - Aplicaciones DL en vegetación\n\n\nSemana 16 - Aplicaciones DL en recursos hídricos"
+  },
+  {
+    "objectID": "2023/syllabus.html#evaluación-del-curso",
+    "href": "2023/syllabus.html#evaluación-del-curso",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "EVALUACIÓN DEL CURSO:",
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 20 de Septiembre\nExamen 2 - 22 de Noviembre\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 27 de Septiembre\nInforme 2 - 29 de Noviembre"
+  },
+  {
+    "objectID": "2023/syllabus.html#bibliografia",
+    "href": "2023/syllabus.html#bibliografia",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "BIBLIOGRAFIA",
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nUnderstand the physical principles of optical and radar-based remote sensing.\nDistinguish the main steps for SAR images correction.\nApply advanced computational techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2023"
+  },
+  {
+    "objectID": "2023/index.html",
+    "href": "2023/index.html",
+    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
+    "section": "",
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(23/08/2023)\n\n🗓️ Week 03 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
+  },
+  {
+    "objectID": "2023/weeks/week01/page.html",
+    "href": "2023/weeks/week01/page.html",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "",
+    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course."
+  },
+  {
+    "objectID": "2023/weeks/week01/page.html#lecture-slides",
+    "href": "2023/weeks/week01/page.html#lecture-slides",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2023/weeks/week01/page.html#coursework",
+    "href": "2023/weeks/week01/page.html#coursework",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "✍️ Coursework",
+    "text": "✍️ Coursework\n🚧 Download the ESA Sentinel Application Platform (SNAP) 🚧\n🚧 Follow the Sentinel-1 SAR basics tutorial 🚧\n👨‍🏫 You can download the tutorial dataset from here"
+  },
+  {
+    "objectID": "2023/weeks/week01/page.html#recommended-reading",
+    "href": "2023/weeks/week01/page.html#recommended-reading",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
+  },
+  {
+    "objectID": "2023/weeks/week01/page.html#communication",
+    "href": "2023/weeks/week01/page.html#communication",
+    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "section": "📟 Communication",
+    "text": "📟 Communication\n\nIf you feel like it, get to know your peers in the course and organize study groups"
+  },
+  {
+    "objectID": "2023/weeks/week02/lab.html",
+    "href": "2023/weeks/week02/lab.html",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "",
+    "text": "In this week, we will follow the “SAR-based land cover classification tutorial”"
+  },
+  {
+    "objectID": "2023/weeks/week02/lab.html#tutorial-dataset",
+    "href": "2023/weeks/week02/lab.html#tutorial-dataset",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "👨‍🏫 Tutorial Dataset",
+    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
+  },
+  {
+    "objectID": "2023/weeks/week02/lab.html#important",
+    "href": "2023/weeks/week02/lab.html#important",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "✍️ Important",
+    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
+  },
+  {
+    "objectID": "2023/weeks/week02/lab.html#recommended-reading",
+    "href": "2023/weeks/week02/lab.html#recommended-reading",
+    "title": "🗓️ Week 02 - Practical exercise",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
+  },
+  {
     "objectID": "2023/weeks/week02/slides.html#the-wavelengths",
     "href": "2023/weeks/week02/slides.html#the-wavelengths",
     "title": "🗓️ Week 02 SAR Basics",
@@ -147,233 +539,30 @@
     "text": "Next practical exercise\nCrop monitoring with Sentinel-1 data\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
-    "objectID": "2023/weeks/week02/lab.html",
-    "href": "2023/weeks/week02/lab.html",
-    "title": "🗓️ Week 02 - Practical exercise",
+    "objectID": "2023/weeks/week03/page.html",
+    "href": "2023/weeks/week03/page.html",
+    "title": "🗓️ Week 03 - SAR response of soil and crops",
     "section": "",
-    "text": "In this week, we will follow the “SAR-based land cover classification tutorial”"
+    "text": "In this week, we will review how soil and crops influence SAR response.\nIn addition, we will follow a tutorial to learn how to classify crop using SAR multitemporal data."
   },
   {
-    "objectID": "2023/weeks/week02/lab.html#tutorial-dataset",
-    "href": "2023/weeks/week02/lab.html#tutorial-dataset",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "👨‍🏫 Tutorial Dataset",
-    "text": "👨‍🏫 Tutorial Dataset\n\nTwo options for downloading it:\n\nCopernicus Open Access Hub\n\n\nAlaska Satellite Facility\nIn both cases, you need to register.\n\n\nSearch and download the following products:\nS1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09\n\n\n\n\n\n\nSearch results at Copernicus Open Access Hub\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch results at Alaska Satellite Facility\n\n\n\n\n\n\n\n\n\n\n\n🎥"
-  },
-  {
-    "objectID": "2023/weeks/week02/lab.html#important",
-    "href": "2023/weeks/week02/lab.html#important",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "✍️ Important",
-    "text": "✍️ Important\n🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term archive which means that products of older acquisition dates have to be requested first.\n\n\n\n\n\n\nAfter ordering, you have to wait …"
-  },
-  {
-    "objectID": "2023/weeks/week02/lab.html#recommended-reading",
-    "href": "2023/weeks/week02/lab.html#recommended-reading",
-    "title": "🗓️ Week 02 - Practical exercise",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
-  },
-  {
-    "objectID": "2023/weeks/week01/page.html",
-    "href": "2023/weeks/week01/page.html",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "",
-    "text": "In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course."
-  },
-  {
-    "objectID": "2023/weeks/week01/page.html#lecture-slides",
-    "href": "2023/weeks/week01/page.html#lecture-slides",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
+    "objectID": "2023/weeks/week03/page.html#lecture-slides",
+    "href": "2023/weeks/week03/page.html#lecture-slides",
+    "title": "🗓️ Week 03 - SAR response of soil and crops",
     "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nEither click on the slide area below or click here to view it in fullscreen. Use your keypad to navigate the slides.\n\n\n\n\n🎥"
+    "text": "👨‍🏫 Lecture Slides\nClick here to understand the impact of soil and crops on SAR response."
   },
   {
-    "objectID": "2023/weeks/week01/page.html#coursework",
-    "href": "2023/weeks/week01/page.html#coursework",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "✍️ Coursework",
-    "text": "✍️ Coursework\n🚧 Download the ESA Sentinel Application Platform (SNAP) 🚧\n🚧 Follow the Sentinel-1 SAR basics tutorial 🚧\n👨‍🏫 You can download the tutorial dataset from here"
-  },
-  {
-    "objectID": "2023/weeks/week01/page.html#recommended-reading",
-    "href": "2023/weeks/week01/page.html#recommended-reading",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
-  },
-  {
-    "objectID": "2023/weeks/week01/page.html#communication",
-    "href": "2023/weeks/week01/page.html#communication",
-    "title": "🗓️ Week 01 - Introduction, Context & Key Concepts",
-    "section": "📟 Communication",
-    "text": "📟 Communication\n\nIf you feel like it, get to know your peers in the course and organize study groups"
-  },
-  {
-    "objectID": "2023/index.html",
-    "href": "2023/index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Week 02 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "📑 Course Brief\nFocus: the focus of this course is to gain knowledge for developing novel remote sensing analysis workflows.\nHow: reading, learning by doing and writing\n\n\n🎯 Learning Objectives\n\nAppraise the process of image analysis and its relation to research.\nUnderstand the physical principles of optical and radar-based remote sensing.\nDistinguish the main steps for SAR images correction.\nApply advanced computational techniques to obtain thematic information from Earth Observation data.\n\n\nSelect Academic Year/Term:\n 2023"
-  },
-  {
-    "objectID": "2023/syllabus.html",
-    "href": "2023/syllabus.html",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
-  },
-  {
-    "objectID": "2023/syllabus.html#prerequisitos",
-    "href": "2023/syllabus.html#prerequisitos",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
-  },
-  {
-    "objectID": "2023/syllabus.html#descripción-de-la-asignatura",
-    "href": "2023/syllabus.html#descripción-de-la-asignatura",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nEntender el proceso de percepción remota de la superficie terrestre y su relación con la investigación\nConocer los principios físicos de la percepción remota basada en radar de apertura sintética (SAR)\nEntender las características principales de las imágenes y los métodos de corrección radiométrica y geométrica de imágenes SAR\nAplicar métodos y técnicas avanzadas para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota\nObtención de habilidades prácticas para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de la percepción remota\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEvaluación de la calidad de productos de percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPARTE 1: Sentinel-1 Toolbox (S1TBX)\nPARTE 2: Python & Jupyter & Google Colaboratory"
-  },
-  {
-    "objectID": "2023/syllabus.html#contenido-detallado",
-    "href": "2023/syllabus.html#contenido-detallado",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nPARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\n\n\n\n\n\nSemana 1 – Repaso, Contexto & Conceptos claves\n\n\nSemana 2 - Conceptos básicos de radar\n\n\nSemana 3 - Procesamiento básico de imágenes SAR - SNAP\n\n\nSemana 4 – Propiedades radiativas de suelos y vegetación\n\n\nSemana 5 – Procesamiento básico de imágenes SAR - GEE - JS\n\n\nSemana 6 – Procesamiento básico de imágenes SAR - GEE - Python\n\n\nSemana 7 – Analysis Ready SAR Data\n\n\nSemana 8 – Open Data Cube\n\n\n\n\n\n\n\n\n\n\nPARTE 2 – APRENDIZAJE PROFUNDO (DEEP LEARNING)\n\n\n\n\n\n\nSemana 9 – Fundamentos de Deep Learning (DL)\n\n\nSemana 10 – Redes neuronales convolucionales\n\n\nSemana 11 - Clasificación de imágenes\n\n\nSemana 12 - Segmentación semántica I\n\n\nSemana 13 - Deep Learning for remote sensing\n\n\nSemana 14 - Segmentación semántica II\n\n\nSemana 15 - Aplicaciones DL en vegetación\n\n\nSemana 16 - Aplicaciones DL en recursos hídricos"
-  },
-  {
-    "objectID": "2023/syllabus.html#evaluación-del-curso",
-    "href": "2023/syllabus.html#evaluación-del-curso",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 20 de Septiembre\nExamen 2 - 22 de Noviembre\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 27 de Septiembre\nInforme 2 - 29 de Noviembre"
-  },
-  {
-    "objectID": "2023/syllabus.html#bibliografia",
-    "href": "2023/syllabus.html#bibliografia",
-    "title": "2027449 - PERCEPCION REMOTA AVANZADA",
-    "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp."
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#your-lecturer",
-    "href": "2023/weeks/week01/slides.html#your-lecturer",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Your lecturer",
-    "text": "Your lecturer\n\n\n\n\n\nProf. Lizarazo Investigador senior Minciencias Investigador principal SDGnexus Network\n\n\n\n\nPhD in Geography\nMSc in GIScience\nBackground: Civil Engineer\n\nmachine and deep learning  Earth observation  Territorial sustainability"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#students",
-    "href": "2023/weeks/week01/slides.html#students",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Students",
-    "text": "Students\nPlease introduce yourselves\n:::"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#statement-1",
-    "href": "2023/weeks/week01/slides.html#statement-1",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 1",
-    "text": "Statement 1\nSatellites measure the reflectance of features on the ground"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#statement-2",
-    "href": "2023/weeks/week01/slides.html#statement-2",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 2",
-    "text": "Statement 2\nLand cover classification is a simple process of grouping pixels based on spectral properties"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#statement-3",
-    "href": "2023/weeks/week01/slides.html#statement-3",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 3",
-    "text": "Statement 3\nSpectral resolution is the number of bands available from a particular sensor"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#statement-4",
-    "href": "2023/weeks/week01/slides.html#statement-4",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 4",
-    "text": "Statement 4\nMeasuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change."
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#statement-5",
-    "href": "2023/weeks/week01/slides.html#statement-5",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 5",
-    "text": "Statement 5\nLandsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#statement-6",
-    "href": "2023/weeks/week01/slides.html#statement-6",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Statement 6",
-    "text": "Statement 6\nSquare pixels in an image accurately represent a square area on the Earth’s surface"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#basic-python-quiz",
-    "href": "2023/weeks/week01/slides.html#basic-python-quiz",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Basic python quiz",
-    "text": "Basic python quiz\nSolve this simple quiz"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#reading-doing-and-writing",
-    "href": "2023/weeks/week01/slides.html#reading-doing-and-writing",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Reading, doing and writing",
-    "text": "Reading, doing and writing\nA flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#read-this-document",
-    "href": "2023/weeks/week01/slides.html#read-this-document",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Read this document",
-    "text": "Read this document\nThis chapter focuses on Synthetic Aperture Radar (SAR) data. It provides an introduction to SAR systems and detail how data are acquired, whereas the main parameters are introduced. Radar systems are based on the interaction of the radar emitted and transmitted signals with targets.\nFrery, Wu and Gomez, 2022. SAR Image Analysis— A Computational Statistics Approach with R Code, Data, and Applications"
-  },
-  {
-    "objectID": "2023/weeks/week01/slides.html#watch-this-video",
-    "href": "2023/weeks/week01/slides.html#watch-this-video",
-    "title": "🗓️ Week 01 Introduction",
-    "section": "Watch this video",
-    "text": "Watch this video\nIn this talk, the basics of Synthetic Aperture Radar (SAR) are introduced. It starts with an overview of the heritage of SAR and give a clear and comprehensive picture of SAR imaging techniques. You’ll learn how SAR sensors work and what they measure. It explains standard SAR imaging modes and the unique advantages SAR can deliver.\nSpeaker: Tom Ager (ICEYE)\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
-  },
-  {
-    "objectID": "2023/weeks/week02/page.html",
-    "href": "2023/weeks/week02/page.html",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "",
-    "text": "In this week, we will review basic concepts of synthetic aperture radar (SAR).\nIn addition, we will follow a tutorial to learn how to classify land cover using SAR data."
-  },
-  {
-    "objectID": "2023/weeks/week02/page.html#lecture-slides",
-    "href": "2023/weeks/week02/page.html#lecture-slides",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
-    "section": "👨‍🏫 Lecture Slides",
-    "text": "👨‍🏫 Lecture Slides\nClick here to review Basic SAR Concepts.\nClick here to know about Sentinel-1 data."
-  },
-  {
-    "objectID": "2023/weeks/week02/page.html#practical-exercise",
-    "href": "2023/weeks/week02/page.html#practical-exercise",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "objectID": "2023/weeks/week03/page.html#practical-exercise",
+    "href": "2023/weeks/week03/page.html#practical-exercise",
+    "title": "🗓️ Week 03 - SAR response of soil and crops",
     "section": "Practical exercise",
     "text": "Practical exercise\nMake sure you download the tutorial data before the class as explained here"
   },
   {
-    "objectID": "2023/weeks/week02/page.html#recommended-reading",
-    "href": "2023/weeks/week02/page.html#recommended-reading",
-    "title": "🗓️ Week 02 - Basic concepts of SAR",
+    "objectID": "2023/weeks/week03/page.html#recommended-reading",
+    "href": "2023/weeks/week03/page.html#recommended-reading",
+    "title": "🗓️ Week 03 - SAR response of soil and crops",
     "section": "📚 Recommended Reading",
     "text": "📚 Recommended Reading\n\nCheck the end of slides for the list of references cited in the lecture."
   }
