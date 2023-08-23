@@ -2,7 +2,7 @@
 title: "🗓️ Week 03 - SAR response of soil and crops"
 ---
 
-In this  week, we will review  basic concepts of synthetic aperture radar (SAR).
+In this  week, we will review  how soil and crops influence SAR response.
 
 
 In addition, we will follow a tutorial to learn how to classify crop using SAR multitemporal data.

@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(09/08/2023)
+(23/08/2023)
 
-- [🗓️ Week 02 lecture material](/2023/weeks/week02/page.qmd) is now available!
+- [🗓️ Week 03 lecture material](/2023/weeks/week03/page.qmd) is now available!
 
 :::
 
