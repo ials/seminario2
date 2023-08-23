@@ -4,12 +4,12 @@ title: "🗓️ Week 03 - Practical exercise"
 
 In this  week, we will follow the ["Crop monitoring with Sentinel-1 data tutorial"](https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing):
 
-### [Video by Amalia Castro](https://www.youtube.com/watch?v=ZwuCE4D6w-M)
-### [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
-### [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
+#### [Video by Amalia Castro](https://www.youtube.com/watch?v=ZwuCE4D6w-M)
+#### [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
+#### [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
 
-:::
-## Additional resources
+:::{.callout-note collapse=false}
+### Additional resources
 #### [Wicket library for WKT](https://arthur-e.github.io/Wicket/sandbox-gmaps3.html)
 #### [ESA 2019 course](https://eo4society.esa.int/resources/5th-advanced-polarimetry-2019/)
 :::
