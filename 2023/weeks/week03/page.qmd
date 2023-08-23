@@ -14,7 +14,7 @@ Click [here](https://drive.google.com/file/d/15GIAV-TyYZ5NklJYCqq2Ad458RADKDHn/v
 
 ## Practical exercise
 
-**Make sure you  download the tutorial  data before the class as explained [here](lab.qmd)**
+**You can finf the tutorial  material [here](lab.qmd)**
 
 
 ## 📚 Recommended Reading
