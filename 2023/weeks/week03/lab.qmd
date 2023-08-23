@@ -8,7 +8,7 @@ In this  week, we will follow the ["Crop monitoring with Sentinel-1 data tutoria
 #### [Step-by-Step Procedure](https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing)
 #### [Exercise Dataset](https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing)
 
-:::{.callout-note collapse=false}
+:::{.callout-note collapse=true}
 ### Additional resources
 #### [Practical video by Amalia Castro](https://www.youtube.com/watch?v=ZwuCE4D6w-M)
 #### [Wicket library for WKT](https://arthur-e.github.io/Wicket/sandbox-gmaps3.html)
