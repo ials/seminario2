@@ -11,11 +11,11 @@ Click [here](slides.qmd) to view the slides.
 
 ## First report 
 
-Students decide the topic & study area for their first report
+**Students decide the topic & study area for their first report**
 
 ## Practical exercise
 
-**The tutorial  material is [here](lab.qmd)**
+The tutorial  material is [here](lab.qmd)
 
 
 ## 📚 Recommended Reading

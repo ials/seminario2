@@ -25,6 +25,11 @@ format:
 
 # Introduction
 
+The bad news is that microwave remote sensing is a difficult subject.
+...
+The good news is that microwave remote sensing is fascinating.
+
+Ian Woodhouse (2006)
 
 # Radar physics revisited
 
@@ -81,6 +86,31 @@ format:
 
 ![](figures/P-band.png)
 
+## Speckle is not noise
+
+![](figures/speckle.png)
+
+## Speckle ...
+
+![](figures/speckle2.png)
+
+# Image quality
+
+## Geometry: SAR vs optics
+
+![](figures/geometry1.png)
+
+## Geometry 1
+
+![](figures/geometry2.png)
+
+## Geometry 2
+
+![](figures/geometry3.png)
+## Geometry 3
+
+![](figures/geometry4.png)
+
 # Radiometric and geometric corrections
 
 Describe the effect of each type of correction:  
@@ -91,16 +121,16 @@ Describe the effect of each type of correction:
 
 ## Read this document
 
-[A layman interpretation guide to L-band and C-band SAR data](https://ceos.org/ard/files/Laymans_SAR_Interpretation_Guide_2.0.pdf) 
+[Change detection in cities](https://www.groundstation.space/change-detection-in-cities-using-sar-images/) 
 
-CEOS (2018) 
+Gabriela Quintana (2022) 
 
 ## Watch this video
 
-[See the world through SAR](https://www.iceye.com/vos-talk2-video-page) 
+[ICEYE SAR Products](https://www.iceye.com/vos-talk3-video-page) 
 
-Tom Ager - ICEYE -  2023
+Tom Ager (2023)
 
-## Next practical exercise
+## Next week practical exercise
 
-Crop monitoring with Sentinel-1 data
+Change analysis using Sentinel-1 data
