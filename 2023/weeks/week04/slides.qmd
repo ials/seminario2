@@ -1,0 +1,106 @@
+---
+subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:1em;'>🗓️ Week 04<br/> SAR Basics</font>"
+author: Ivan Lizarazo(#)
+institute: '[Universidad Nacional de Colombia](#)'
+date: 30 August 2023
+date-meta: 30 August 2023
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+# Introduction
+
+
+# Radar physics revisited
+
+## Radar Potential
+
+![](figures/radar_potential.png)
+
+## Radar Features
+
+![](figures/radar_features.png)
+
+## Radar transmission
+
+![](figures/radar_transmision.png)
+
+## The Radar Equation
+
+![](figures/radar_equation2.png)
+
+## Extended targets 
+
+![](figures/radar_sigma.png)
+
+## Extended targets ...
+
+![](figures/radar_sigma2.png)
+
+## Surface scattering
+
+![](figures/roughness1.png)
+
+## Surface scattering ...
+
+![](figures/roughness2.png)
+
+## Volumetric scattering
+
+![](figures/volumetric.png)
+
+## Target penetration
+
+![](figures/penetration.png)
+
+## Sensitivity to biomass
+
+![](figures/biomass.png)
+
+## Penetration depth 
+
+![](figures/X_vs_L.png)
+
+## Penetration depth ...
+
+
+![](figures/P-band.png)
+
+# Radiometric and geometric corrections
+
+Describe the effect of each type of correction:  
+<img src="figures/three_images.gif" width=75% height=75%>
+
+
+# To do before next class 
+
+## Read this document
+
+[A layman interpretation guide to L-band and C-band SAR data](https://ceos.org/ard/files/Laymans_SAR_Interpretation_Guide_2.0.pdf) 
+
+CEOS (2018) 
+
+## Watch this video
+
+[See the world through SAR](https://www.iceye.com/vos-talk2-video-page) 
+
+Tom Ager - ICEYE -  2023
+
+## Next practical exercise
+
+Crop monitoring with Sentinel-1 data
