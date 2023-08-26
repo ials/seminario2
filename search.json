@@ -91,25 +91,60 @@
     "text": "Penetration depth …"
   },
   {
+    "objectID": "2023/weeks/week04/slides.html#speckle-is-not-noise",
+    "href": "2023/weeks/week04/slides.html#speckle-is-not-noise",
+    "title": "🗓️ Week 04 SAR Basics",
+    "section": "Speckle is not noise",
+    "text": "Speckle is not noise"
+  },
+  {
+    "objectID": "2023/weeks/week04/slides.html#speckle",
+    "href": "2023/weeks/week04/slides.html#speckle",
+    "title": "🗓️ Week 04 SAR Basics",
+    "section": "Speckle …",
+    "text": "Speckle …"
+  },
+  {
+    "objectID": "2023/weeks/week04/slides.html#geometry-sar-vs-optics",
+    "href": "2023/weeks/week04/slides.html#geometry-sar-vs-optics",
+    "title": "🗓️ Week 04 SAR Basics",
+    "section": "Geometry: SAR vs optics",
+    "text": "Geometry: SAR vs optics"
+  },
+  {
+    "objectID": "2023/weeks/week04/slides.html#geometry-1",
+    "href": "2023/weeks/week04/slides.html#geometry-1",
+    "title": "🗓️ Week 04 SAR Basics",
+    "section": "Geometry 1",
+    "text": "Geometry 1"
+  },
+  {
+    "objectID": "2023/weeks/week04/slides.html#geometry-2",
+    "href": "2023/weeks/week04/slides.html#geometry-2",
+    "title": "🗓️ Week 04 SAR Basics",
+    "section": "Geometry 2",
+    "text": "Geometry 2\n ## Geometry 3"
+  },
+  {
     "objectID": "2023/weeks/week04/slides.html#read-this-document",
     "href": "2023/weeks/week04/slides.html#read-this-document",
     "title": "🗓️ Week 04 SAR Basics",
     "section": "Read this document",
-    "text": "Read this document\nA layman interpretation guide to L-band and C-band SAR data\nCEOS (2018)"
+    "text": "Read this document\nChange detection in cities\nGabriela Quintana (2022)"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#watch-this-video",
     "href": "2023/weeks/week04/slides.html#watch-this-video",
     "title": "🗓️ Week 04 SAR Basics",
     "section": "Watch this video",
-    "text": "Watch this video\nSee the world through SAR\nTom Ager - ICEYE - 2023"
+    "text": "Watch this video\nICEYE SAR Products\nTom Ager (2023)"
   },
   {
-    "objectID": "2023/weeks/week04/slides.html#next-practical-exercise",
-    "href": "2023/weeks/week04/slides.html#next-practical-exercise",
+    "objectID": "2023/weeks/week04/slides.html#next-week-practical-exercise",
+    "href": "2023/weeks/week04/slides.html#next-week-practical-exercise",
     "title": "🗓️ Week 04 SAR Basics",
-    "section": "Next practical exercise",
-    "text": "Next practical exercise\nCrop monitoring with Sentinel-1 data\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "section": "Next week practical exercise",
+    "text": "Next week practical exercise\nChange analysis using Sentinel-1 data\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
     "objectID": "2023/weeks/week04/lab.html",
