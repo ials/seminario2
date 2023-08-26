@@ -25,11 +25,9 @@ format:
 
 # Introduction
 
-The bad news is that microwave remote sensing is a difficult subject.
-...
-The good news is that microwave remote sensing is fascinating.
+- The bad news is that microwave remote sensing is a difficult subject. The good news is that is fascinating (Ian Woodhouse, 2006)
 
-Ian Woodhouse (2006)
+- Light travels at 186000 miles a second. Any faster would be dangerous (B. Kliban, nd) 
 
 # Radar physics revisited
 
@@ -100,20 +98,22 @@ Ian Woodhouse (2006)
 
 ![](figures/geometry1.png)
 
-## Geometry 1
-
-![](figures/geometry2.png)
-
 ## Geometry 2
 
-![](figures/geometry3.png)
+<img src="figures/geometry2.png" width=75% height=75%>
+
 ## Geometry 3
 
-![](figures/geometry4.png)
+<img src="figures/geometry3.png" width=75% height=75%>
+
+## Geometry 4
+
+<img src="figures/geometry4.png" width=75% height=75%>
 
 # Radiometric and geometric corrections
 
-Describe the effect of each type of correction:  
+## Describe the effect of each type of correction:  
+
 <img src="figures/three_images.gif" width=75% height=75%>
 
 
