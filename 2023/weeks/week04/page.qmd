@@ -21,8 +21,9 @@ The tutorial  material is [here](lab.qmd)
 ## 📚 Recommended Reading
 
 - [Principles, data access, and basic processing techniques]()  (Meyer, 2019)
+- [SAR videos](https://www.iceye.com/blog/iceye-sar-videos-published-technical-insights-and-highlights)
 
 ## 📚 Recommended Video
 
-- []() (Ager, 2023)
+- [ICEYE SAR products](https://www.iceye.com/vos-talk3-video-page) (Ager, 2023)
 
