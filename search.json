@@ -1,164 +1,185 @@
 [
   {
+    "objectID": "2023/weeks/week04/slides.html#bad-news-good-news",
+    "href": "2023/weeks/week04/slides.html#bad-news-good-news",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Bad news … good news",
+    "text": "Bad news … good news\nMicrowave remote sensing is a difficult subject. However, it is fascinating (Woodhouse, 2006)"
+  },
+  {
+    "objectID": "2023/weeks/week04/slides.html#optical-vs-radar-images",
+    "href": "2023/weeks/week04/slides.html#optical-vs-radar-images",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Optical vs radar images",
+    "text": "Optical vs radar images"
+  },
+  {
     "objectID": "2023/weeks/week04/slides.html#radar-potential",
     "href": "2023/weeks/week04/slides.html#radar-potential",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Radar Potential",
     "text": "Radar Potential"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#radar-features",
     "href": "2023/weeks/week04/slides.html#radar-features",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Radar Features",
     "text": "Radar Features"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#radar-transmission",
     "href": "2023/weeks/week04/slides.html#radar-transmission",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Radar transmission",
     "text": "Radar transmission"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#the-radar-equation",
     "href": "2023/weeks/week04/slides.html#the-radar-equation",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "The Radar Equation",
     "text": "The Radar Equation"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#extended-targets",
     "href": "2023/weeks/week04/slides.html#extended-targets",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Extended targets",
     "text": "Extended targets"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#extended-targets-1",
     "href": "2023/weeks/week04/slides.html#extended-targets-1",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Extended targets …",
     "text": "Extended targets …"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#surface-scattering",
     "href": "2023/weeks/week04/slides.html#surface-scattering",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Surface scattering",
     "text": "Surface scattering"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#surface-scattering-1",
     "href": "2023/weeks/week04/slides.html#surface-scattering-1",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Surface scattering …",
     "text": "Surface scattering …"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#volumetric-scattering",
     "href": "2023/weeks/week04/slides.html#volumetric-scattering",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Volumetric scattering",
     "text": "Volumetric scattering"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#target-penetration",
     "href": "2023/weeks/week04/slides.html#target-penetration",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Target penetration",
     "text": "Target penetration"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#sensitivity-to-biomass",
     "href": "2023/weeks/week04/slides.html#sensitivity-to-biomass",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Sensitivity to biomass",
     "text": "Sensitivity to biomass"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#penetration-depth",
     "href": "2023/weeks/week04/slides.html#penetration-depth",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Penetration depth",
     "text": "Penetration depth"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#penetration-depth-1",
     "href": "2023/weeks/week04/slides.html#penetration-depth-1",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Penetration depth …",
     "text": "Penetration depth …"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#speckle-is-not-noise",
     "href": "2023/weeks/week04/slides.html#speckle-is-not-noise",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Speckle is not noise",
     "text": "Speckle is not noise"
   },
   {
-    "objectID": "2023/weeks/week04/slides.html#speckle",
-    "href": "2023/weeks/week04/slides.html#speckle",
-    "title": "🗓️ Week 04 SAR Basics",
-    "section": "Speckle …",
-    "text": "Speckle …"
+    "objectID": "2023/weeks/week04/slides.html#speckle-is-noise",
+    "href": "2023/weeks/week04/slides.html#speckle-is-noise",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Speckle is “noise”",
+    "text": "Speckle is “noise”"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#geometry-sar-vs-optics",
     "href": "2023/weeks/week04/slides.html#geometry-sar-vs-optics",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Geometry: SAR vs optics",
     "text": "Geometry: SAR vs optics"
   },
   {
-    "objectID": "2023/weeks/week04/slides.html#geometry-2",
-    "href": "2023/weeks/week04/slides.html#geometry-2",
-    "title": "🗓️ Week 04 SAR Basics",
-    "section": "Geometry 2",
-    "text": "Geometry 2"
+    "objectID": "2023/weeks/week04/slides.html#foreshortening",
+    "href": "2023/weeks/week04/slides.html#foreshortening",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Foreshortening",
+    "text": "Foreshortening"
   },
   {
-    "objectID": "2023/weeks/week04/slides.html#geometry-3",
-    "href": "2023/weeks/week04/slides.html#geometry-3",
-    "title": "🗓️ Week 04 SAR Basics",
-    "section": "Geometry 3",
-    "text": "Geometry 3"
+    "objectID": "2023/weeks/week04/slides.html#layover",
+    "href": "2023/weeks/week04/slides.html#layover",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Layover",
+    "text": "Layover"
   },
   {
-    "objectID": "2023/weeks/week04/slides.html#geometry-4",
-    "href": "2023/weeks/week04/slides.html#geometry-4",
-    "title": "🗓️ Week 04 SAR Basics",
-    "section": "Geometry 4",
-    "text": "Geometry 4"
+    "objectID": "2023/weeks/week04/slides.html#layover-1",
+    "href": "2023/weeks/week04/slides.html#layover-1",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Layover …",
+    "text": "Layover …"
   },
   {
-    "objectID": "2023/weeks/week04/slides.html#describe-the-effect-of-each-type-of-correction",
-    "href": "2023/weeks/week04/slides.html#describe-the-effect-of-each-type-of-correction",
-    "title": "🗓️ Week 04 SAR Basics",
-    "section": "Describe the effect of each type of correction:",
-    "text": "Describe the effect of each type of correction:"
+    "objectID": "2023/weeks/week04/slides.html#geometric-artifacts",
+    "href": "2023/weeks/week04/slides.html#geometric-artifacts",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "Geometric artifacts",
+    "text": "Geometric artifacts"
+  },
+  {
+    "objectID": "2023/weeks/week04/slides.html#what-is-the-effect-of-each-correction",
+    "href": "2023/weeks/week04/slides.html#what-is-the-effect-of-each-correction",
+    "title": "🗓️ Week 04 SAR Physics",
+    "section": "What is the effect of each correction?",
+    "text": "What is the effect of each correction?"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#read-this-document",
     "href": "2023/weeks/week04/slides.html#read-this-document",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Read this document",
-    "text": "Read this document\nChange detection in cities\nGabriela Quintana (2022)"
+    "text": "Read this document\nGlobal seasonal Sentinel-1 interferometric coherence and backscatter data set\nKellndorfer et al. (2022)"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#watch-this-video",
     "href": "2023/weeks/week04/slides.html#watch-this-video",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Watch this video",
     "text": "Watch this video\nICEYE SAR Products\nTom Ager (2023)"
   },
   {
     "objectID": "2023/weeks/week04/slides.html#next-week-practical-exercise",
     "href": "2023/weeks/week04/slides.html#next-week-practical-exercise",
-    "title": "🗓️ Week 04 SAR Basics",
+    "title": "🗓️ Week 04 SAR Physics",
     "section": "Next week practical exercise",
-    "text": "Next week practical exercise\nChange analysis using Sentinel-1 data\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
+    "text": "Next week practical exercise\nDetecting changes in Sentinel-1 imagery (Mort Canty)\n\n\n\n2027449 – PERCEPCION REMOTA AVANZADA"
   },
   {
     "objectID": "2023/weeks/week04/lab.html",
@@ -417,7 +438,7 @@
     "href": "2023/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(23/08/2023)\n\n🗓️ Week 03 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(28/08/2023)\n\n🗓️ Week 04 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
   },
   {
     "objectID": "index.html",
@@ -760,7 +781,7 @@
     "href": "2023/weeks/week04/page.html#recommended-reading",
     "title": "🗓️ Week 04 - SAR physics revisited",
     "section": "📚 Recommended Reading",
-    "text": "📚 Recommended Reading\n\nPrinciples, data access, and basic processing techniques (Meyer, 2019)\nSAR videos"
+    "text": "📚 Recommended Reading\nGlobal seasonal Sentinel-1 interferometric coherence and backscatter data set"
   },
   {
     "objectID": "2023/weeks/week04/page.html#recommended-video",

@@ -13,7 +13,7 @@
 
   <meta name="author" content="Ivan Lizarazo(#)">
   <meta name="dcterms.date" content="30 August 2023">
-  <title>PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Basics</title>
+  <title>PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Physics</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -322,10 +322,10 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Basics">
+<meta property="og:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Physics">
 <meta property="og:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta property="og:site-name" content="PERCEPCION REMOTA AVANZADA 2023">
-<meta name="twitter:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Basics">
+<meta name="twitter:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Physics">
 <meta name="twitter:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -336,7 +336,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 04<br> SAR Basics</font></h1>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 04<br> SAR Physics</font></h1>
   <p class="subtitle">2027449– PERCEPCION REMOTA AVANZADA</p>
 
 <div class="quarto-title-authors">
@@ -358,19 +358,28 @@ Ivan Lizarazo(#)
 <li><a href="#/introduction" id="/toc-introduction">Introduction</a></li>
 <li><a href="#/radar-physics-revisited" id="/toc-radar-physics-revisited">Radar physics revisited</a></li>
 <li><a href="#/image-quality" id="/toc-image-quality">Image quality</a></li>
+<li><a href="#/shadows" id="/toc-shadows">Shadows</a></li>
 <li><a href="#/radiometric-and-geometric-corrections" id="/toc-radiometric-and-geometric-corrections">Radiometric and geometric corrections</a></li>
 <li><a href="#/to-do-before-next-class" id="/toc-to-do-before-next-class">To do before next class</a></li>
 </ul>
 </nav>
 </section>
+<section>
 <section id="introduction" class="title-slide slide level1">
 <h1>Introduction</h1>
-<ul>
-<li><p>The bad news is that microwave remote sensing is a difficult subject. The good news is that is fascinating (Ian Woodhouse, 2006)</p></li>
-<li><p>Light travels at 186000 miles a second. Any faster would be dangerous (B. Kliban, nd)</p></li>
-</ul>
-</section>
 
+</section>
+<section id="bad-news-good-news" class="slide level2">
+<h2>Bad news … good news</h2>
+<p>Microwave remote sensing is a difficult subject. However, it is fascinating (Woodhouse, 2006)</p>
+<p align="center">
+<img src="figures/scary_planet.png" width="50%" height="50%">
+</p>
+</section>
+<section id="optical-vs-radar-images" class="slide level2">
+<h2>Optical vs radar images</h2>
+
+<img data-src="figures/optical_SAR.png" class="img-fluid r-stretch"></section></section>
 <section>
 <section id="radar-physics-revisited" class="title-slide slide level1">
 <h1>Radar physics revisited</h1>
@@ -431,9 +440,9 @@ Ivan Lizarazo(#)
 <section id="speckle-is-not-noise" class="slide level2">
 <h2>Speckle is not noise</h2>
 
-<img data-src="figures/speckle.png" class="img-fluid r-stretch"></section>
-<section id="speckle" class="slide level2">
-<h2>Speckle …</h2>
+<img data-src="figures/speckle1.png" class="img-fluid r-stretch"></section>
+<section id="speckle-is-noise" class="slide level2">
+<h2>Speckle is “noise”</h2>
 
 <img data-src="figures/speckle2.png" class="img-fluid r-stretch"></section></section>
 <section>
@@ -445,25 +454,34 @@ Ivan Lizarazo(#)
 <h2>Geometry: SAR vs optics</h2>
 
 <img data-src="figures/geometry1.png" class="img-fluid r-stretch"></section>
-<section id="geometry-2" class="slide level2">
-<h2>Geometry 2</h2>
+<section id="foreshortening" class="slide level2">
+<h2>Foreshortening</h2>
 <p><img src="figures/geometry2.png" width="75%" height="75%"></p>
 </section>
-<section id="geometry-3" class="slide level2">
-<h2>Geometry 3</h2>
-<p><img src="figures/geometry3.png" width="75%" height="75%"></p>
+<section id="layover" class="slide level2">
+<h2>Layover</h2>
+<p><img src="figures/layover1.png" width="75%" height="75%"></p>
 </section>
-<section id="geometry-4" class="slide level2">
-<h2>Geometry 4</h2>
+<section id="layover-1" class="slide level2">
+<h2>Layover …</h2>
+<p><img src="figures/layover2.png" width="75%" height="75%"></p>
+</section>
+<section id="geometric-artifacts" class="slide level2">
+<h2>Geometric artifacts</h2>
 <p><img src="figures/geometry4.png" width="75%" height="75%"></p>
 </section></section>
+<section id="shadows" class="title-slide slide level1">
+<h1>Shadows</h1>
+<p><img src="figures/shadows.png" width="75%" height="75%"></p>
+</section>
+
 <section>
 <section id="radiometric-and-geometric-corrections" class="title-slide slide level1">
 <h1>Radiometric and geometric corrections</h1>
 
 </section>
-<section id="describe-the-effect-of-each-type-of-correction" class="slide level2">
-<h2>Describe the effect of each type of correction:</h2>
+<section id="what-is-the-effect-of-each-correction" class="slide level2">
+<h2>What is the effect of each correction?</h2>
 <p><img src="figures/three_images.gif" width="75%" height="75%"></p>
 </section></section>
 <section>
@@ -473,8 +491,8 @@ Ivan Lizarazo(#)
 </section>
 <section id="read-this-document" class="slide level2">
 <h2>Read this document</h2>
-<p><a href="https://www.groundstation.space/change-detection-in-cities-using-sar-images/">Change detection in cities</a></p>
-<p>Gabriela Quintana (2022)</p>
+<p><a href="https://www.nature.com/articles/s41597-022-01189-6">Global seasonal Sentinel-1 interferometric coherence and backscatter data set</a></p>
+<p>Kellndorfer et al.&nbsp;(2022)</p>
 </section>
 <section id="watch-this-video" class="slide level2">
 <h2>Watch this video</h2>
@@ -483,7 +501,7 @@ Ivan Lizarazo(#)
 </section>
 <section id="next-week-practical-exercise" class="slide level2">
 <h2>Next week practical exercise</h2>
-<p>Change analysis using Sentinel-1 data</p>
+<p>Detecting changes in Sentinel-1 imagery (Mort Canty)</p>
 
 
 <img src="../../../figures/icons/ARS-1.png" class="slide-logo r-stretch"><div class="footer footer-default">
