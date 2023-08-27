@@ -20,8 +20,8 @@ The tutorial  material is [here](lab.qmd)
 
 ## 📚 Recommended Reading
 
-- [Principles, data access, and basic processing techniques]()  (Meyer, 2019)
-- [SAR videos](https://www.iceye.com/blog/iceye-sar-videos-published-technical-insights-and-highlights)
+[Global seasonal Sentinel-1 interferometric coherence and backscatter data set](https://www.nature.com/articles/s41597-022-01189-6)
+
 
 ## 📚 Recommended Video
 

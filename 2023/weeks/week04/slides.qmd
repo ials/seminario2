@@ -1,6 +1,6 @@
 ---
 subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
-title: "<font style='font-size:1em;'>🗓️ Week 04<br/> SAR Basics</font>"
+title: "<font style='font-size:1em;'>🗓️ Week 04<br/> SAR Physics</font>"
 author: Ivan Lizarazo(#)
 institute: '[Universidad Nacional de Colombia](#)'
 date: 30 August 2023
@@ -25,9 +25,17 @@ format:
 
 # Introduction
 
-- The bad news is that microwave remote sensing is a difficult subject. The good news is that is fascinating (Ian Woodhouse, 2006)
+## Bad news ... good news
 
-- Light travels at 186000 miles a second. Any faster would be dangerous (B. Kliban, nd) 
+Microwave remote sensing is a difficult subject. However, it is fascinating (Woodhouse, 2006)
+
+<p align="center">
+<img src="figures/scary_planet.png" width=50% height=50%>
+</p>
+
+## Optical vs radar images
+
+![](figures/optical_SAR.png)
 
 # Radar physics revisited
 
@@ -86,9 +94,9 @@ format:
 
 ## Speckle is not noise
 
-![](figures/speckle.png)
+![](figures/speckle1.png)
 
-## Speckle ...
+## Speckle is "noise"
 
 ![](figures/speckle2.png)
 
@@ -98,21 +106,29 @@ format:
 
 ![](figures/geometry1.png)
 
-## Geometry 2
+## Foreshortening
 
 <img src="figures/geometry2.png" width=75% height=75%>
 
-## Geometry 3
+## Layover
 
-<img src="figures/geometry3.png" width=75% height=75%>
+<img src="figures/layover1.png" width=75% height=75%>
 
-## Geometry 4
+## Layover ...
+
+<img src="figures/layover2.png" width=75% height=75%>
+
+## Geometric artifacts
 
 <img src="figures/geometry4.png" width=75% height=75%>
 
+# Shadows
+
+<img src="figures/shadows.png" width=75% height=75%>
+
 # Radiometric and geometric corrections
 
-## Describe the effect of each type of correction:  
+## What is the effect of each correction? 
 
 <img src="figures/three_images.gif" width=75% height=75%>
 
@@ -121,9 +137,11 @@ format:
 
 ## Read this document
 
-[Change detection in cities](https://www.groundstation.space/change-detection-in-cities-using-sar-images/) 
+[Global seasonal Sentinel-1
+interferometric coherence and
+backscatter data set](https://www.nature.com/articles/s41597-022-01189-6) 
 
-Gabriela Quintana (2022) 
+Kellndorfer et al. (2022) 
 
 ## Watch this video
 
@@ -133,4 +151,4 @@ Tom Ager (2023)
 
 ## Next week practical exercise
 
-Change analysis using Sentinel-1 data
+Detecting changes in Sentinel-1 imagery (Mort Canty)
