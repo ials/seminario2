@@ -1,0 +1,20 @@
+---
+title: "🗓️ Week 03 - Practical exercise"
+---
+
+In this  week, we will explore SAR data in GEE: 
+
+
+#### [A presentation on GEE & SAR](https://drive.google.com/file/d/1aFvJBe5gzBsiveuI9PtLnwAcuNa3yVP_/view?usp=sharing)
+
+Make sure you replicate these tutorials with your own data & study area:
+
+#### [GEE - Synthetic Aperture Radar (SAR) Basics](https://developers.google.com/earth-engine/tutorials/community/sar-basics)
+#### [GEE - Sentinel-1 Algorithms](https://developers.google.com/earth-engine/guides/sentinel1)
+
+:::{.callout-note collapse=true}
+### Additional resources
+#### [Working with SAR data in GEE](https://www.gears-lab.com/intro_rs_lab8/)
+:::
+
+🎥 

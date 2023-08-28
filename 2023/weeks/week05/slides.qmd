@@ -137,9 +137,11 @@ Microwave remote sensing is a difficult subject. However, it is fascinating (Woo
 
 ## Read this document
 
-[Angular-Based Radiometric Slope Correction for Sentinel-1 on GEE](https://www.mdpi.com/2072-4292/12/11/1867) 
+[Global seasonal Sentinel-1
+interferometric coherence and
+backscatter data set](https://www.nature.com/articles/s41597-022-01189-6) 
 
-Vollrath et al. (2022) 
+Kellndorfer et al. (2022) 
 
 ## Watch this video
 
