@@ -11,9 +11,9 @@
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.3.450">
 
-  <meta name="author" content="Ivan Lizarazo(#)">
-  <meta name="dcterms.date" content="30 August 2023">
-  <title>PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Physics</title>
+  <meta name="author" content="Ivan Lizarazo">
+  <meta name="dcterms.date" content="6 September 2023">
+  <title>PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 05 SAR workflows</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -322,10 +322,10 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Physics">
+<meta property="og:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 05 SAR workflows">
 <meta property="og:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta property="og:site-name" content="PERCEPCION REMOTA AVANZADA 2023">
-<meta name="twitter:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 04 SAR Physics">
+<meta name="twitter:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 05 SAR workflows">
 <meta name="twitter:description" content="2027449– PERCEPCION REMOTA AVANZADA">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -336,30 +336,28 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block">
-  <h1 class="title"><font style="font-size:1em;">🗓️ Week 04<br> SAR Physics</font></h1>
+  <h1 class="title"><font style="font-size:1em;">🗓️ Week 05<br> SAR workflows</font></h1>
   <p class="subtitle">2027449– PERCEPCION REMOTA AVANZADA</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Ivan Lizarazo(#) 
+Ivan Lizarazo 
 </div>
         <p class="quarto-title-affiliation">
-            <a href="#/">Universidad Nacional de Colombia</a>
+            Universidad Nacional de Colombia
           </p>
     </div>
 </div>
 
-  <p class="date">30 Aug 2023</p>
+  <p class="date">06 Sep 2023</p>
 </section><section id="TOC">
 <nav role="doc-toc"> 
 <h2 id="toc-title">What we will cover today:</h2>
 <ul>
 <li><a href="#/introduction" id="/toc-introduction">Introduction</a></li>
-<li><a href="#/radar-physics-revisited" id="/toc-radar-physics-revisited">Radar physics revisited</a></li>
-<li><a href="#/image-quality" id="/toc-image-quality">Image quality</a></li>
-<li><a href="#/shadows" id="/toc-shadows">Shadows</a></li>
-<li><a href="#/radiometric-and-geometric-corrections" id="/toc-radiometric-and-geometric-corrections">Radiometric and geometric corrections</a></li>
+<li><a href="#/workflow-samples" id="/toc-workflow-samples">Workflow samples</a></li>
+<li><a href="#/a-case-study" id="/toc-a-case-study">A case study</a></li>
 <li><a href="#/to-do-before-next-class" id="/toc-to-do-before-next-class">To do before next class</a></li>
 </ul>
 </nav>
@@ -369,120 +367,100 @@ Ivan Lizarazo(#)
 <h1>Introduction</h1>
 
 </section>
-<section id="bad-news-good-news" class="slide level2">
-<h2>Bad news … good news</h2>
-<p>Microwave remote sensing is a difficult subject. However, it is fascinating (Woodhouse, 2006)</p>
+<section id="the-importance-of-workflows" class="slide level2">
+<h2>The importance of workflows</h2>
 <p align="center">
-<img src="figures/scary_planet.png" width="50%" height="50%">
+<img src="figures/workflows.png" width="500%" height="500%">
 </p>
 </section>
-<section id="optical-vs-radar-images" class="slide level2">
-<h2>Optical vs radar images</h2>
+<section id="the-importance-of-documentation" class="slide level2">
+<h2>The importance of documentation</h2>
 
-<img data-src="figures/optical_SAR.png" class="img-fluid r-stretch"></section></section>
+<img data-src="figures/scratch.png" class="img-fluid r-stretch"></section></section>
 <section>
-<section id="radar-physics-revisited" class="title-slide slide level1">
-<h1>Radar physics revisited</h1>
+<section id="workflow-samples" class="title-slide slide level1">
+<h1>Workflow samples</h1>
 
 </section>
-<section id="radar-potential" class="slide level2">
-<h2>Radar Potential</h2>
-
-<img data-src="figures/radar_potential.png" class="img-fluid r-stretch"></section>
-<section id="radar-features" class="slide level2">
-<h2>Radar Features</h2>
-
-<img data-src="figures/radar_features.png" class="img-fluid r-stretch"></section>
-<section id="radar-transmission" class="slide level2">
-<h2>Radar transmission</h2>
-
-<img data-src="figures/radar_transmision.png" class="img-fluid r-stretch"></section>
-<section id="the-radar-equation" class="slide level2">
-<h2>The Radar Equation</h2>
-
-<img data-src="figures/radar_equation2.png" class="img-fluid r-stretch"></section>
-<section id="extended-targets" class="slide level2">
-<h2>Extended targets</h2>
-
-<img data-src="figures/radar_sigma.png" class="img-fluid r-stretch"></section>
-<section id="extended-targets-1" class="slide level2">
-<h2>Extended targets …</h2>
-
-<img data-src="figures/radar_sigma2.png" class="img-fluid r-stretch"></section>
-<section id="surface-scattering" class="slide level2">
-<h2>Surface scattering</h2>
-
-<img data-src="figures/roughness1.png" class="img-fluid r-stretch"></section>
-<section id="surface-scattering-1" class="slide level2">
-<h2>Surface scattering …</h2>
-
-<img data-src="figures/roughness2.png" class="img-fluid r-stretch"></section>
-<section id="volumetric-scattering" class="slide level2">
-<h2>Volumetric scattering</h2>
-
-<img data-src="figures/volumetric.png" class="img-fluid r-stretch"></section>
-<section id="target-penetration" class="slide level2">
-<h2>Target penetration</h2>
-
-<img data-src="figures/penetration.png" class="img-fluid r-stretch"></section>
-<section id="sensitivity-to-biomass" class="slide level2">
-<h2>Sensitivity to biomass</h2>
-
-<img data-src="figures/biomass.png" class="img-fluid r-stretch"></section>
-<section id="penetration-depth" class="slide level2">
-<h2>Penetration depth</h2>
-
-<img data-src="figures/X_vs_L.png" class="img-fluid r-stretch"></section>
-<section id="penetration-depth-1" class="slide level2">
-<h2>Penetration depth …</h2>
-
-<img data-src="figures/P-band.png" class="img-fluid r-stretch"></section>
-<section id="speckle-is-not-noise" class="slide level2">
-<h2>Speckle is not noise</h2>
-
-<img data-src="figures/speckle1.png" class="img-fluid r-stretch"></section>
-<section id="speckle-is-noise" class="slide level2">
-<h2>Speckle is “noise”</h2>
-
-<img data-src="figures/speckle2.png" class="img-fluid r-stretch"></section></section>
-<section>
-<section id="image-quality" class="title-slide slide level1">
-<h1>Image quality</h1>
-
+<section id="generic-workflow" class="slide level2">
+<h2>Generic workflow</h2>
+<p align="center">
+<img src="figures/sample_workflow.png" width="37%" height="37%">
+</p>
 </section>
-<section id="geometry-sar-vs-optics" class="slide level2">
-<h2>Geometry: SAR vs optics</h2>
-
-<img data-src="figures/geometry1.png" class="img-fluid r-stretch"></section>
-<section id="foreshortening" class="slide level2">
-<h2>Foreshortening</h2>
-<p><img src="figures/geometry2.png" width="75%" height="75%"></p>
+<section id="a-sar-workflow" class="slide level2">
+<h2>A SAR workflow</h2>
+<p align="center">
+<img src="figures/workflow_sample2.png" width="50%" height="50%">
+</p>
 </section>
-<section id="layover" class="slide level2">
-<h2>Layover</h2>
-<p><img src="figures/layover1.png" width="75%" height="75%"></p>
-</section>
-<section id="layover-1" class="slide level2">
-<h2>Layover …</h2>
-<p><img src="figures/layover2.png" width="75%" height="75%"></p>
-</section>
-<section id="geometric-artifacts" class="slide level2">
-<h2>Geometric artifacts</h2>
-<p><img src="figures/geometry4.png" width="75%" height="75%"></p>
+<section id="another-workflow" class="slide level2">
+<h2>Another workflow</h2>
+<p align="center">
+<img src="figures/antoher_workflow.png" width="200%" height="200%">
+</p>
 </section></section>
-<section id="shadows" class="title-slide slide level1">
-<h1>Shadows</h1>
-<p><img src="figures/shadows.png" width="75%" height="75%"></p>
-</section>
-
 <section>
-<section id="radiometric-and-geometric-corrections" class="title-slide slide level1">
-<h1>Radiometric and geometric corrections</h1>
+<section id="a-case-study" class="title-slide slide level1">
+<h1>A case study</h1>
 
 </section>
-<section id="what-is-the-effect-of-each-correction" class="slide level2">
-<h2>What is the effect of each correction?</h2>
-<p><img src="figures/three_images.gif" width="75%" height="75%"></p>
+<section id="burned-area-detection" class="slide level2">
+<h2>Burned area detection</h2>
+<p>A workflow based on Sentinel-1 SAR data and open-source algorithms for unsupervised burned area detection in Mediterranean ecosystems</p>
+<p>Written by De Luca, Silva and Modica (2021).</p>
+</section>
+<section id="de-lucas-paper-aim" class="slide level2">
+<h2>De Luca’s paper aim</h2>
+
+<img data-src="figures/Fire_objective.png" class="img-fluid r-stretch"></section>
+<section id="the-study-area" class="slide level2">
+<h2>The study area</h2>
+
+<img data-src="figures/Portugal.png" class="img-fluid r-stretch"></section>
+<section id="the-data" class="slide level2">
+<h2>The data</h2>
+
+<img data-src="figures/PO-data.png" class="img-fluid r-stretch"></section>
+<section id="the-workflow" class="slide level2">
+<h2>The workflow</h2>
+
+<img data-src="figures/S1_Fire1.png" class="img-fluid r-stretch"></section>
+<section id="the-workflow-1" class="slide level2">
+<h2>The workflow …</h2>
+
+<img data-src="figures/S1_Fire2.png" class="img-fluid r-stretch"></section>
+<section id="the-workflow-2" class="slide level2">
+<h2>The workflow …</h2>
+
+<img data-src="figures/S1_Fire3.png" class="img-fluid r-stretch"></section>
+<section id="the-software" class="slide level2">
+<h2>The software</h2>
+
+<img data-src="figures/Fire_software.png" class="img-fluid r-stretch"></section>
+<section id="the-radar-indices" class="slide level2">
+<h2>The radar indices …</h2>
+
+<img data-src="figures/Fire_S1_indices.png" class="img-fluid r-stretch"></section>
+<section id="the-unsupervised-classification" class="slide level2">
+<h2>The unsupervised classification</h2>
+
+<img data-src="figures/Fire_S1_classes.png" class="img-fluid r-stretch"></section>
+<section id="classes-separation" class="slide level2">
+<h2>Classes separation</h2>
+
+<img data-src="figures/PO-indices-1.png" class="img-fluid r-stretch"></section>
+<section id="classes-separation-1" class="slide level2">
+<h2>Classes separation</h2>
+
+<img data-src="figures/PO-indices-2.png" class="img-fluid r-stretch"></section>
+<section id="thematic-accuracy" class="slide level2">
+<h2>Thematic accuracy</h2>
+
+<img data-src="figures/Fire_accuracy.png" class="img-fluid r-stretch"></section>
+<section id="additional-info" class="slide level2">
+<h2>Additional info</h2>
+<h5 id="the-paper-is-available-here">The paper is available <a href="https://www.tandfonline.com/doi/full/10.1080/15481603.2021.1907896">here</a></h5>
 </section></section>
 <section>
 <section id="to-do-before-next-class" class="title-slide slide level1">
@@ -491,17 +469,17 @@ Ivan Lizarazo(#)
 </section>
 <section id="read-this-document" class="slide level2">
 <h2>Read this document</h2>
-<p><a href="https://www.mdpi.com/2072-4292/12/11/1867">Angular-Based Radiometric Slope Correction for Sentinel-1 on GEE</a></p>
-<p>Vollrath et al.&nbsp;(2022)</p>
+<p><a href="https://www.nature.com/articles/s41597-022-01189-6">Global seasonal Sentinel-1 interferometric coherence and backscatter data set</a></p>
+<p>Kellndorfer et al.&nbsp;(2022)</p>
 </section>
 <section id="watch-this-video" class="slide level2">
 <h2>Watch this video</h2>
-<p><a href="https://www.iceye.com/vos-talk3-video-page">ICEYE SAR Products</a></p>
+<p><a href="https://www.iceye.com/vos-talk4-video-page">Answer pressing questions on our world</a></p>
 <p>Tom Ager (2023)</p>
 </section>
 <section id="next-week-practical-exercise" class="slide level2">
 <h2>Next week practical exercise</h2>
-<p>Preparing Sentinel-1 ARD in GEE (Mullisa, 2021)</p>
+<p><a href="https://developers.google.com/earth-engine/tutorials/community/detecting-changes-in-sentinel-1-imagery-pt-1">Detecting changes in Sentinel-1 imagery</a> (Mort Canty)</p>
 
 
 <img src="../../../figures/icons/ARS-1.png" class="slide-logo r-stretch"><div class="footer footer-default">
