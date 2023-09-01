@@ -149,4 +149,4 @@ Tom Ager (2023)
 
 ## Next week practical exercise
 
-Detecting changes in Sentinel-1 imagery (Mort Canty)
+Preparing Sentinel-1 ARD in GEE (Mullisa, 2021)

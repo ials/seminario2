@@ -1,8 +1,8 @@
 ---
-title: "🗓️ Week 04 - SAR physics revisited"
+title: "🗓️ Week 05 - Sentinel-1 ARD data"
 ---
 
-In this  week, we will refresh basic concepts on SAR physics, define a workflow for radiometric terrain correction and geocoding, and explore Sentinel-1 data in GEE.
+In this  week, we will  learn how to prepare  Sentinel-1 SAR Analysis Ready Data in GEE.
 
 
 ## 👨‍🏫 Lecture Slides 
@@ -11,7 +11,7 @@ Click [here](slides.qmd) to view the slides.
 
 ## First report 
 
-**Students decide the topic & study area for their first report**
+**Students defines the workflow for their first report (and apply it)**
 
 ## Practical exercise
 

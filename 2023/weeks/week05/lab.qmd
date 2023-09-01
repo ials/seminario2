@@ -1,20 +1,42 @@
 ---
-title: "🗓️ Week 03 - Practical exercise"
+title: "🗓️ Week 05 - Practical exercise"
 ---
 
-In this  week, we will explore SAR data in GEE: 
+### Preparing Sentinel-1 Analysis Ready Data in GEE
+
+GEE provides global-scale and analysis-ready earth observation data and the cloud computing infrastructure required for their analysis. 
+For SAR imagery, however, Analysis Ready Data (ARD) is a concept that can vary by application. 
+
+While radiometric terrain normalization is a recommended preprocessing step for most applications, may not be conducted due to the absence of reliable DSMs. The Sentinel-1 SAR data ingested in GEE is limited to thermal noise removals, data calibration, multi-looking, and range-doppler terrain correction.
+
+For a range of applications, it is advantageous to do additional preprocessing steps, such as speckle filtering and radiometric terrain normalization. However, expert knowledge is needed to implement the additional preprocessing steps.
+
+Thus, in order to support additional Sentinel-1 SAR data preprocessing in GEE, Adugna Mellisa et al. (2021) proposed a comprehensive framework for preparing Sentinel-1 SAR backscatter ARD in GEE suitable for a wide range of applications. 
+
+### The Mullisa workflow
+
+The implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.
+
+<p align="center">
+<img src="figures/S1_ARD_GEE.png" width=60% height=60%>
+</p>
 
 
-#### [A presentation on GEE & SAR](https://drive.google.com/file/d/1aFvJBe5gzBsiveuI9PtLnwAcuNa3yVP_/view?usp=sharing)
+### Hands-on exercise
 
-Make sure you replicate these tutorials with your own data & study area:
+The framework is implemented in both GEE Javascript and the Python application programming interface (API).
 
-#### [GEE - Synthetic Aperture Radar (SAR) Basics](https://developers.google.com/earth-engine/tutorials/community/sar-basics)
-#### [GEE - Sentinel-1 Algorithms](https://developers.google.com/earth-engine/guides/sentinel1)
+To use the framework in GEE code editor, go to [this repositorz](https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard) and copy the contents of the *s1_ard.js* script  to your own repository. The path to the preprocessing functions is a public so you don't need to copy them.
+
+When using the Python API, the user should adjust the script path and GEE id to their own path and id before processing.
+ 
+ [Click here to try it](https://code.earthengine.google.com/?accept_repo=users/adugnagirma/gee_s1_ard).
+
 
 :::{.callout-note collapse=true}
 ### Additional resources
-#### [Working with SAR data in GEE](https://www.gears-lab.com/intro_rs_lab8/)
+#### [Mullisa's paper](https://www.mdpi.com/2072-4292/13/10/1954/htm)
+#### [Mullisa's repository](https://github.com/adugnag/gee_s1_ard)
 :::
 
 🎥 
