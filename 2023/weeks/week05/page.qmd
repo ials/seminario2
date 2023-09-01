@@ -25,5 +25,5 @@ The tutorial  material is [here](lab.qmd)
 
 ## 📚 Recommended Video
 
-- [ICEYE SAR products](https://www.iceye.com/vos-talk3-video-page) (Ager, 2023)
+- [Answer pressing questions on our world](https://www.iceye.com/vos-talk4-video-page) (Ager, 2023)
 
