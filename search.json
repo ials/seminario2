@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "2023/weeks/week06/page.html",
+    "href": "2023/weeks/week06/page.html",
+    "title": "🗓️ Week 06 - Sentinel-1 change analysis",
+    "section": "",
+    "text": "In this week, we will learn what is phase coherence and how it can be used for change detection."
+  },
+  {
+    "objectID": "2023/weeks/week06/page.html#lecture-slides",
+    "href": "2023/weeks/week06/page.html#lecture-slides",
+    "title": "🗓️ Week 06 - Sentinel-1 change analysis",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nClick here to view the slides."
+  },
+  {
+    "objectID": "2023/weeks/week06/page.html#first-report",
+    "href": "2023/weeks/week06/page.html#first-report",
+    "title": "🗓️ Week 06 - Sentinel-1 change analysis",
+    "section": "First report",
+    "text": "First report\nStudents continue experimenting and writing their report"
+  },
+  {
+    "objectID": "2023/weeks/week06/page.html#practical-exercise",
+    "href": "2023/weeks/week06/page.html#practical-exercise",
+    "title": "🗓️ Week 06 - Sentinel-1 change analysis",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nThe tutorial material is here"
+  },
+  {
+    "objectID": "2023/weeks/week06/page.html#recommended-reading",
+    "href": "2023/weeks/week06/page.html#recommended-reading",
+    "title": "🗓️ Week 06 - Sentinel-1 change analysis",
+    "section": "📚 Recommended Reading",
+    "text": "📚 Recommended Reading\nTemporal Coherence Changes of Typical Urban Features Based on Sentinel-1A Data"
+  },
+  {
     "objectID": "2023/weeks/week05/slides.html#the-importance-of-workflows",
     "href": "2023/weeks/week05/slides.html#the-importance-of-workflows",
     "title": "🗓️ Week 05 SAR workflows",
@@ -515,7 +550,7 @@
     "href": "2023/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(01/09/2023)\n\n🗓️ Week 05 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(12/09/2023)\n\n🗓 Week 6 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
   },
   {
     "objectID": "2023/weeks/week01/page.html",
@@ -992,5 +1027,12 @@
     "title": "🗓️ Week 05 - Sentinel-1 ARD data",
     "section": "📚 Recommended Video",
     "text": "📚 Recommended Video\n\nAnswer pressing questions on our world (Ager, 2023)"
+  },
+  {
+    "objectID": "2023/weeks/week06/lab.html",
+    "href": "2023/weeks/week06/lab.html",
+    "title": "🗓️ Week 06 - Practical exercise",
+    "section": "",
+    "text": "Coherence change detection using Google Colab\nThe interferometric coherence allows to measure the degree of similarity between 2 SAR images acquired using the same geometry in different times. Hence, the coherence map that generates can be used to analyse changes occurred on the mapped area during the observation period. The Coherence Change Detection uses 2 coherence maps computed using 3 SAR images to analysed the changes between them. The SAR images should be acquired: 2 prior crisis event and 1 posterior to the event. Strong changes observed in short time period are typically related to changes on crop fields and other phenomena, such as natural disasters, but also disasters that could occurred due to anthropogenic causes (i.e. explosions, etc).\nAn ilustrative example of this application is the analysis of the Beirut area affected by the blast occured in its harbor area last 4th August 2019. In red colour the area affected by a significant drop of the coherence values before and after the explosion event.\n\n\n\nThe World Bank GOST workflow\nThe GOST repository provides resources and examples to help you leverage SAR data using Coherence Change Detection using Google Colaboratory environment.\nThere Jupyter Notebooks available available covers the installation of the necessary open tools (i.e. the ESA SentiNel Application Platform), the satellite data download (which requires previous user registration), interferometric coherence computation and post-processing steps, needed in some of the user input parameters, providing finally a Coherence Change map in an exportable webmap or GeoTIFF.\nThe Jupyter Notebooks follow the workflow illustrated below, indicating, when the user input is needed.\n\n\n\nThe implemented framework to get Sentinel-1 ARD includes additional border noise removal, speckle filtering, and radiometric terrain normalization. All the additional preprocessing can be adjusted by the user depending on their specific needs.\n\n\nHands-on exercise\nClick here to get the Jupyter notebook.\n\n\n\n\n\n\nAdditional resource\n\n\n\n\n\nCoherence Change Detection presentation\n\n\n\n🎥"
   }
 ]
