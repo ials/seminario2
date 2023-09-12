@@ -4,17 +4,19 @@ title: "🗓️ Week 06 - Practical exercise"
 
 ### Coherence change detection using Google Colab
 
+#### Author: The WB Global Operational Support Team (GOST)
+
 The interferometric coherence allows to measure the degree of similarity between 2 SAR images acquired using the same geometry in different times. Hence, the coherence map that generates can be used to analyse changes occurred on the mapped area during the observation period. The Coherence Change Detection uses 2 coherence maps computed using 3 SAR images to analysed the changes between them. The SAR images should be acquired: 2 prior crisis event and 1 posterior to the event. Strong changes observed in short time period are typically related to changes on crop fields and other phenomena, such as natural disasters, but also disasters that could occurred due to anthropogenic causes (i.e. explosions, etc).
 
 An ilustrative example of this application is the analysis of the Beirut area affected by the blast occured in its harbor area last 4th August 2019. In red colour the area affected by a significant drop of the coherence values before and after the explosion event.
 
 ![](figures/beirut_blast.png)
 
-### The World Bank GOST workflow
+### The GOST workflow
 
 The GOST repository provides resources and examples to help you leverage SAR data using Coherence Change Detection using Google Colaboratory environment. 
 
-There Jupyter Notebooks available available  covers the installation of the necessary open tools (i.e. the ESA SentiNel Application Platform), the satellite data download (which requires previous user registration), interferometric coherence computation and post-processing steps, needed in some of the user input parameters, providing finally a Coherence Change map in an exportable webmap or GeoTIFF. 
+The available Jupyter Notebooks cover the installation of the necessary open tools (i.e. the ESA SentiNel Application Platform), the satellite data download (which requires previous user registration), interferometric coherence computation and post-processing steps, needed in some of the user input parameters, providing finally a Coherence Change map in an exportable webmap or GeoTIFF. 
 
 The Jupyter Notebooks follow the workflow illustrated below, indicating, when the user input is needed.
 
