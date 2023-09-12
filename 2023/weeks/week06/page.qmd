@@ -1,0 +1,27 @@
+---
+title: "🗓️ Week 06 - Sentinel-1 change analysis"
+---
+
+In this  week, we will  learn what is phase coherence and how it can be used for change detection.
+
+
+## 👨‍🏫 Lecture Slides 
+
+Click [here](https://drive.google.com/file/d/1uNfpHOcIl8FWB5aNZQrj_T7Xm5Rk57Dc/view?usp=drive_link) to view the slides.
+
+
+## First report 
+
+**Students continue experimenting and writing their report**
+
+## Practical exercise
+
+The tutorial  material is [here](lab.qmd)
+
+
+## 📚 Recommended Reading
+
+[Temporal Coherence Changes of Typical Urban Features Based on Sentinel-1A Data](https://sensors.myu-group.co.jp/sm_pdf/SM2431.pdf)
+
+
+
