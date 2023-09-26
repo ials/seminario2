@@ -99,7 +99,7 @@ website:
                text: 💻 Lab Roadmap
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-        - href: 2023/weeks/week08/page.qmd
+         - href: 2023/weeks/week08/page.qmd
            text: Week 08
            contents:
              - href: 2023/weeks/week08/page.qmd
