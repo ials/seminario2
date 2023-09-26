@@ -1,0 +1,23 @@
+---
+title: "🗓️ Week 08 - Getting to know Deep Learning"
+---
+
+In this  week, we will  start to get familiar  with  deep learning (DL) applied to computer vision.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[DL fundamentals](https://drive.google.com/file/d/1YbxlaOzxZ4XIqJHT__8RkefALSxCCyo6/view?usp=sharing).
+
+##  Practical exercise
+
+Make sure you copy the following notebook to your drive and run it *before the next class*:
+[PyTorch fundamentals](https://colab.research.google.com/drive/12w5WCdj4TCdNovRvQr8cNlZSAb3JBHXI?usp=sharing)
+
+
+## 📚 Recommended Video
+
+[¿Qué "es" una Red neuronal? Parte 1](https://www.youtube.com/watch?v=aircAruvnKk&t=23s)
+
+
+
