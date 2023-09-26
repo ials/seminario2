@@ -12,6 +12,7 @@ In this  week, we will  start to get familiar  with  deep learning (DL) applied 
 ##  Practical exercise
 
 Make sure you copy the following notebook to your drive and run it *before the next class*:
+
 [PyTorch fundamentals](https://colab.research.google.com/drive/12w5WCdj4TCdNovRvQr8cNlZSAb3JBHXI?usp=sharing)
 
 
