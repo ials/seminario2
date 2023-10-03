@@ -1,0 +1,139 @@
+---
+subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:1em;'>🗓️ Week 09<br/> An introduction to ANN</font>"
+author: Ivan Lizarazo
+institute: 'Universidad Nacional de Colombia'
+date: 4 October 2023
+date-meta: 4  October 2023
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+
+# Building Blocks: Neurons
+
+<h4 style="text-align: center;">A neuron takes inputs, does some math with them, and produces one output</h4>
+
+
+## Neuronal math
+
+<img src="figures/ANN-1.png" width=70% height=70%>
+
+## The sigmoid function
+
+<img src="figures/sigmoid.png" width=90% height=90%>
+
+## Coding a neuron
+
+<img src="figures/ANN-3.png" width=65% height=65%>
+
+# A neural network
+
+<h4 style="text-align: center;">A neural network is a bunch of neurons connected together</h4>
+
+
+## A simple network
+
+<img src="figures/ANN-4.png" width=90% height=90%>
+
+## Feedforward
+
+<img src="figures/ANN-5.png" width=95% height=95%>
+
+# Train the network
+
+<h4 style="text-align: center;">Training a network = trying to minimize its loss.</h4>
+
+
+## Data & Network
+
+<img src="figures/ANN-6.png" width=90% height=90%>
+
+## Pre-processing
+
+<img src="figures/ANN-7.png" width=90% height=90%>
+
+## Loss function & Backpropagation
+
+<img src="figures/ANN-8.png" width=80% height=80%>
+
+## Stochastic Gradient Descent
+
+<img src="figures/ANN-9.png" width=90% height=90%>
+
+## Gradient descent methods
+
+<img src="figures/gradient_descent.gif" width=65% height=65%>
+
+
+## Training process
+
+<img src="figures/ANN-10.png" width=120% height=120%>
+
+## Coding 1
+
+<img src="figures/ANN-11.png" width=90% height=90%>
+
+## Coding 2
+
+<img src="figures/ANN-12.png" width=90% height=90%>
+
+## Coding 3
+
+<img src="figures/N1.png" width=75% height=75%>
+
+## Coding 4
+
+<img src="figures/N2.png" width=75% height=75%>
+
+## Coding 5
+
+<img src="figures/N3.png" width=70% height=70%>
+
+## Coding 6
+
+<img src="figures/N4.png" width=70% height=70%>
+
+## Coding 7
+
+<img src="figures/N5.png" width=80% height=80%>
+
+
+## Loss vs epochs
+
+<img src="figures/ANN-17.png" width=80% height=80%>
+
+# Make predictions
+
+<img src="figures/ANN-18.png" width=100% height=100%>
+
+# Recap
+
+<img src="figures/ANN-19.png" width=90% height=90%>
+
+## References
+
+<h5 style="text-align: left;">Machine Learning for Beginners: An Introduction to Neural Networks</h5>
+
+https://victorzhou.com/blog/intro-to-neural-networks/
+
+
+<h5 style="text-align: left;">A Visual Explanation of Gradient Descent Methods (Momentum, AdaGrad, RMSProp, Adam)</h5>
+
+https://towardsdatascience.com/a-visual-explanation-of-gradient-descent-methods-momentum-adagrad-rmsprop-adam-f898b102325c
+
+

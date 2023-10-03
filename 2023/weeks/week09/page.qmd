@@ -1,0 +1,24 @@
+---
+title: "🗓️ Week 09 - Artificial Neural Networks"
+---
+
+In this  week, we will  learn how  neural networks work.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[An Introduction to Neural Networks](slides.qmd).
+
+##  Practical exercise
+
+Make sure you save the following notebook in your drive and run it *during this class*:
+
+[Build Your First Neural Network with PyTorch](https://colab.research.google.com/drive/1L27vENpQ6QTrV9O4b8wI_PqlVMZem-Wz?usp=sharing)
+
+
+## 📚 Recommended Video
+
+[¿Qué "es" una Red neuronal? Parte 2](https://www.youtube.com/watch?v=IHZwWFHWa-w&t=12s)
+
+
+
