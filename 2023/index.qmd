@@ -16,9 +16,9 @@ format: html
 ::: {.callout-note collapse=false}
 ## 📢 Important
 
-(03/10/2023)
+(10/10/2023)
 
-- [🗓 Week 9 lecture material](/2023/weeks/week09/page.qmd) is now available!
+- [🗓 Week 10 lecture material](/2023/weeks/week10/page.qmd) is now available!
 
 :::
 
@@ -30,7 +30,7 @@ format: html
 
 
 ![](/figures/people/ials.png){fig-align="left" fig-alt="Photo of IVAN LIZARAZO" style="object-fit: cover;width:6em;height:6em;border-radius: 50%;"}  
-**[IVAN LIZARAZO](#)** <br/>
+**IVAN LIZARAZO** <br/>
 _ASSOCIATE PROFESSOR_ <br/>
 [UNAL](#)</a><br/>
 📧 [ializarazos@unal.edu.co](mailto:)

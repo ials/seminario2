@@ -1,0 +1,24 @@
+---
+title: "🗓️ Week 10 - Convolutional Neural Networks"
+---
+
+In this  week, we will  learn how to build, train, and apply convolutional neural networks (CNNs).
+
+
+## 👨‍🏫 Lecture Slides 
+
+[Convolutional Neural Networks](slides.qmd).
+
+##  Practical exercise
+
+Make sure you save the following notebook in your drive and run it from there *during this class*:
+
+[Build a Convolutional Neural Network with PyTorch](https://colab.research.google.com/drive/1jwnnlRaIgjGURin8_ic4RXcpnJ0VUvG7?usp=sharing)
+
+
+## 📚 Recommended Video
+
+[Training with PyTorch](https://www.youtube.com/watch?v=jF43_wj_DCQ)
+
+
+
