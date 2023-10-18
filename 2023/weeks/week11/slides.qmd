@@ -1,0 +1,196 @@
+---
+subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:0.6em;'>🗓️ Week 11<br/>Deep Learning for Remote Sensing</font>"
+author: Ivan Lizarazo
+institute: 'Universidad Nacional de Colombia'
+date: 16 October 2023
+date-meta: 16  October 2023
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+
+## 
+
+<img src="figures/SEG-0.png" width=160% height=160%>
+
+## 
+
+<img src="figures/SEG-1.png" width=130% height=130%>
+
+## 
+
+<img src="figures/SEG-2.png" width=125% height=125%>
+
+## 
+
+<img src="figures/SEG-3.png" width=130% height=130%>
+
+## 
+
+<img src="figures/SEG-4.png" width=110% height=110%>
+
+
+## 
+
+<img src="figures/SEG-5.png" width=90% height=90%>
+
+## 
+
+<img src="figures/SEG-6.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-7.png" width=100% height=100%>
+
+
+## 
+
+<img src="figures/SEG-8.png" width=100% height=100%>
+
+
+## 
+
+<img src="figures/SEG-9.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-10.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-11.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-12.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-13.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-14.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-15.png" width=100% height=100%>
+
+
+## 
+
+<img src="figures/SEG-16.png" width=100% height=100%>
+
+
+## 
+
+<img src="figures/SEG-17.png" width=100% height=100%>
+
+
+## 
+
+
+<img src="figures/I-01.png" width=100% height=100%>
+
+
+## 
+
+
+<img src="figures/I-02.png" width=100% height=100%>
+
+
+## 
+
+
+<img src="figures/I-03.png" width=100% height=100%>
+
+
+## 
+
+
+<img src="figures/I-04.png" width=100% height=100%>
+
+
+## 
+
+
+<img src="figures/I-05.png" width=100% height=100%>
+
+
+## 
+
+<img src="figures/SEG-18.png" width=100% height=100%>
+
+
+## 
+
+<img src="figures/SEG-19.png" width=100% height=100%>
+
+
+## 
+
+<img src="figures/SEG-20.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-21.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-22.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-23.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-24.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-25.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-27.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-28.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-29.png" width=100% height=100%>
+
+## 
+
+<img src="figures/SEG-30.png" width=100% height=100%>
+
+
+
+
+
+
+
+
+
+
+
+
+

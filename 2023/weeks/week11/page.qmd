@@ -1,0 +1,41 @@
+---
+title: "🗓️ Week 11 - Deep Learning for Remote Sensing"
+---
+
+In this  week, we will understand how to use CNNs for semantic segmentation of remotely sensed images.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[DeepNets for Earth Observation data](slides.qmd).
+
+##  Practical exercise
+
+Make sure you save the following notebook in your drive and run it from there *during this class*:
+
+[Semantic segmentation of aerial images with deep network](https://colab.research.google.com/drive/1cTYz3ZLpMrtQxXOtVDc-3lhn63SN4TrO?usp=sharing)
+
+##  Informe No. 2
+
+::: {.callout-important collapse="true"}
+### Task
+Select one of these choices:
+
+- 1 - Adapt this week notebook to conduct semantic segmentation on your own imagery;
+
+- 2 - Improve the semantic segmentation notebook using other architecture (e.g UNet, DeepLab);
+
+- 3 - Use other DL toolbox to conduct semantic segmentation on your own imagery.
+:::
+
+
+
+### Due date: 22th November at 11:59 pm
+
+## 📚 Recommended Lecture
+
+[Beyond RGB: Very High Resolution Urban Remote
+Sensing With Multimodal Deep Networks](https://drive.google.com/file/d/1Mo94y9TkNZu6WmHycM7weSzyaWfsM16O/view?usp=sharing)
+
+
+
