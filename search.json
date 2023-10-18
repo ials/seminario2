@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "2023/weeks/week11/slides.html#section-34",
+    "href": "2023/weeks/week11/slides.html#section-34",
+    "title": "🗓️ Week 11Deep Learning for Remote Sensing",
+    "section": "",
+    "text": "2027449 – PERCEPCION REMOTA AVANZADA"
+  },
+  {
     "objectID": "2023/weeks/week10/slides.html#section-38",
     "href": "2023/weeks/week10/slides.html#section-38",
     "title": "🗓️ Week 10Convolutional Neural Networks",
@@ -662,7 +669,7 @@
     "href": "2023/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(10/10/2023)\n\n🗓 Week 10 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(16/10/2023)\n\n🗓 Week 11 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
   },
   {
     "objectID": "index.html",
@@ -1265,5 +1272,40 @@
     "title": "🗓️ Week 10 - Convolutional Neural Networks",
     "section": "📚 Recommended Video",
     "text": "📚 Recommended Video\nTraining with PyTorch"
+  },
+  {
+    "objectID": "2023/weeks/week11/page.html",
+    "href": "2023/weeks/week11/page.html",
+    "title": "🗓️ Week 11 - Deep Learning for Remote Sensing",
+    "section": "",
+    "text": "In this week, we will understand how to use CNNs for semantic segmentation of remotely sensed images."
+  },
+  {
+    "objectID": "2023/weeks/week11/page.html#lecture-slides",
+    "href": "2023/weeks/week11/page.html#lecture-slides",
+    "title": "🗓️ Week 11 - Deep Learning for Remote Sensing",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nDeepNets for Earth Observation data."
+  },
+  {
+    "objectID": "2023/weeks/week11/page.html#practical-exercise",
+    "href": "2023/weeks/week11/page.html#practical-exercise",
+    "title": "🗓️ Week 11 - Deep Learning for Remote Sensing",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nMake sure you save the following notebook in your drive and run it from there during this class:\nSemantic segmentation of aerial images with deep network"
+  },
+  {
+    "objectID": "2023/weeks/week11/page.html#informe-no.-2",
+    "href": "2023/weeks/week11/page.html#informe-no.-2",
+    "title": "🗓️ Week 11 - Deep Learning for Remote Sensing",
+    "section": "Informe No. 2",
+    "text": "Informe No. 2\n\n\n\n\n\n\nTask\n\n\n\n\n\nSelect one of these choices:\n\n1 - Adapt this week notebook to conduct semantic segmentation on your own imagery;\n2 - Improve the semantic segmentation notebook using other architecture (e.g UNet, DeepLab);\n3 - Use other DL toolbox to conduct semantic segmentation on your own imagery.\n\n\n\n\n\nDue date: 22th November at 11:59 pm"
+  },
+  {
+    "objectID": "2023/weeks/week11/page.html#recommended-lecture",
+    "href": "2023/weeks/week11/page.html#recommended-lecture",
+    "title": "🗓️ Week 11 - Deep Learning for Remote Sensing",
+    "section": "📚 Recommended Lecture",
+    "text": "📚 Recommended Lecture\nBeyond RGB: Very High Resolution Urban Remote Sensing With Multimodal Deep Networks"
   }
 ]
