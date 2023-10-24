@@ -1,0 +1,22 @@
+---
+title: "🗓️ Week 12 - SegNet for land cover classification"
+---
+
+In this  week, results from a SegNet-based land cover classification will be presented.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[SegNet-based land cover classification in a Paramo](slides.qmd).
+
+##  Practical exercise
+
+You should start *during this class* to work on your Informe No.2 as indicated in the last week.
+
+##  Informe No. 2
+### Due date: 22th November at 11:59 pm
+
+
+
+
+

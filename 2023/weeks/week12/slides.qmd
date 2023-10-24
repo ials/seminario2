@@ -1,0 +1,57 @@
+---
+subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:0.5em;'>🗓️ Week 12<br/>[A SegNet land cover classification](https://drive.google.com/file/d/1bV8UAxo6RVT2XVO4sJOT3_I_IvYLjFPu/view?usp=sharing)</font>"
+author: Ivan Lizarazo
+institute: 'Universidad Nacional de Colombia'
+date: 25 October 2023
+date-meta: 25  October 2023
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: ""
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+## 
+
+<p align="center">
+<img src="figures/NN_training.png" width=47% height=47%>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
