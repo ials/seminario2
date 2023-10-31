@@ -1,8 +1,22 @@
 [
   {
+    "objectID": "2023/weeks/week13/slides.html#section",
+    "href": "2023/weeks/week13/slides.html#section",
+    "title": "🗓️ Week 13UNet based semantic segmentation",
+    "section": "",
+    "text": "2027449 – PERCEPCION REMOTA AVANZADA"
+  },
+  {
     "objectID": "2023/weeks/week12/slides.html#section",
     "href": "2023/weeks/week12/slides.html#section",
     "title": "🗓️ Week 12A SegNet land cover classification",
+    "section": "",
+    "text": "2027449 – PERCEPCION REMOTA AVANZADA"
+  },
+  {
+    "objectID": "2023/weeks/week12/nslides.html#section",
+    "href": "2023/weeks/week12/nslides.html#section",
+    "title": "🗓️ Week 13UNet based semantic segmentation",
     "section": "",
     "text": "2027449 – PERCEPCION REMOTA AVANZADA"
   },
@@ -676,7 +690,7 @@
     "href": "2023/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2023)\n\nNotas Parcial No. 1\nNotas acumuladas a 24.10.2023\n🗓 Week 12 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(31/10/2023)\n\nNotas Parcial No. 1\nNotas acumuladas a 24.10.2023\n🗓 Week 13 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
   },
   {
     "objectID": "index.html",
@@ -1316,6 +1330,34 @@
     "text": "📚 Recommended Lecture\nBeyond RGB: Very High Resolution Urban Remote Sensing With Multimodal Deep Networks"
   },
   {
+    "objectID": "2023/weeks/week12/npage.html",
+    "href": "2023/weeks/week12/npage.html",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
+    "section": "",
+    "text": "In this week, we will know about the UNet architecture for semantic segmentation."
+  },
+  {
+    "objectID": "2023/weeks/week12/npage.html#lecture-slides",
+    "href": "2023/weeks/week12/npage.html#lecture-slides",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nUNet-based semantic segmentation."
+  },
+  {
+    "objectID": "2023/weeks/week12/npage.html#practical-exercise",
+    "href": "2023/weeks/week12/npage.html#practical-exercise",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nStudents continue working on their semantic segmentation experiments for Informe No.2."
+  },
+  {
+    "objectID": "2023/weeks/week12/npage.html#informe-no.-2",
+    "href": "2023/weeks/week12/npage.html#informe-no.-2",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
+    "section": "Informe No. 2",
+    "text": "Informe No. 2\n\nDue date: 22th November at 11:59 pm"
+  },
+  {
     "objectID": "2023/weeks/week12/page.html",
     "href": "2023/weeks/week12/page.html",
     "title": "🗓️ Week 12 - SegNet for land cover classification",
@@ -1340,6 +1382,34 @@
     "objectID": "2023/weeks/week12/page.html#informe-no.-2",
     "href": "2023/weeks/week12/page.html#informe-no.-2",
     "title": "🗓️ Week 12 - SegNet for land cover classification",
+    "section": "Informe No. 2",
+    "text": "Informe No. 2\n\nDue date: 22th November at 11:59 pm"
+  },
+  {
+    "objectID": "2023/weeks/week13/page.html",
+    "href": "2023/weeks/week13/page.html",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
+    "section": "",
+    "text": "In this week, we will know about the UNet architecture for semantic segmentation."
+  },
+  {
+    "objectID": "2023/weeks/week13/page.html#lecture-slides",
+    "href": "2023/weeks/week13/page.html#lecture-slides",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
+    "section": "👨‍🏫 Lecture Slides",
+    "text": "👨‍🏫 Lecture Slides\nUNet-based semantic segmentation."
+  },
+  {
+    "objectID": "2023/weeks/week13/page.html#practical-exercise",
+    "href": "2023/weeks/week13/page.html#practical-exercise",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nStudents continue working on their semantic segmentation experiments for Informe No.2."
+  },
+  {
+    "objectID": "2023/weeks/week13/page.html#informe-no.-2",
+    "href": "2023/weeks/week13/page.html#informe-no.-2",
+    "title": "🗓️ Week 13 - UNet architecture for image segmentation",
     "section": "Informe No. 2",
     "text": "Informe No. 2\n\nDue date: 22th November at 11:59 pm"
   }
