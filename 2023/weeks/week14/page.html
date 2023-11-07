@@ -8,7 +8,7 @@
 
 <meta name="author" content="Ivan Lizarazo">
 
-<title>PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 03 - Practical exercise</title>
+<title>PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 14 - Semantic segmentation review</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,8 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../2023/weeks/week04/page.html" rel="next">
-<link href="../../../2023/weeks/week03/page.html" rel="prev">
+<link href="../../../2023/weeks/week13/page.html" rel="prev">
 <link href="../../../figures/icons/ARS-1.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -67,10 +66,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 03 - Practical exercise">
+<meta property="og:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 14 - Semantic segmentation review">
 <meta property="og:description" content="">
 <meta property="og:site-name" content="PERCEPCION REMOTA AVANZADA 2023">
-<meta name="twitter:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 03 - Practical exercise">
+<meta name="twitter:title" content="PERCEPCION REMOTA AVANZADA 2023 - 🗓️ Week 14 - Semantic segmentation review">
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@<twitter-handle>">
 <meta name="twitter:site" content="\@<twitter-handle>">
@@ -103,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2023/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2023/weeks/week03/page.html">Week 03</a></li><li class="breadcrumb-item"><a href="../../../2023/weeks/week03/lab.html">💻 Lab Roadmap</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2023/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2023/weeks/week14/page.html">Week 14</a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
     </div>
@@ -180,11 +179,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="../../../2023/weeks/week03/page.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Week 03</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../../2023/weeks/week03/page.html" class="sidebar-item-text sidebar-link">
@@ -193,7 +192,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2023/weeks/week03/lab.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../2023/weeks/week03/lab.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">💻 Lab Roadmap</span></a>
   </div>
 </li>
@@ -372,16 +371,16 @@ ul.task-list li input[type="checkbox"] {
   </li>
           <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../../2023/weeks/week14/page.html" class="sidebar-item-text sidebar-link">
+            <a href="../../../2023/weeks/week14/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Week 14</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="" class="collapse list-unstyled sidebar-section depth2 ">  
+      <ul id="" class="collapse list-unstyled sidebar-section depth2 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../2023/weeks/week14/page.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../2023/weeks/week14/page.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">👨‍🏫 Lecture Material</span></a>
   </div>
 </li>
@@ -395,14 +394,25 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
+  <li><a href="#practical-exercise" id="toc-practical-exercise" class="nav-link" data-scroll-target="#practical-exercise">Practical exercise</a></li>
+  <li><a href="#informe-no.-2" id="toc-informe-no.-2" class="nav-link" data-scroll-target="#informe-no.-2">Informe No.&nbsp;2</a>
+  <ul class="collapse">
+  <li><a href="#due-date-22th-november-at-1159-pm" id="toc-due-date-22th-november-at-1159-pm" class="nav-link" data-scroll-target="#due-date-22th-november-at-1159-pm">Due date: 22th November at 11:59 pm</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 03 - Practical exercise</h1>
+<h1 class="title">🗓️ Week 14 - Semantic segmentation review</h1>
 </div>
 
 
@@ -423,39 +433,22 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>In this week, we will follow the <a href="https://drive.google.com/file/d/14MWVTdDC2mEaz7o_jDJS4mLahWNUuoHB/view?usp=sharing">“Crop monitoring with Sentinel-1 data tutorial”</a>:</p>
-<section id="step-by-step-procedure" class="level4">
-<h4 class="anchored" data-anchor-id="step-by-step-procedure"><a href="https://drive.google.com/file/d/19hQucpo2BGxxsZffzGb8-LEQ9NMyrJ4o/view?usp=sharing">Step-by-Step Procedure</a></h4>
+<p>In this week, we will review what is the state-of-art on semantic segmentation.</p>
+<section id="lecture-slides" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
+<p><a href="../../../2023/weeks/week14/slides.html">Semantic segmentation review</a>.</p>
 </section>
-<section id="exercise-dataset" class="level4">
-<h4 class="anchored" data-anchor-id="exercise-dataset"><a href="https://drive.google.com/drive/folders/1XkzW1XBmh_sjxTMnVWrb48VuVwYpuOK0?usp=sharing">Exercise Dataset</a></h4>
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Additional resources
-</div>
-<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
-</div>
-<div id="callout-1" class="callout-1-contents callout-collapse collapse">
-<div class="callout-body-container callout-body">
-<section id="practical-video-by-amalia-castro" class="level4">
-<h4 class="anchored" data-anchor-id="practical-video-by-amalia-castro"><a href="https://www.youtube.com/watch?v=ZwuCE4D6w-M">Practical video by Amalia Castro</a></h4>
+<section id="practical-exercise" class="level2">
+<h2 class="anchored" data-anchor-id="practical-exercise">Practical exercise</h2>
+<p>Students continue working on their semantic segmentation experiments for <em>Informe No.2</em>.</p>
 </section>
-<section id="wicket-library-for-wkt" class="level4">
-<h4 class="anchored" data-anchor-id="wicket-library-for-wkt"><a href="https://arthur-e.github.io/Wicket/sandbox-gmaps3.html">Wicket library for WKT</a></h4>
-</section>
-<section id="esa-2019-course" class="level4">
-<h4 class="anchored" data-anchor-id="esa-2019-course"><a href="https://eo4society.esa.int/resources/5th-advanced-polarimetry-2019/">ESA 2019 course</a></h4>
-</section>
-</div>
-</div>
-</div>
-<p>🎥</p>
+<section id="informe-no.-2" class="level2">
+<h2 class="anchored" data-anchor-id="informe-no.-2">Informe No.&nbsp;2</h2>
+<section id="due-date-22th-november-at-1159-pm" class="level3">
+<h3 class="anchored" data-anchor-id="due-date-22th-november-at-1159-pm">Due date: 22th November at 11:59 pm</h3>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -710,14 +703,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../2023/weeks/week03/page.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 03</span>
+      <a href="../../../2023/weeks/week13/page.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Week 13</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../2023/weeks/week04/page.html" class="pagination-link">
-        <span class="nav-page-text">Week 04</span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
