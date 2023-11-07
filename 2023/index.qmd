@@ -20,7 +20,10 @@ format: html
 
 - [Notas Parcial No. 1](https://drive.google.com/file/d/1L_sNXqoG4MbBSCUs0UDPqFlSPXl__MQc/view?usp=sharing)
 - [Notas acumuladas a 24.10.2023](https://drive.google.com/file/d/184qX84jT2lsjTIgljRBM-cD8j0XiOzTz/view?usp=sharing)
-- [🗓 Week 13 lecture material](/2023/weeks/week13/page.qmd) is now available!
+
+(07/11/2023)
+
+- [🗓 Week 14 lecture material](/2023/weeks/week14/page.qmd) is now available!
 
 :::
 

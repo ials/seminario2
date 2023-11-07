@@ -1,0 +1,22 @@
+---
+title: "🗓️ Week 14 -  Semantic segmentation review"
+---
+
+In this  week, we will review what is the state-of-art on semantic segmentation.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[Semantic segmentation review](slides.qmd).
+
+##  Practical exercise
+
+Students continue working on their semantic segmentation experiments for  *Informe No.2*.
+
+##  Informe No. 2
+### Due date: 22th November at 11:59 pm
+
+
+
+
+
