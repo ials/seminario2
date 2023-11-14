@@ -1,0 +1,22 @@
+---
+title: "🗓️ Week 15 -  Semantic segmentation in remote sensing"
+---
+
+In this  week, we will review what is the state-of-art on semantic segmentation for remote sensing imagery.
+
+
+## 👨‍🏫 Lecture Slides 
+
+[Semantic segmentation in remote sensing](slides.qmd).
+
+##  Practical exercise
+
+Students continue working on their semantic segmentation experiments for  *Informe No.2*.
+
+##  Informe No. 2
+### Due date: 22th November at 11:59 pm
+
+
+
+
+
