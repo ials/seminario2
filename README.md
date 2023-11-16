@@ -181,14 +181,13 @@ Framework & Conceptual Framework](https://medicine.hofstra.edu/pdf/faculty/facde
 ### Semana 13 a 17 de noviembre
 
 - Topics: 
-  - Lecturer explains what to write in chapter 5
+  - Lecturer explains what to write in [results](https://www.sydney.edu.au/students/hdr-research-skills/writing-up-results.html) and [discussion](https://www.sydney.edu.au/students/hdr-research-skills/interpreting-results.html).
 
 - Task:
-  - Edit and proofread your *semester submission* (your chapters 1, 2, 3)
+  - Edit and proofread your *semester submission* (i.e your chapters 1, 2, 3)
   - Make sure your thesis supervisor reviews your submission (and signs it)
-  -	**Send your three chapters before 19 November at 11:59 pm**
 
-**On 20th november, the lecturer send submissions to the jury**
+**Students send their submission to the jury not later than 23th november**
 
 ### Semana 20 a 24 de noviembre
 
