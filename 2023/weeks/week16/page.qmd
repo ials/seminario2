@@ -1,0 +1,24 @@
+---
+title: "🗓️ Week 16 -  Deep Learning applications in remote sensing"
+---
+
+In this  week, our main activity is to learn a few more things about deep learning applications with remote sensing data.
+
+
+## 👨‍🏫 Lecture Video
+
+Make sure you watch this lecture from Earth Lab CU Bolder:
+
+[DL applications in remote sensing](https://www.youtube.com/watch?v=AyFdgWek-v4).
+
+##  Practical exercise
+
+Students continue working on their semantic segmentation experiments for  *Informe No.2*.
+
+##  Informe No. 2
+### Due date: 29th November at 11:59 pm
+
+
+
+
+
