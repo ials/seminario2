@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "2023/weeks/week16/slides.html#section",
+    "href": "2023/weeks/week16/slides.html#section",
+    "title": "🗓️ Week 15Semantic segmentation in remote sensing",
+    "section": "",
+    "text": "2027449 – PERCEPCION REMOTA AVANZADA"
+  },
+  {
     "objectID": "2023/weeks/week15/slides.html#section",
     "href": "2023/weeks/week15/slides.html#section",
     "title": "🗓️ Week 15Semantic segmentation in remote sensing",
@@ -704,7 +711,7 @@
     "href": "2023/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(31/10/2023)\n\nNotas Parcial No. 1\nNotas acumuladas a 24.10.2023\n\n(14/11/2023)\n\n🗓 Week 15 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
+    "text": "📢 Syllabus\n\n\n\n\n\n(09/08/2023)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(31/10/2023)\n\nNotas Parcial No. 1\nNotas acumuladas a 24.10.2023\n\n(22/11/2023)\n\n🗓 Week 16 lecture material is now available!\n\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays morning every fortnight\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
   },
   {
     "objectID": "index.html",
@@ -1482,5 +1489,33 @@
     "title": "🗓️ Week 15 - Semantic segmentation in remote sensing",
     "section": "Informe No. 2",
     "text": "Informe No. 2\n\nDue date: 22th November at 11:59 pm"
+  },
+  {
+    "objectID": "2023/weeks/week16/page.html",
+    "href": "2023/weeks/week16/page.html",
+    "title": "🗓️ Week 16 - Deep Learning applications in remote sensing",
+    "section": "",
+    "text": "In this week, our main activity is to learn a few more things about deep learning applications with remote sensing data."
+  },
+  {
+    "objectID": "2023/weeks/week16/page.html#lecture-video",
+    "href": "2023/weeks/week16/page.html#lecture-video",
+    "title": "🗓️ Week 16 - Deep Learning applications in remote sensing",
+    "section": "👨‍🏫 Lecture Video",
+    "text": "👨‍🏫 Lecture Video\nMake sure you watch this lecture from Earth Lab CU Bolder:\nDL applications in remote sensing."
+  },
+  {
+    "objectID": "2023/weeks/week16/page.html#practical-exercise",
+    "href": "2023/weeks/week16/page.html#practical-exercise",
+    "title": "🗓️ Week 16 - Deep Learning applications in remote sensing",
+    "section": "Practical exercise",
+    "text": "Practical exercise\nStudents continue working on their semantic segmentation experiments for Informe No.2."
+  },
+  {
+    "objectID": "2023/weeks/week16/page.html#informe-no.-2",
+    "href": "2023/weeks/week16/page.html#informe-no.-2",
+    "title": "🗓️ Week 16 - Deep Learning applications in remote sensing",
+    "section": "Informe No. 2",
+    "text": "Informe No. 2\n\nDue date: 29th November at 11:59 pm"
   }
 ]
