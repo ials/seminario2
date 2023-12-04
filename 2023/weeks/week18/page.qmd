@@ -5,10 +5,10 @@ title: "🗓️ Week 18 - Calificaciones"
 
 
 
-## 👨‍🏫 Notas Examen No. 2
+## 👨‍🏫 Notas Informe No. 2 & Examen No. 2
 
 
-<img src="./figures/PRA-INFORME_2.png" height="40%" width="40%"/>
+<img src="./figures/PRA-NOTAS_BLOQUE2.png" height="50%" width="50%"/>
 
 
 
