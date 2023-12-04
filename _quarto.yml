@@ -20,6 +20,7 @@ project:
     - "2023/weeks/week14/*.qmd"
     - "2023/weeks/week15/*.qmd"
     - "2023/weeks/week16/*.qmd"
+    - "2023/weeks/week18/*.qmd"
 
 website:
   title: "PERCEPCION REMOTA AVANZADA 2023"
@@ -167,6 +168,13 @@ website:
            text: Week 16
            contents:
              - href: 2023/weeks/week16/page.qmd
+               text: 👨‍🏫 Lecture Material
+            #  - href: 2023/weeks/week01/appendix.qmd
+            #    text: 🔖 Appendix
+         - href: 2023/weeks/week18/page.qmd
+           text: Week 18
+           contents:
+             - href: 2023/weeks/week18/page.qmd
                text: 👨‍🏫 Lecture Material
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
