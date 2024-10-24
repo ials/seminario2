@@ -1,0 +1,57 @@
+---
+title: "🗓️ Week 02 - Practical exercise"
+---
+
+In this  week, we will follow the ["SAR-based land cover classification tutorial"](http://step.esa.int/docs/tutorials/S1TBX%20Landcover%20classification%20with%20Sentinel-1%20GRD.pdf)
+
+
+## 👨‍🏫 Tutorial Dataset 
+
+### Two options for downloading it:
+
+####  [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus) 
+
+#### [Alaska Satellite Facility](https://search.asf.alaska.edu/) 
+
+*In both cases, you need to register*. 
+
+#### Search and download the following products:
+
+S1A_IW_GRDH_1SDV_20180220T165225_20180220T165250_020693_023723_FB7D
+S1A_IW_GRDH_1SDV_20180726T165231_20180726T165256_022968_027E14_0A09
+
+::: {.callout-important collapse=true}
+
+## Search results at Copernicus Open Access Hub
+
+![](figures/SciHub.png)
+
+:::
+
+::: {.callout-important collapse=true}
+## Search results at Alaska Satellite Facility
+
+![](figures/ASF.png){width=80%}
+
+![](figures/ASF_downloads.png){width=80%}
+
+![](figures/ASF-Metadata.png){width=60%}
+:::
+🎥 
+
+## ✍️ Important
+
+🚧 Since September 2018, the Copernicus Open Access Hub has transitioned into a long-term
+archive which means that products of older acquisition dates have to be requested first. 
+
+::: {.callout-important collapse=true}
+## After ordering, you have to wait ...
+
+![](figures/Sci_CART1.png){width=80%}
+
+![](figures/Sci_CART2.png){width=40%}
+::: 
+
+## 📚 Recommended Reading
+
+- Check the end of slides for the list of references cited in the lecture.

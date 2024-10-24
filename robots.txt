@@ -1,1 +1,1 @@
-Sitemap: https://github.com/ials/ARS/sitemap.xml
+Sitemap: https://ials.github.io/ARS/sitemap.xml
