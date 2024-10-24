@@ -1,1 +1,1 @@
-Sitemap: https://ials.github.io/ARS/sitemap.xml
+Sitemap: https://ials.github.io/seminario2/sitemap.xml
