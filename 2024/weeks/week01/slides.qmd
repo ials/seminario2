@@ -1,0 +1,127 @@
+---
+subtitle: " 2027449-- PERCEPCION REMOTA AVANZADA"
+title: "<font style='font-size:1em;'>🗓️ Week 01<br/> Introduction</font>"
+author: Ivan Lizarazo
+institute: '[Universidad Nacional de Colombia](#)'
+date: 30 Oct 2024
+date-meta: 30 Oct 2024
+date-format: "DD MMM YYYY"
+toc: true
+toc-depth: 1
+toc-title: "What we will cover today:"
+center-title-slide: false
+from: markdown+emoji
+format:
+  revealjs: 
+    fig-responsive: true
+    theme: simple
+    slide-number: true
+    mouse-wheel: false
+    preview-links: auto
+    logo: /figures/icons/ARS-1.png
+    css: /css/styles_slides.css
+    footer: '2027449 -- PERCEPCION REMOTA AVANZADA'
+---
+
+
+# Who are we
+
+## Your lecturer {.smaller}
+
+::: columns
+
+::: {.column style="display:inline-block;width:40%;height:60%;border-radius:1em;margin:1%;padding:1.5%;background-color:#f5f5f5"}
+<figure>
+    <img src="/figures/people/ials.png" alt="Photo of Professor Ivan Lizarazo" role="presentation" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;font-size:1em;" class="img-responsive atto_image_button_text-bottom">
+    <figcaption>
+        <strong>Prof.&nbsp;<span><a href="#" target="_blank" class="external">Lizarazo</a></span></strong> 
+        <br/>Investigador senior Minciencias
+        <br/>Investigador principal SDGnexus Network
+    </figcaption>
+</figure>
+:::
+
+::: {.column style="width:50%;font-size:0.85em;margin-left:3%;"}
+- **PhD in Geography**
+- **MSc in GIScience**
+- **Background**: Civil Engineer 
+
+
+<span class="tag" style="background-color:var(--quarto-hl-st-color)">machine and deep learning</span>
+<br/>
+<span class="tag" style="background-color:var(--quarto-hl-fu-color)">Earth observation</span>
+<br/>
+<span class="tag" style="background-color:var(--quarto-hl-dv-color)">Territorial sustainability</span>
+
+:::
+
+:::
+
+## Students {.smaller}
+
+### Please introduce yourselves
+
+:::
+
+# NASA satellites
+
+Earth Observing Fleet (January 2023)
+
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005061/fleet_2023_jan_1080p60.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
+
+# What we know about remote sensing 
+
+Open your notebook and write down if you agree or not with each of the next statements
+
+## Statement 1
+Satellites measure the reflectance of features on the ground
+
+## Statement 2
+Land cover classification is a simple process of grouping  pixels based on spectral properties 
+
+## Statement 3
+Spectral resolution is the number of bands  available from a particular sensor 
+
+## Statement 4
+Measuring the differences between two land cover maps created from imagery acquired at different times will provide the most reliable estimate of land cover change.
+
+## Statement 5
+Landsat TM imagery is suitable to consistently classify natural vegetation genus and species information with a high level of accuracy
+
+## Statement 6
+Square pixels in an image accurately represent a square area on the Earth's surface
+
+## Atmospheric correction
+
+<p align="center">
+<img src="figs/Jensen_TOA.png" width=60% height=60%>
+</p>
+
+# What we know about Python
+
+## Basic python quiz 
+
+### [Solve this simple quiz](https://pynative.com/basic-python-quiz-for-beginners/)
+
+# Flipped classroom
+
+## Reading, doing and writing
+
+A flipped classroom is structured around the idea that lecture or direct instruction is not the best use of class time. Instead students encounter information before class, freeing class time for activities that involve higher order thinking
+
+# To do before next class 
+
+
+## Do [this Sentinel hub tutorial](https://citizenevidence.org/2023/03/21/summit-series-a-beginners-guide-to-sentinel-hub/) and report your results
+
+## Read [Atmospheric correction for the monitoring of land surfaces (Vermote & Kotchenova)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2007JD009662)
+
+
+
+
