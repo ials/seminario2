@@ -39,8 +39,6 @@ format: html
 
 ::: {.callout-important collapse=true}
 
-## PARTE 1 – RADAR DE APERTURA SINTETICA (SAR)
-
 ### Unidad 0 –   Repaso de percepción remota en el espectro óptico
 
 ### Unidad 1 -  Imágenes térmicas e imágenes hiper-espectrales

@@ -100,7 +100,7 @@ Square pixels in an image accurately represent a square area on the Earth's surf
 ## Atmospheric correction
 
 <p align="center">
-<img src="figs/Jensen_TOA.png" width=60% height=60%>
+<img src="figs/Jensen_TOA.png" width=50% height=50%>
 </p>
 
 # What we know about Python

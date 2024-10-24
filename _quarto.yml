@@ -1,29 +1,15 @@
 project:
   type: "website"
-  title: "PERCEPCION REMOTA AVANZADA 2024"
+  title: "PERCEPCION REMOTA AVANZADA"
   output-dir: _output
   render:
     - "index.qmd"
     - "2024/*.qmd"
     - "2024/weeks/week01/*.qmd"
     #- "2023/weeks/week02/*.qmd"
-    #- "2023/weeks/week03/*.qmd"
-    #- "2023/weeks/week04/*.qmd"
-    #- "2023/weeks/week05/*.qmd"
-    #- "2023/weeks/week06/*.qmd"
-    #- "2023/weeks/week08/*.qmd"
-    #- "2023/weeks/week09/*.qmd"
-    #- "2023/weeks/week10/*.qmd"
-    #- "2023/weeks/week11/*.qmd"
-    #- "2023/weeks/week12/*.qmd"
-    #- "2023/weeks/week13/*.qmd"
-    #- "2023/weeks/week14/*.qmd"
-    #- "2023/weeks/week15/*.qmd"
-    #- "2023/weeks/week16/*.qmd"
-    #- "2023/weeks/week18/*.qmd"
 
 website:
-  title: "PERCEPCION REMOTA AVANZADA 2023"
+  title: "PERCEPCION REMOTA AVANZADA"
   page-navigation: true
   reader-mode: true
   open-graph: true
@@ -37,9 +23,9 @@ website:
   sidebar:
     style: docked
     contents:
-      - href: 2023/index.qmd
+      - href: 2024/index.qmd
         text: "🏠 Home"
-      - href: 2023/syllabus.qmd
+      - href: 2024/syllabus.qmd
         text: "📓 Syllabus"
       # - href: 2023/communication.qmd
       #   text: "📟 Communication"
@@ -63,121 +49,7 @@ website:
             #    text: 💻 Lab Roadmap
             #  - href: 2023/weeks/week01/appendix.qmd
             #    text: 🔖 Appendix
-         - href: 2024/weeks/week02/page.qmd
-           text: Week 02
-           contents:
-             - href: 2024/weeks/week02/page.qmd
-               text: 👨‍🏫 Lecture Material
-             - href: 2023/weeks/week02/lab.qmd
-               text: 💻 Lab Roadmap
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week03/page.qmd
-           text: Week 03
-           contents:
-             - href: 2024/weeks/week03/page.qmd
-               text: 👨‍🏫 Lecture Material
-             - href: 2024/weeks/week03/lab.qmd
-               text: 💻 Lab Roadmap
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week04/page.qmd
-           text: Week 04
-           contents:
-             - href: 2024/weeks/week04/page.qmd
-               text: 👨‍🏫 Lecture Material
-             - href: 2024/weeks/week04/lab.qmd
-               text: 💻 Lab Roadmap
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week05/page.qmd
-           text: Week 05
-           contents:
-             - href: 2024/weeks/week05/page.qmd
-               text: 👨‍🏫 Lecture Material
-             - href: 2024/weeks/week05/lab.qmd
-               text: 💻 Lab Roadmap
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week06/page.qmd
-           text: Week 06
-           contents:
-             - href: 2024/weeks/week06/page.qmd
-               text: 👨‍🏫 Lecture Material
-             - href: 2024/weeks/week06/lab.qmd
-               text: 💻 Lab Roadmap
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week08/page.qmd
-           text: Week 08
-           contents:
-             - href: 2024/weeks/week08/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week09/page.qmd
-           text: Week 09
-           contents:
-             - href: 2024/weeks/week09/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week10/page.qmd
-           text: Week 10
-           contents:
-             - href: 2024/weeks/week10/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week11/page.qmd
-           text: Week 11
-           contents:
-             - href: 2024/weeks/week11/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week12/page.qmd
-           text: Week 12
-           contents:
-             - href: 2024/weeks/week12/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week13/page.qmd
-           text: Week 13
-           contents:
-             - href: 2024/weeks/week13/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week14/page.qmd
-           text: Week 14
-           contents:
-             - href: 2024/weeks/week14/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week15/page.qmd
-           text: Week 15
-           contents:
-             - href: 2024/weeks/week15/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week16/page.qmd
-           text: Week 16
-           contents:
-             - href: 2024/weeks/week16/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
-         - href: 2024/weeks/week18/page.qmd
-           text: Week 18
-           contents:
-             - href: 2024/weeks/week18/page.qmd
-               text: 👨‍🏫 Lecture Material
-            #  - href: 2023/weeks/week01/appendix.qmd
-            #    text: 🔖 Appendix
+
   navbar:
     background: primary
   page-footer:

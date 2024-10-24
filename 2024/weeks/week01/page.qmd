@@ -3,6 +3,7 @@ title: "🗓️ Unit 1 - Refresher on optical remote sensing"
 ---
 
 In this first unit, we will review basic remote sensing concepts:
+
 - Electromagnetic radiation
 - Spatial resolution
 - Spectral resolution
