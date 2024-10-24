@@ -95,42 +95,60 @@
     "href": "2024/syllabus.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2024/syllabus.html#prerequisitos",
     "href": "2024/syllabus.html#prerequisitos",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG"
+    "text": "Aprobación del curso Percepción Remota\nAprobación del curso Programación SIG",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2024/syllabus.html#descripción-de-la-asignatura",
     "href": "2024/syllabus.html#descripción-de-la-asignatura",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "DESCRIPCIÓN DE LA ASIGNATURA:",
-    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nConocer los principios físicos de la percepción remota de radar de apertura sintética (SAR)\nEntender las características principales de las imágenes SAR y los métodos de corrección aplicables\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory"
+    "text": "DESCRIPCIÓN DE LA ASIGNATURA:\n\n\n\n\n\n\nOBJETIVOS:\n\n\n\n\n\n\nProfundizar en tópicos avanzados de percepción remota de la superficie terrestre\nConocer los principios físicos de la percepción remota de radar de apertura sintética (SAR)\nEntender las características principales de las imágenes SAR y los métodos de corrección aplicables\nAplicar métodos y técnicas de deep learning para obtener información temática a partir de imágenes ópticas y SAR\n\n\nCOMPETENCIAS GENÉRICAS:\n\nComprensión de los fundamentos teóricos de la percepción remota de la superficie terrestre\nObtención de habilidades computacionales para seleccionar, procesar y analizar imágenes\nDesarrollo de pensamiento crítico sobre las ventajas y las limitaciones de diferentes técnicas\n\n\n\nCOMPETENCIAS ESPECÍFICAS:\n\nEntendimiento del flujo de trabajo genérico de percepción remota\nAdaptación y creación de scripts para procesamiento y análisis de imágenes\nEntendimiento de los conceptos fundamentales de deep learning aplicado a percepción remota\n\n\n\nMETODOLOGIA:\n\nLectura antes de la clase a cargo del estudiante\nPresentación de conceptos, métodos y técnicas a cargo del profesor\nRealización de ejercicios prácticos y elaboración de reportes técnicos a cargo del estudiante\n\n\n\nSOFTWARE\n\nPython & Jupyter notebooks & Google Colaboratory",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2024/syllabus.html#contenido-detallado",
     "href": "2024/syllabus.html#contenido-detallado",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "CONTENIDO DETALLADO",
-    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nPARTE 1 – RADAR DE APERTURA SINTETICA (SAR)\n\n\n\n\n\n\nUnidad 0 – Repaso de percepción remota en el espectro óptico\n\n\nUnidad 1 - Imágenes térmicas e imágenes hiper-espectrales\n\n\nUnidad 2 - Conceptos básicos de radar de apertura sintética\n\n\nUnidad 3 – Visualización e interpretación de imágenes SAR\n\n\nUnidad 4 – Pre-procesamiento básico de imágenes SAR\n\n\nUnidad 5 – Uso de imágenes SAR en aplicaciones ambientales\n\n\nUnidad 6 – Principios de aprendizaje profundo\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos de observación terrestre"
+    "text": "CONTENIDO DETALLADO\n\n\n\n\n\n\nUnidad 0 – Repaso de percepción remota en el espectro óptico\n\n\n\n\n\n\nUnidad 1 - Imágenes térmicas e imágenes hiper-espectrales\n\n\nUnidad 2 - Conceptos básicos de radar de apertura sintética\n\n\nUnidad 3 – Visualización e interpretación de imágenes SAR\n\n\nUnidad 4 – Pre-procesamiento básico de imágenes SAR\n\n\nUnidad 5 – Uso de imágenes SAR en aplicaciones ambientales\n\n\nUnidad 6 – Principios de aprendizaje profundo\n\n\nUnidad 7 – Segmentación semántica\n\n\nUnidad 8 - Modelos fundamentales para datos de observación terrestre",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2024/syllabus.html#evaluación-del-curso",
     "href": "2024/syllabus.html#evaluación-del-curso",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "EVALUACIÓN DEL CURSO:",
-    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 19 de Diciembre\nExamen 2 - 20 de Enero\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 16 de Enero\nInforme 2 - 27 de Febrero"
+    "text": "EVALUACIÓN DEL CURSO:\n\n\n\n\n\n\nImportant\n\n\n\n\n\n\nPresentación de dos exámenes escritos sobre aspectos teóricos (50%)\n\nExamen 1 - 19 de Diciembre\nExamen 2 - 20 de Enero\n\nEntrega de dos informes técnicos (50%)\n\nInforme 1 - 16 de Enero\nInforme 2 - 27 de Febrero",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "2024/syllabus.html#bibliografia",
     "href": "2024/syllabus.html#bibliografia",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "BIBLIOGRAFIA",
-    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp."
+    "text": "BIBLIOGRAFIA\n\n\n\n\n\n\nImportant\n\n\n\n\n\nChollet, F. Deep Learning with Python [2nd ed.], Manning, 2021. 504 pp.\nDe Grandi, G.D. et al. Spatial Analysis for Radar Remote Sensing of Tropical Forests, CRC Press, 2021. 380pp.\nFlores-Anderson, A.I. et al. The Synthetic Aperture Radar (SAR) Handbook: Comprehensive Methodologies for Forest Monitoring and Biomass Estimation, SERVIR GLOBAL & SilvaCarbon, 2019. 307 pp.\nFrery, A.C. et al. SAR Image Analysis - A Computational Statistics Approach: With R Code, Data, and Applications, Wiley-IEEE Press, 2022. 208 pp.\nKamusoko, C., Optical and SAR Remote Sensing of Urban Areas: A Practical Guide, Springer, 2021. 130 pp.\nMandal, D. et al. Radar Remote Sensing for Crop Biophysical Parameter Estimation, Springer, 2021. 236 pp.\nRaff, E. Inside Deep Learning – Math, Algorithms, Models, Manning, 2022. 565 pp.\nRees, W.G. Physical Principles of Remote Sensing [3rd ed.], Cambridge University Press, 2012. 494 pp.\nRichards, J.A. Remote Sensing Digital Image Analysis Sensing [6th ed.], Springer, 2022. 567 pp.\nSimms, E.L. SAR Image Interpretation for Various Land Covers – A Practical Guide. CRC Press, 2011. 376 pp. \nUstin, S.L., and Middleton E.M. Current and near-term advances in Earth observation for ecological applications. Ecological Processes, 2021, 10:1 Woodhouse, I.H. Introduction to Microwave Remote Sensing, Taylor & Francis, 2022. 370 pp. \nYamaguchi, Y. Polarimetric SAR imaging: theory and applications. CRC Press, 2020. 350 pp.",
+    "crumbs": [
+      "📓 Syllabus"
+    ]
   },
   {
     "objectID": "index.html",
@@ -144,14 +162,17 @@
     "href": "2024/index.html",
     "title": "2027449 - PERCEPCION REMOTA AVANZADA",
     "section": "",
-    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 30 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103"
+    "text": "📢 Syllabus\n\n\n\n\n\n(24/10/2024)\n\n🗓️ Know the syllabus here!\n\n\n\n\n\n\n\n\n\n\n📢 Important\n\n\n\n\n\n(24/10/2024)\nLas clases se inician el 30 de octubre de 2024.\n\n\n\n\n🧑🏻‍🏫 Our Team\n\nCourse ConvenorTeaching Staff\n\n\n\nIVAN LIZARAZO  ASSOCIATE PROFESSOR  UNAL 📧 ializarazos@unal.edu.co ( at )\nOffice Hours:\n\nWhen: Fridays 7:30 am - 9:30 am\nWhere: Oficina 333\nHow to book: via e-mail\n\n\n\nIALS\n\n\n\n\n\n📍 Dates - Location\nWednesdays 2pm-6pm at SALON 103",
+    "crumbs": [
+      "🏠 Home"
+    ]
   },
   {
     "objectID": "2024/weeks/week01/page.html",
     "href": "2024/weeks/week01/page.html",
     "title": "🗓️ Unit 1 - Refresher on optical remote sensing",
     "section": "",
-    "text": "In this first unit, we will review basic remote sensing concepts: - Electromagnetic radiation - Spatial resolution - Spectral resolution - Radiometric corrections - Satellite platforms & sensors",
+    "text": "In this first unit, we will review basic remote sensing concepts:",
     "crumbs": [
       "🗓️ Weeks",
       "Week 01"
